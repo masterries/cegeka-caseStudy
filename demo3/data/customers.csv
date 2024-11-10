@@ -1,0 +1,201 @@
+customer_id,company_name,contact_name,email,phone,address,city,postal_code,country,customer_since,credit_limit,payment_terms,department
+C074fd1fe,Warmer AG,Herr Wolf-Dietrich Klapp B.Eng.,kaestermichelle@jungfer.com,07449 68001,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,Deutschland,2023-05-22,50000.0,Immediate,IT
+Cc8eece15,Gute,Therese Lübs,waltermahmut@junken.net,+49(0)7365 59823,Trübgasse 01,Klötze,27174,Deutschland,2020-11-06,10000.0,Immediate,HR
+Ce17b4857,Weinhage Baum Stiftung & Co. KG,Apostolos Biggen,,,Gudegasse 35,Gerolzhofen,28992,Deutschland,2020-04-10,,Immediate,Produktion
+Ca5f4ad0f,Lange,Adele Blümel B.Eng.,hans-wolfgang12@adolph.net,04449361509,Edith-Killer-Gasse 5/3,Apolda,13347,Deutschland,2022-07-26,25000.0,Net60,Produktion
+C0b362343,Trubin Trapp AG & Co. KGaA,Arnold Dobes,,,Mohauptallee 575,Bayreuth,69313,Deutschland,2021-09-09,,Net60,Einkauf
+C18de9483,Gutknecht Seidel GmbH & Co. OHG,Yasmin Paffrath B.Eng.,,,Änne-Finke-Gasse 846,Böblingen,23001,Deutschland,2023-09-12,,Immediate,HR
+C80d63928,Huhn Löchel GmbH & Co. OHG,Ing. Horst-Günter Jüttner B.Sc.,heinz-walterstolze@reising.com,+49(0)5493884291,Hansjörg-Ring-Allee 8/6,Burglengenfeld,25754,Deutschland,2019-11-17,5000.0,Net45,Produktion
+Ca0780042,Möchlichen Peukert GmbH & Co. KG,Prof. Mattias Römer,vwulf@roskoth.de,07918559862,Knappeplatz 21,Crailsheim,42877,Deutschland,2022-05-08,100000.0,Net45,Einkauf
+C5faf8fa4,Wilmsen AG & Co. KG,Univ.Prof. Josephine Sölzer B.Eng.,h-dieter64@junken.com,02105 87845,Margrafring 4,Eisleben,58853,Deutschland,2021-12-02,25000.0,Immediate,Produktion
+Ccb63ede4,Kitzmann KG,Dennis Preiß,pdrub@bruder.org,+49 (0) 8025 008281,Isabel-Fischer-Gasse 4,Göttingen,82330,Deutschland,2024-06-03,25000.0,Net60,Finanzen
+C3eb6018e,Ruppert Gierschner AG,Ing. Silke Gerlach,,,Ian-Schmiedt-Ring 318,Hechingen,54916,Deutschland,2020-05-13,,Immediate,Einkauf
+C14fe74cd,Röhrdanz,Dipl.-Ing. Suzanne Wende,mnerger@trupp.org,(07263) 11553,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,Deutschland,2020-06-10,100000.0,Net60,HR
+C3a861bec,Trommler,Dajana Heser,aribertkade@groettner.com,(09140) 07432,Keudelstr. 404,Tübingen,80401,Deutschland,2022-02-12,100000.0,Immediate,Produktion
+Ce4454bbe,Hauffer,Irmingard Jessel,wulffsiegrun@maelzer.de,0506056089,Katarzyna-Tschentscher-Gasse 9/2,Büsingen am Hochrhein,10710,Deutschland,2022-09-03,5000.0,Net45,Produktion
+Cb66030de,Vollbrecht Hellwig KG,Swetlana Tschentscher-Atzler,kramermarten@krebs.de,+49(0)8657 406714,Benita-Hahn-Gasse 0,Olpe,39057,Deutschland,2023-08-03,50000.0,Immediate,HR
+C3a2079e7,Tintzmann,Hans-Martin Sager-Hamann,thorben07@hettner.com,03080371329,Selim-Stey-Platz 81,Tübingen,64861,Deutschland,2022-12-27,5000.0,Net60,HR
+Cf4a92678,Wernecke e.G.,Aribert Geisel,nuriboerner@hethur.org,0938098217,Mälzerstraße 2/9,Pirmasens,54479,Deutschland,2021-08-24,10000.0,Net30,Vertrieb
+C71d6670a,Wagenknecht,Sandra Scheuermann-Ortmann,reingard29@roht.de,(01584) 018513,Carolin-Weihmann-Ring 32,Bersenbrück,39852,Deutschland,2023-02-09,10000.0,Net30,HR
+C37903667,Löffler e.V.,Francesco Conradi-Bolander,baerervalentina@putz.net,0038995595,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,Deutschland,2020-07-03,5000.0,Immediate,Vertrieb
+C70fc59a9,Rudolph KG,Leyla Dussen van,konstantin38@heydrich.de,+49(0)5290040654,Killerweg 9,Stollberg,26046,Deutschland,2024-02-03,10000.0,Net45,Produktion
+C118056f7,Kobelt,Gundula Schweitzer,mscholz@zaenker.de,+49 (0) 3545 160969,Knut-Klemm-Allee 25,Nördlingen,19018,Deutschland,2023-01-11,50000.0,Net45,IT
+C7e45efe4,Jopich Trubin GmbH,Ria Birnbaum,dietlind83@steuer.com,02027789307,Freudenbergerring 73,Soltau,63446,Deutschland,2024-09-06,10000.0,Net60,HR
+C6d8ea5e4,Weinhage Finke GmbH & Co. KGaA,Heinz-Jürgen Radisch,truebswetlana@budig.de,+49(0)2468980101,Ewa-Mitschke-Weg 8/6,Suhl,36443,Deutschland,2020-08-20,25000.0,Net45,Produktion
+C45ce4373,Schüler Schmiedecke AG & Co. OHG,Aloys Rosenow,sedatscheel@zorbach.de,+49(0) 459487860,Hedy-Fischer-Ring 10,Aurich,31710,Deutschland,2021-09-22,100000.0,Net45,Finanzen
+C84e2e1fd,Siering,Sandro Klingelhöfer,,,Pieperallee 2/5,Cuxhaven,38754,Deutschland,2019-12-21,,Net60,Produktion
+C732530f3,Süßebier,Hannchen Conradi B.Eng.,wulfkonstantinos@steuer.com,+49(0)9782 245922,Anatoli-Jessel-Ring 4,Ebersberg,15850,Deutschland,2022-12-13,50000.0,Net30,Einkauf
+C12619206,Rörricht Ullmann AG,Tina Weller,wilmsmargarethe@lindner.net,+49(0)1100 234424,Gudering 020,Riesa,15654,Deutschland,2024-08-23,50000.0,Net45,Produktion
+Cb7027054,Trubin Mülichen e.G.,Univ.Prof. Mariusz Warmer,hildasteinberg@bolander.de,07103 705881,Casparplatz 16,Dachau,56541,Deutschland,2020-04-24,100000.0,Immediate,Finanzen
+C659b1429,Ehlert Trub AG & Co. KG,Nicolaus Kade-Weimer,,,Tschentscherstr. 92,Bersenbrück,59901,Deutschland,2022-03-18,,Immediate,IT
+Cda8e4736,Stroh Heydrich GmbH,Asta Martin-Dobes,benjamin24@etzler.org,(01491) 936067,Mirjam-Aumann-Allee 97,Oberviechtach,56295,Deutschland,2023-03-12,50000.0,Immediate,Vertrieb
+C51b2abf2,Bolander,Ira Holt-Jopich,,,Monica-Heuser-Ring 0,Kitzingen,71504,Deutschland,2022-01-23,,Net60,Finanzen
+C275f50b1,Ziegert,Andres Hofmann,,,Dörschnerplatz 3/1,Germersheim,68843,Deutschland,2022-09-30,,Net30,Vertrieb
+C16aa833e,Söding,Dipl.-Ing. Heinz-Willi Mülichen B.Sc.,ohaering@aumann.com,06752 42507,Hornichstraße 4,Saarbrücken,00022,Deutschland,2020-06-15,25000.0,Net45,HR
+Cf3039fb6,Wohlgemut Sölzer GmbH & Co. KG,Dagmar Schmidtke,grohleder@girschner.com,00161 49758,Dehmelgasse 8,Tübingen,62313,Deutschland,2022-10-20,10000.0,Net45,Produktion
+C75f9d5e2,Jopich Hornig GmbH & Co. KG,Salvatore Haering B.Eng.,jacquelinehiller@stey.com,+49(0)3744 13827,Catrin-Stolze-Weg 2,Naila,97646,Deutschland,2024-09-26,5000.0,Net45,IT
+Cf02cd960,Margraf,Univ.Prof. Svenja Biggen,andrey18@rose.de,+49(0)0180 03602,Geislerstr. 09,Ahaus,57787,Deutschland,2024-06-23,25000.0,Net45,Finanzen
+Cddb5b335,Girschner,Heimo Heidrich,innabutte@hein.com,+49(0) 527243915,Frieder-Häring-Allee 9,Pfaffenhofen an der Ilm,82691,Deutschland,2022-09-23,5000.0,Immediate,Produktion
+Cc637d361,Franke Scheel KGaA,Maurice Kambs,eackermann@auch.com,(02580) 11326,Dehmelplatz 148,Groß-Gerau,49880,Deutschland,2021-08-13,100000.0,Immediate,Finanzen
+C73e2fe44,Salz Kühnert GbR,Jörn Römer,,,Hansjürgen-Stiffel-Gasse 76,Mallersdorf,05293,Deutschland,2024-04-15,,Net30,Einkauf
+C1252c1b1,Kraushaar Linke KG,Detlef Koch,banders@mielcarek.de,+49(0)9861 95569,Arzu-Schuchhardt-Weg 9/0,Weißenfels,29589,Deutschland,2020-04-07,25000.0,Net60,IT
+C2591bc00,van der Dussen,Gilda Martin B.Eng.,gretchen06@bender.de,+49(0)2261708659,Harloffstr. 84,Fallingbostel,14045,Deutschland,2020-01-30,100000.0,Net60,IT
+C1423b9b6,Thanel,Heinz-Joachim Segebahn,ritaklemt@trupp.org,02128 032313,Zirmeweg 3,Aue,78802,Deutschland,2020-05-19,5000.0,Immediate,Einkauf
+Cfa474de8,Hethur KG,Krystyna Herrmann-Wirth,ilonkawilms@riehl.net,06875 384095,Gerti-Hornig-Ring 20,Artern,32059,Deutschland,2020-10-25,5000.0,Net30,Einkauf
+C12feb9fd,Kambs,Elizabeth Häring B.A.,qbarkholz@ullrich.de,0134649421,Anto-Pölitz-Platz 92,Coburg,78895,Deutschland,2021-12-03,100000.0,Net30,Einkauf
+C208d4251,Grein Groth Hertrampf KG,Malgorzata Paffrath,,,Rahel-Tröst-Gasse 5,Kamenz,19700,Deutschland,2023-07-28,,Net60,Vertrieb
+C0cb40719,Hoffmann KG,Dr. Daniele Lange B.Sc.,mentzeldorothea@bohnbach.de,+49(0) 809079393,Heide-Henschel-Weg 24,Eichstätt,70502,Deutschland,2023-08-11,100000.0,Immediate,IT
+C149c3ed2,Wende GmbH & Co. KGaA,Dipl.-Ing. Marie-Luise Ehlert B.Eng.,jschlosser@bolnbach.de,(05880) 65329,H.-Dieter-Preiß-Allee 26,Aue,84887,Deutschland,2023-09-02,25000.0,Net45,Vertrieb
+Cc105970a,Heuser Wulf GbR,Frau Cindy Ackermann,ziegertekrem@hoevel.com,04459 47857,Reinhardtweg 0/2,Pirmasens,38435,Deutschland,2019-11-11,50000.0,Net30,IT
+Cca6a5fc0,Freudenberger,Sigurd Vollbrecht,,,Scheibestr. 760,Strasburg,71626,Deutschland,2023-11-09,,Net30,Vertrieb
+C7fd098ba,Römer,Edmund Gumprich B.A.,nhethur@dietz.de,+49 (0) 2475 958615,Zobelstr. 2,Tübingen,50946,Deutschland,2020-03-10,10000.0,Net30,Finanzen
+C6e3f51bd,Lindau,Wencke Trub-Mühle,,,Junckenweg 60,Kötzting,26111,Deutschland,2020-11-22,,Net60,Produktion
+C1b40d757,Wesack GmbH & Co. KGaA,Gülten Hofmann,,,Friedemann-Meyer-Weg 5/5,Perleberg,42970,Deutschland,2023-05-18,,Net60,IT
+Cdfca3639,Fechner Tintzmann AG,Dipl.-Ing. Annamaria Henk B.A.,,,Adolphgasse 7,Göppingen,44477,Deutschland,2022-12-14,,Immediate,Vertrieb
+C6e1dd11f,Stiffel,Ignaz Junitz,eleonoreullrich@hoffmann.net,00965 90611,Mansgasse 8/3,Mayen,96366,Deutschland,2024-01-09,100000.0,Net45,IT
+C1e3f9dc2,Scholl Lehmann OHG mbH,Abdullah Jäkel,gutemilica@kroker.com,0691991294,Schinkeplatz 6,Erbisdorf,56716,Deutschland,2020-03-22,25000.0,Immediate,HR
+C1bcb89ea,Hölzenbecher Scholl KG,Doreen Klemt-Fritsch,ehentschel@rudolph.com,+49 (0) 9607 141971,Drewesgasse 2,Norden,84998,Deutschland,2023-09-06,5000.0,Net60,HR
+Caad1aa13,Renner GmbH,Dr. Mariechen Adler,sageranett@wilms.net,0682867177,Patberggasse 1/2,Hamburg,36750,Deutschland,2022-05-15,50000.0,Net30,Finanzen
+C7b5c9682,Rudolph AG,Frau Karolina Rogge,,,Gorlitzgasse 4/5,Parchim,28489,Deutschland,2021-03-03,,Immediate,Finanzen
+C88e85c67,Dippel Ehlert AG & Co. OHG,Swetlana Drewes-Liebelt,xschinke@killer.de,08188 917837,Denny-Stiffel-Allee 4,Ahaus,19799,Deutschland,2021-02-21,100000.0,Immediate,HR
+C6823df44,Müller KG,Dipl.-Ing. Hanspeter Paffrath B.Sc.,birte58@heinz.de,0086047454,Lachmannallee 72,Wunsiedel,96007,Deutschland,2021-03-25,25000.0,Net30,IT
+Ce31a37ed,Henk AG,Gitta Koch,gstaude@groettner.com,06752 439349,Steuerstraße 050,Pfaffenhofen an der Ilm,96335,Deutschland,2023-04-09,5000.0,Net30,Produktion
+C93c31129,Schönland AG & Co. OHG,Horst-Günter Freudenberger B.A.,birger08@thanel.org,07178 39074,Ullrichstraße 05,Flöha,66256,Deutschland,2022-12-10,10000.0,Immediate,Einkauf
+Cf1e39af6,Thies AG & Co. KG,Ing. Elise Gutknecht B.A.,,,Buchholzallee 58,Eutin,10672,Deutschland,2024-01-13,,Immediate,Finanzen
+Ca5ca84fd,Gröttner e.V.,Janin Jungfer,kuhlkathi@geisel.org,+49(0)0706843336,Harloffallee 57,Burglengenfeld,56470,Deutschland,2021-03-26,50000.0,Net45,Finanzen
+Cc2f96476,Bien,Meinrad Röhrdanz-Zobel,ullrichklaus-peter@neureuther.de,(08892) 74577,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,Deutschland,2023-12-29,100000.0,Net60,Finanzen
+C78fffe3c,Schönland GmbH & Co. KG,Karl-August Graf,noackjasmin@dobes.com,(00036) 16115,Finkeplatz 98,Lichtenfels,12425,Deutschland,2022-08-16,25000.0,Net45,Produktion
+Cec472c61,Mentzel,Prof. Heinz-Günther Drubin B.A.,akreusel@stoll.de,+49(0)5088 04852,Frank-Peter-Zahn-Platz 730,Calw,76455,Deutschland,2020-03-04,5000.0,Immediate,HR
+C303ae767,Weimer,Univ.Prof. Karsten Trüb MBA.,roderich65@klingelhoefer.com,(03575) 183621,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,Deutschland,2020-11-25,100000.0,Net45,Vertrieb
+C10539d6f,Dobes Karz GmbH & Co. KGaA,Dipl.-Ing. Evelyne Junken B.A.,kpieper@ehlert.net,+49(0)0700187068,Marika-Winkler-Ring 2,Gotha,24192,Deutschland,2021-04-30,5000.0,Net60,Vertrieb
+Cb4400cf7,Rose Wende GbR,Nermin Hartmann,hentschelmeta@lehmann.de,(03451) 70014,Butteweg 533,Luckenwalde,22352,Deutschland,2024-11-03,25000.0,Net45,Finanzen
+C414c6e9c,Gieß Textor e.G.,Hans-Wolfgang Schacht-Ernst,ojohann@rogge.org,0591778554,Jacqueline-Albers-Ring 1,Bremervörde,94877,Deutschland,2023-11-02,5000.0,Net60,HR
+Cfcd5712c,Radisch,Carlo Dehmel,,,Roman-Graf-Platz 466,Koblenz,25761,Deutschland,2024-05-01,,Net60,HR
+C38361d92,Trapp,Hans-Wolfgang Klapp,astridthies@eckbauer.com,08526 20694,Inge-Vollbrecht-Straße 5/7,Wesel,78380,Deutschland,2024-02-14,100000.0,Net45,Vertrieb
+C3b214d0c,Gehringer,Falk Hellwig,hamannandree@zimmer.com,+49(0)8876 21005,Schleichplatz 3,Arnstadt,27336,Deutschland,2024-07-12,100000.0,Net45,Finanzen
+Ca42b06d3,Krause GmbH & Co. KGaA,Concetta Schacht,,,Klappring 8,Wurzen,36907,Deutschland,2021-10-24,,Immediate,Vertrieb
+C0fe26680,Kraushaar GbR,Ing. Meinrad Schüler B.Sc.,alexneuschaefer@schaaf.de,(04874) 24961,Robert-Kraus-Ring 24,Freudenstadt,38123,Deutschland,2022-02-11,25000.0,Net30,Produktion
+Ca26869df,Liebelt,Margarete Heser,warmerivana@speer.com,0726641151,Röhrdanzstraße 893,Meiningen,11415,Deutschland,2024-05-31,100000.0,Net60,Vertrieb
+C9d0a5534,Butte,Emilie Naser-Hornig,,,Kraushaarstr. 6,Böblingen,87815,Deutschland,2020-01-10,,Net30,Vertrieb
+C9694b874,Stahr,Hermann Josef Reinhardt,xbarkholz@koester.de,+49(0)3827391006,Weinhagegasse 2/7,Holzminden,70215,Deutschland,2022-05-01,25000.0,Immediate,HR
+Cccb7af4a,Weinhage,Joerg Klingelhöfer B.Eng.,rohlederbirgitta@cichorius.net,07701 08026,Gerhardt-Salz-Ring 7/8,Saarbrücken,43597,Deutschland,2021-12-07,50000.0,Net30,Produktion
+Cf614c1fb,Grein Groth Stahr GmbH & Co. OHG,Elsbeth Wiek,hennerbutte@hande.net,09140 94990,Heinzplatz 3/1,Freital,01120,Deutschland,2022-12-08,10000.0,Net45,Vertrieb
+C138a901b,Scheibe Stiftung & Co. KG,Ing. Sybille Rohleder B.A.,greta09@drubin.org,(05869) 481648,Junckenstraße 1/9,Amberg,22886,Deutschland,2023-11-03,25000.0,Net30,Finanzen
+C4d8dda40,Wesack Hövel AG,Ivana Söding,schaeferkati@losekann.com,06287 29084,Elsa-Hauffer-Allee 53,Roth,87312,Deutschland,2022-10-27,25000.0,Net45,Finanzen
+C846484d1,Holt,Leon Hein,gorlitzdiethard@hendriks.com,+49(0)3732 615419,Ortwin-Weiß-Gasse 690,Viersen,33241,Deutschland,2021-10-20,10000.0,Net60,Vertrieb
+Ce2b8dd42,Schuchhardt Förster AG,Phillip Reuter B.Sc.,zweihmann@mangold.com,02835 449987,Concetta-Paffrath-Ring 1/6,Stadtroda,92254,Deutschland,2020-12-02,5000.0,Immediate,Vertrieb
+C791dd684,Mohaupt Beckmann AG,Gilda Weinhage,renastroh@doering.net,(06561) 455892,Ruthild-Trommler-Platz 271,Chemnitz,36295,Deutschland,2021-10-25,100000.0,Immediate,IT
+Cdd38e6d1,Steuer Etzler AG & Co. KGaA,Filippo Tlustek,hklapp@hamann.org,(05983) 033873,Hölzenbecherstraße 979,Gera,33658,Deutschland,2024-05-24,10000.0,Net45,Vertrieb
+Ce38cd301,Fischer,Univ.Prof. Hans-Hinrich Staude B.Eng.,hahnfrancis@ortmann.com,(05444) 88762,Hornichstraße 655,Garmisch-Partenkirchen,92425,Deutschland,2020-04-16,10000.0,Net30,Einkauf
+Cbab00c56,Kitzmann,Anna-Maria Seifert-Wilmsen,rohledergisela@werner.org,01579883460,Ottostraße 3/7,Rudolstadt,74612,Deutschland,2023-11-12,50000.0,Net30,Produktion
+Cf27e6ab2,Girschner e.G.,Kordula Mielcarek,handekai-uwe@sauer.com,06218 25568,Ebertgasse 72,Zschopau,76592,Deutschland,2024-09-03,50000.0,Immediate,Finanzen
+Cf5ed7b3f,Sorgatz Rosenow GbR,Dr. Agata Ring B.Sc.,karl-josef25@gerlach.com,0100915318,Wesackallee 35,Meiningen,83241,Deutschland,2020-03-30,100000.0,Immediate,Einkauf
+Cd492f8b7,Hartung Scheuermann GmbH,Hiltrud Wende-Boucsein,,,Dimitrios-Otto-Platz 6,Hansestadttralsund,87920,Deutschland,2023-03-16,,Net60,Vertrieb
+C3f13b32e,Staude,Annemie Köhler,,,Zobelplatz 505,Illertissen,90367,Deutschland,2024-09-22,,Immediate,Finanzen
+C92a82ca8,Finke,Filippo Spieß B.Sc.,,,Hendrik-Faust-Ring 3/0,Prenzlau,08665,Deutschland,2019-12-17,,Net60,IT
+Cb28d86ab,Zahn,Belinda Hande,strubin@maelzer.com,+49 (0) 8209 963088,Hans-Bernd-Löffler-Weg 5,Ingolstadt,17534,Deutschland,2023-05-23,50000.0,Net60,Finanzen
+C868f6ecf,Johann,Carmela Etzold,ibrahim32@thanel.de,0107580514,Huhnstr. 2/4,Burglengenfeld,07348,Deutschland,2023-08-03,5000.0,Net45,IT
+Cc73ccd64,Drub Röhricht GmbH,Dirk Thanel,wulffdieter@weiss.org,+49(0) 856742747,Lissi-Junitz-Weg 9,Querfurt,25668,Deutschland,2024-07-05,50000.0,Immediate,Vertrieb
+C8b18ddea,Hesse OHG mbH,Günter Drub,ulrichgeissler@liebelt.de,08893 53222,Liliana-Baum-Straße 5,Flöha,20515,Deutschland,2022-05-07,10000.0,Net60,Produktion
+Cd6f978c2,Fliegner Striebitz GmbH & Co. KGaA,Monika Ebert,nstoll@zaenker.de,0457925406,Andrzej-Kreusel-Weg 37,Wertingen,67905,Deutschland,2024-09-04,50000.0,Net30,IT
+C73179274,Karz,Mary Meister,julialiebelt@linke.com,08825 975349,Liebeltplatz 8,Tecklenburg,68517,Deutschland,2020-07-27,5000.0,Net45,IT
+C79696c5b,Gierschner Junck AG & Co. KG,Dorothe Jockel,ayten06@hentschel.com,(01752) 37678,Langernweg 00,Ebern,97027,Deutschland,2024-11-04,100000.0,Net30,HR
+C77030f3e,Klotz Reising e.G.,Luzia Jungfer,,,Lea-Linke-Straße 231,Mallersdorf,81615,Deutschland,2024-07-09,,Immediate,Finanzen
+Caddd63d9,Fröhlich Gunpf GmbH & Co. KGaA,Roman Schenk,catrin45@kuhl.de,+49(0)7372763401,Reisingstraße 976,Vilsbiburg,55495,Deutschland,2020-06-06,50000.0,Net30,Einkauf
+C2745d577,Barth,Frau Danuta Jacob,marko03@hartung.de,05423922643,Lindnerstraße 3,Lichtenfels,80488,Deutschland,2024-09-08,5000.0,Net30,Einkauf
+C33fee75a,Martin AG & Co. OHG,Annedore Rohleder,,,Suse-Trommler-Straße 57,Stollberg,55341,Deutschland,2023-09-07,,Net60,Vertrieb
+C1dfe72e0,Sager GmbH,Tomas Radisch-Pieper,meyeremma@wilms.de,+49 (0) 4266 027542,Cläre-Trupp-Allee 266,Vilsbiburg,50984,Deutschland,2019-12-12,10000.0,Net60,Vertrieb
+C8fbcc7b1,Atzler AG & Co. KG,Martha Eckbauer,gerfriedzorbach@naser.de,+49(0) 304739661,Jürgen-Schmiedecke-Platz 2/0,Bergzabern,90976,Deutschland,2024-07-21,25000.0,Net60,Produktion
+Cc4b33ba9,Gehringer Graf GmbH,Fatih Rädel,johanne75@neuschaefer.de,+49(0)7323 862267,Maria-Loos-Ring 39,Osterburg,62204,Deutschland,2020-06-20,50000.0,Net45,Einkauf
+C0b7bb4bc,Bohnbach AG & Co. OHG,Hans-Jochen Biggen B.Eng.,ninalosekann@kranz.com,+49(0)4882 52203,Veronica-Gunpf-Ring 1/4,Regensburg,41895,Deutschland,2022-08-29,100000.0,Net60,IT
+C5ba38685,Albers Schulz GmbH & Co. OHG,Balthasar Börner,tamaraloewer@krebs.org,+49(0)0029 90026,Hans-Jochen-Stadelmann-Allee 8,Ansbach,01667,Deutschland,2021-02-10,5000.0,Net30,Finanzen
+C0d6afa74,Christoph GmbH,Miguel Winkler,,,Flantzgasse 45,Pirmasens,46243,Deutschland,2020-06-15,,Immediate,IT
+C9f9d1595,Adler GmbH & Co. KG,Nikolaj Gerlach-Weiß,dusan63@pieper.com,09230023374,Sauergasse 9,Kulmbach,17285,Deutschland,2021-07-18,5000.0,Immediate,Produktion
+Cf2dabd90,Hauffer Löffler OHG mbH,Prof. Harald Jessel,wkallert@boucsein.de,02649 361809,Roselinde-Hoffmann-Gasse 2,Bogen,37255,Deutschland,2020-08-06,10000.0,Net30,IT
+Caa20bb87,Carsten AG & Co. KGaA,Dr. Hilda Barth B.Eng.,zirmeelse@juettner.com,+49(0)5357887427,Lehmanngasse 2,Wanzleben,17135,Deutschland,2021-05-20,5000.0,Net30,HR
+C84226691,Dobes,Cäcilia Heintze-Walter,kreinreginald@trueb.org,+49(0)6903 90899,Fritschring 9,Rostock,88870,Deutschland,2023-10-16,25000.0,Immediate,Finanzen
+C3cc6e59d,Christoph Neureuther AG & Co. KG,Jaqueline Pergande B.Sc.,paul-gerhard12@dowerg.de,+49(0)6059 53304,Fred-Scheuermann-Weg 711,Böblingen,55971,Deutschland,2020-04-25,5000.0,Net45,IT
+Cf92b9ef9,Klemt Holt GmbH & Co. KG,Constantin Holzapfel,,,Heinplatz 24,Pirmasens,09319,Deutschland,2022-11-25,,Net30,Produktion
+C86091f04,Graf,Wieland Fischer,rolfsorgatz@schacht.org,+49(0) 200615862,Belinda-Junitz-Platz 7,Berlin,98933,Deutschland,2020-07-17,100000.0,Net60,Vertrieb
+C4999e9b6,Thies Schweitzer GmbH & Co. KGaA,Gaetano Kühnert,gertzrudi@gotthard.de,07226 896243,Thanelstraße 0,Weißwasser,61095,Deutschland,2019-11-15,5000.0,Net60,Einkauf
+C3275bcae,Wagner KG,Brunhilde Lachmann B.A.,cecilia73@gnatz.de,0516658509,Rennerstr. 1/2,Herford,92356,Deutschland,2023-01-12,25000.0,Net45,Einkauf
+Ce6a2c2b8,Eigenwillig GbR,Wulf Striebitz-Jacob,gklemt@stoll.com,(09017) 20807,Theresia-Lübs-Platz 0,Wertingen,80053,Deutschland,2019-11-28,50000.0,Net60,IT
+C03a98fb3,Beckmann Salz OHG mbH,Mia Salz,helene89@winkler.com,+49(0) 929523917,Trubinstraße 5,Säckingen,51192,Deutschland,2021-06-15,50000.0,Immediate,HR
+Cf8b4383e,Mentzel Heuser GmbH,Hinrich Barkholz-Tröst,salzotto@kambs.de,05233356298,Stumpfstr. 5/3,Calau,17276,Deutschland,2023-12-28,50000.0,Immediate,Finanzen
+C81185451,Klapp Sölzer AG & Co. KGaA,Heinz Dieter Hesse-Martin,klemtingrid@killer.de,+49 (0) 4628 223289,Susana-Geisel-Ring 6/0,Weißenfels,93279,Deutschland,2023-01-08,25000.0,Net60,IT
+Ca14a6d03,Müller,Ing. Janus Stolze,,,Henning-Hering-Weg 9/2,Strausberg,80979,Deutschland,2022-04-11,,Immediate,Einkauf
+Ce11e2927,Döhn,Pavel Rohleder,keberhardt@mitschke.net,04447 25760,Schenkstraße 2/3,Genthin,92129,Deutschland,2021-01-22,50000.0,Net30,Einkauf
+Cde58dcd9,Biggen Finke AG,Carmelo Becker-Mitschke,heide53@schoenland.de,(03989) 78427,Trubring 2,Rastatt,82510,Deutschland,2021-05-29,10000.0,Net30,HR
+C4fe20e66,Mälzer Heser Stiftung & Co. KGaA,Univ.Prof. Nora Thanel B.Eng.,astaude@kuehnert.com,(00784) 59419,Hettnerweg 79,Lübben,11491,Deutschland,2021-03-09,5000.0,Net30,Vertrieb
+C476ce152,Becker AG,Gusti Nerger,,,Steyweg 4/9,Bad Kissingen,42762,Deutschland,2022-11-12,,Net45,Finanzen
+C7f1819d2,Heinrich,Ida Martin,rahel02@maelzer.de,06111 129565,Adam-Gunpf-Allee 596,Badibling,69652,Deutschland,2020-03-27,5000.0,Net30,Einkauf
+C2b4198e0,Junk Hornich AG & Co. OHG,Susana Heintze MBA.,,,Scholzallee 6,Hechingen,09114,Deutschland,2022-06-15,,Net60,IT
+C18e0e6ec,Austermühle AG,Rigo Mielcarek-Plath,wilfriede92@tschentscher.com,07974 750327,Karzstraße 1/6,Soltau,27322,Deutschland,2024-02-25,50000.0,Immediate,IT
+C3efad3f9,Röhrdanz Stiftung & Co. KG,Gotthard Bruder,xfinke@reichmann.com,0666527669,Schmidtkering 07,Bruchsal,20345,Deutschland,2022-12-03,10000.0,Net45,Einkauf
+Cc755aa91,Davids AG & Co. OHG,Frank-Peter Hölzenbecher,qhaase@pieper.com,07173 64499,Jacob-Anders-Straße 29,Reutlingen,91832,Deutschland,2022-09-25,25000.0,Net45,Vertrieb
+C5bd787f1,Stadelmann,Herr Willibert Klemm,maragnatz@jungfer.de,02924 70340,Heinz-Gerd-Mangold-Allee 62,Hannover,61654,Deutschland,2022-12-15,100000.0,Net30,Einkauf
+Cf71d2fa1,Anders Krein GbR,Alban Kade,sahinjaehn@zobel.org,+49(0)4880 15052,H.-Dieter-Mälzer-Straße 2,Malchin,60534,Deutschland,2024-02-28,50000.0,Net45,Finanzen
+C3f843499,Schomber GbR,Vincent Bauer B.Eng.,sylwia18@faust.de,01414 48785,Siegmar-Dörr-Allee 45,Ingolstadt,72649,Deutschland,2024-10-13,100000.0,Immediate,Finanzen
+C7b948975,Hänel OHG mbH,Ing. Madlen Henck,schmidtannett@heuser.de,(02625) 47439,Sibel-Hethur-Gasse 4/9,Greiz,31480,Deutschland,2021-07-10,10000.0,Net30,Produktion
+Cc5d4ef9a,Fechner,Sibylle Klemm MBA.,annerosewaehner@hornich.com,+49(0) 184507279,Holstenstraße 9/6,Beeskow,78999,Deutschland,2020-12-18,5000.0,Net30,HR
+C090d6a5d,Scheibe Kranz GmbH & Co. KG,Frau Beata Höfig,,,Södingstr. 6/9,Aschaffenburg,43476,Deutschland,2021-09-18,,Net30,Produktion
+C13afda51,Börner Mühle KG,Sarina Dowerg,rwernecke@nette.com,+49(0) 632032592,Stadelmannring 7/5,Luckenwalde,04063,Deutschland,2022-09-12,10000.0,Immediate,Finanzen
+C42e5a792,Boucsein,Tina Zimmer,writter@junitz.com,+49(0)7926 206073,Zahnring 6,Sonneberg,58768,Deutschland,2023-01-29,50000.0,Net60,Einkauf
+C724c4e71,Dippel Weihmann AG & Co. KGaA,Sibylle Gieß,caterinaklingelhoefer@zimmer.de,0001563465,Cornelia-Stumpf-Straße 3,Tirschenreuth,89544,Deutschland,2024-07-23,10000.0,Net30,IT
+C36a19778,Nette GmbH,Josephine Süßebier,zkaul@tlustek.net,+49 (0) 0505 337179,Pohlring 4,Hohenstein-Ernstthal,09494,Deutschland,2022-07-24,10000.0,Net30,Finanzen
+C22dc1560,Harloff KG,Univ.Prof. Christos Löffler,sstahr@kallert.com,+49(0)9561 95928,Emilia-Holzapfel-Gasse 0,Bergzabern,86309,Deutschland,2024-04-06,100000.0,Net45,Einkauf
+Cc1fa55aa,Hofmann,Milos Gorlitz MBA.,thorbenweinhage@gnatz.de,+49(0)1365002845,Janette-Ebert-Platz 71,Eichstätt,83282,Deutschland,2022-02-05,50000.0,Immediate,Einkauf
+C04fc253d,Reinhardt,Elias Dehmel,zwalter@koch.com,(04928) 23239,Scheibeplatz 41,Grimmen,27826,Deutschland,2021-09-18,5000.0,Net60,IT
+Ccc22c52a,Preiß,Radmila Riehl,vschottin@baehr.com,+49 (0) 3710 407153,Evelin-Römer-Straße 3/7,Wolfenbüttel,40840,Deutschland,2022-05-31,25000.0,Net45,Finanzen
+Cfeb0823d,Stiffel,Danuta Eigenwillig-Schacht,schombernicole@briemer.de,+49(0)7255 466439,Kramerring 804,Forst,04662,Deutschland,2022-01-24,100000.0,Net45,IT
+C5c74d310,Schuster Birnbaum AG & Co. KGaA,Stephan Schweitzer,farukroehricht@hoerle.org,(04473) 281104,Laszlo-Beer-Allee 5/5,Lübz,64486,Deutschland,2021-03-22,5000.0,Net45,HR
+C1d070d6e,Schlosser Heinz KG,Henrik Förster,theresialorch@trub.com,+49(0) 384297282,Drubplatz 5/0,Marienberg,67927,Deutschland,2021-04-16,100000.0,Net60,Einkauf
+Cf6f02706,Wirth,Ahmad Textor,gertakostolzin@hande.com,09604 94803,Monja-Linke-Platz 9/4,Jena,23885,Deutschland,2023-03-22,50000.0,Net30,HR
+Cfbe3e017,Schottin,Faruk Mohaupt-Aumann,,,Peggy-Wernecke-Ring 491,Staßfurt,50173,Deutschland,2023-09-30,,Net45,Finanzen
+Cbbd2eaf2,Lehmann GmbH,Veronika Juncken B.Sc.,pritter@haering.org,(03928) 938144,Hamannallee 0/8,Bitterfeld,16942,Deutschland,2021-04-20,50000.0,Immediate,Vertrieb
+Ce80237a3,Drub GmbH & Co. KGaA,Prof. Britta Hölzenbecher,adelekraushaar@oestrovsky.org,+49 (0) 0561 085129,Krauseallee 86,Gadebusch,06411,Deutschland,2022-07-09,100000.0,Net60,Finanzen
+C1d5b10d8,Koch AG,Giorgio Stroh B.A.,adinastoll@lachmann.org,+49(0) 522435029,Trüballee 8,Garmisch-Partenkirchen,65226,Deutschland,2023-03-20,10000.0,Net60,Finanzen
+C82cd3970,Ullmann OHG mbH,Ellen Mitschke,soedingroland@neuschaefer.de,+49(0)9235986149,Gerta-Schottin-Platz 7/3,Dessau,70013,Deutschland,2023-10-09,25000.0,Immediate,Einkauf
+C12ba5ea5,Seidel Stiftung & Co. KG,Ing. Beate Heser MBA.,,,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,Deutschland,2021-01-06,,Net45,Produktion
+C50c4accc,Fritsch Fechner AG,Czeslaw Kranz-Süßebier,marionrosenow@beier.com,08761 85033,Christian-van der Dussen-Gasse 2,Eisleben,03257,Deutschland,2024-06-22,50000.0,Immediate,Vertrieb
+C31bd71a6,Steinberg Johann KG,Micha Dussen van-Ziegert,noackmarica@salz.de,00389 752688,Weinholdring 47,Beeskow,97556,Deutschland,2021-04-04,5000.0,Immediate,Vertrieb
+Cca45c3ff,Schenk,Ljudmila Eberth,athanasios45@heintze.com,01021596351,Elfie-Junck-Gasse 907,Potsdam,98445,Deutschland,2020-01-02,100000.0,Net60,Finanzen
+C9670ea64,Faust KGaA,Carolina Schmiedt,tatiana26@davids.com,(05981) 43016,Nermin-Hövel-Ring 6/5,Anklam,32787,Deutschland,2021-02-18,25000.0,Net60,Vertrieb
+C7c206597,Schottin Mans KG,Frau Gilda Scholl,,,Marcel-Holsten-Gasse 98,Gräfenhainichen,19030,Deutschland,2021-01-28,,Net30,HR
+C6e13dd23,Zobel GmbH & Co. OHG,Dr. Dimitri Hornich B.Sc.,ldoehn@trupp.com,02957616462,Evamaria-Renner-Ring 61,Cuxhaven,81681,Deutschland,2023-03-31,5000.0,Immediate,Vertrieb
+Ca39b1a71,Bender Trapp OHG mbH,Heidelore Becker-Bohnbach,,,Felicia-Ziegert-Allee 57,Ribnitz-Damgarten,60272,Deutschland,2024-03-25,,Net60,Einkauf
+Ced957276,Grein Groth,Susan Hofmann,imaelzer@soeding.org,+49(0)5696 69976,Gießstr. 3,Ludwigslust,00247,Deutschland,2024-08-23,100000.0,Net60,Finanzen
+Cf7d98e3f,Kambs,Mirja Zobel,ernestine69@seidel.de,+49(0)1602 047906,Winklergasse 6,Borna,78151,Deutschland,2020-05-12,100000.0,Immediate,Vertrieb
+Cb0fb7360,Langern KG,Alexej Beyer,barthjoseph@mosemann.net,+49 (0) 4185 994809,Marietta-Heidrich-Straße 93,Werdau,25728,Deutschland,2021-10-20,50000.0,Net60,IT
+C9f23f455,Sager,Gerhardt Niemeier-Beckmann,edgarhuhn@hettner.de,(04032) 90635,Urte-Trüb-Allee 8/1,Wetzlar,06259,Deutschland,2020-04-05,100000.0,Net60,Vertrieb
+Ce1527376,Kühnert Textor GmbH & Co. OHG,Prof. Guenter Kranz,uli84@hoerle.net,+49(0) 804430693,Martinallee 8,Wurzen,80795,Deutschland,2020-07-07,50000.0,Net60,IT
+C4420150f,Hübel Niemeier GmbH & Co. OHG,Frau Konstanze Lindau B.A.,birnbaumklaus-werner@schmiedecke.org,0738309353,Carolin-Dobes-Gasse 5/4,Heinsberg,80847,Deutschland,2022-02-16,100000.0,Net60,HR
+Ce02f09fc,Aumann Löchel Stiftung & Co. KGaA,Betina Pieper,,,Carmela-Hauffer-Allee 79,Nordhausen,10540,Deutschland,2021-01-11,,Net30,Finanzen
+C967d50a7,Döring Jopich GmbH & Co. OHG,Centa Krause MBA.,wolfgang11@wernecke.com,01344375785,Stefani-Trubin-Gasse 08,Bützow,31958,Deutschland,2020-06-12,100000.0,Net60,Produktion
+C73ed6f51,Oderwald,Prof. Horst-Günter Paffrath B.A.,cmangold@maelzer.de,+49(0)2999365621,Henckallee 0,Seelow,67411,Deutschland,2022-08-18,25000.0,Net45,Produktion
+C878b9a97,Huhn,Prof. Luka Dobes MBA.,iloeffler@naser.com,(03661) 523836,Bonbachweg 060,Rothenburg ob der Tauber,62672,Deutschland,2020-11-19,25000.0,Net30,Produktion
+C8a588552,Mies GmbH & Co. KGaA,Prof. Mariusz Davids,wesackalmut@kitzmann.com,(01641) 161784,Frankering 9,Berlin,33535,Deutschland,2023-01-21,25000.0,Net30,Finanzen
+C1011d7bf,Flantz AG,Prof. Jobst Finke,hbinner@bauer.com,+49 (0) 9006 267031,Gina-Wilms-Ring 699,Stade,27017,Deutschland,2023-12-01,100000.0,Net45,Produktion
+Cca4b662a,Möchlichen Rudolph e.V.,Heinz-Gerd Huhn,roerrichtkarl-hans@thanel.de,(07687) 849755,Sabrina-Rust-Straße 83,Gifhorn,77427,Deutschland,2020-09-06,100000.0,Immediate,Vertrieb
+C96c2fc47,Rudolph Ackermann GbR,Tatjana Anders-Bien,ingetraut88@junken.de,+49(0)0920 53794,Dietzallee 6/8,Roding,15331,Deutschland,2024-03-08,50000.0,Net45,Finanzen
+Ce36428f7,Pärtzelt AG,Clara Ullrich,martarudolph@pieper.com,+49(0)4430 83627,Schulzplatz 8,Tecklenburg,55706,Deutschland,2022-10-21,10000.0,Immediate,HR
+Cd891b141,Gierschner AG,Marcella Anders,wellerkaete@baum.org,+49(0)8745712057,Hermannweg 87,Feuchtwangen,58642,Deutschland,2020-10-26,10000.0,Immediate,Produktion
+C3ae31983,Schuchhardt GmbH,Prof. Ulf Köhler,,,Schenkstr. 66,Lippstadt,80235,Deutschland,2020-10-04,,Net30,Vertrieb
+C2212de05,Trapp OHG mbH,Dipl.-Ing. Herbert Finke B.Eng.,tpeukert@muelichen.de,+49(0)9924 455510,Gertrud-Bolzmann-Straße 9/3,Lübben,02355,Deutschland,2020-10-15,100000.0,Net30,Produktion
+C754b752d,Schinke Jungfer GbR,Dr. Pawel Dehmel B.A.,,,Edda-Dobes-Allee 47,Füssen,63264,Deutschland,2024-08-19,,Net60,Produktion
+Ce475e957,Knappe,Frau Gretel Cichorius B.A.,theobald83@plath.com,+49(0) 335198342,Ingeborg-Kroker-Straße 52,Donaueschingen,38965,Deutschland,2023-11-21,5000.0,Net30,Produktion
+Ca6fb2402,Sölzer Lange GbR,Univ.Prof. Engin Dörschner,xfliegner@wagenknecht.com,(00380) 211948,Bohlanderring 1,Riesa,83123,Deutschland,2022-05-18,50000.0,Immediate,HR
+C4c2e5d03,Weinhold GmbH & Co. KG,Dipl.-Ing. Ingo Hermighausen B.Eng.,,,Wulffstraße 176,Hildburghausen,60665,Deutschland,2022-08-14,,Net30,Vertrieb
+C89e40436,Hertrampf,Dipl.-Ing. Irmengard Hauffer,paulwerner@conradi.org,0967632161,Hans-Hinrich-Speer-Gasse 0,Bad Brückenau,92164,Deutschland,2020-01-23,5000.0,Net45,Vertrieb
+C9a904d0d,Putz AG & Co. OHG,Prof. Bekir Jacob,ingetrautpruschke@geisel.net,+49(0)2638 194625,Elly-Reising-Weg 62,Emmendingen,60774,Deutschland,2020-04-05,25000.0,Immediate,Einkauf
+C924c7be9,Speer Pechel AG,Frau Halina Dehmel,wditschlerin@albers.de,(03064) 252704,Löfflergasse 1,Pegnitz,00641,Deutschland,2020-12-14,100000.0,Net45,Einkauf
+Ca7e17d6d,Mohaupt GmbH,Gerhardt Pölitz,philip47@schinke.com,+49(0)5822424056,Stolzestr. 6,Eisleben,26809,Deutschland,2020-02-29,25000.0,Immediate,Einkauf
+Cbc09ea39,Zobel,Henry Trommler,eroehricht@haenel.de,04793 81584,Sabine-Striebitz-Gasse 7,Oranienburg,49005,Deutschland,2022-08-06,50000.0,Net60,Finanzen
+C9e5706df,Ditschlerin,Ariane Hahn B.Sc.,ghande@langern.net,01604899354,Slavko-Mälzer-Allee 44,Kitzingen,47055,Deutschland,2020-05-02,10000.0,Net30,IT
+C0641716f,Juncken Weller GmbH,Niklas Peukert-Bohlander,junkandre@kade.com,+49(0)2070 910371,Friedericke-Stoll-Platz 8,Olpe,72629,Deutschland,2022-03-24,25000.0,Net30,Produktion
+C6043cf92,Mälzer Weihmann AG,Ing. Anne-Rose Langern,,,Jähnallee 304,Wismar,83018,Deutschland,2020-05-19,,Net30,HR
+C99bf0109,Bien,Albert Kobelt,jplath@mude.de,(08471) 351820,Dolores-Fiebig-Straße 572,Schwarzenberg,39271,Deutschland,2024-02-21,25000.0,Net30,IT
+C03157cee,Fischer Walter GmbH,Thea Pergande,maurizioetzold@steckel.net,+49(0)8827 584865,Gundolf-Salz-Weg 5/1,Kaiserslautern,88197,Deutschland,2023-11-08,100000.0,Net30,Vertrieb
+C3d3a92f2,Kohl Ebert KGaA,Luitgard Zirme,vschuchhardt@schaefer.de,+49(0)4249 354411,Schulzstraße 5,Mühlhausen,98869,Deutschland,2020-12-12,25000.0,Net45,Finanzen
+C8edb23e1,Albers,Gisela Seidel,jaqueline83@rosemann.net,+49(0)4280 70593,Patricia-Riehl-Straße 178,Gerolzhofen,98994,Deutschland,2021-10-31,5000.0,Net30,Finanzen
+Cdf1d8dba,Losekann,Gert Rogner,friedemann67@carsten.de,(05532) 77324,Jan-Peter-Graf-Straße 44,Erbisdorf,63899,Deutschland,2020-05-06,50000.0,Net30,Produktion

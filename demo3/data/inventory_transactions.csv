@@ -1,0 +1,2001 @@
+transaction_id,product_id,transaction_type,quantity,transaction_date,unit_cost,location,reference_document,status
+Tfb0370e3,Pdae71328,Retoure,2,2024-12-23 00:54:21,619.927,Außenlager,REF344734,Geplant
+T569e1a34,Pb1eb6aa3,Retoure,3,2024-03-29 21:55:09,197.50499999999997,Außenlager,REF639703,Geplant
+T8473c7d0,Pa7ae716f,Ausgang,-13,2024-03-21 18:11:42,9.296,Retouren,REF130711,In Bearbeitung
+T22eac34b,P60295ad9,Bestandskorrektur,-4,2024-08-16 07:17:09,276.493,Retouren,REF564439,Geplant
+Ta88bb16f,Paa15aa91,Ausgang,-6,2023-04-13 21:57:50,136.325,Hauptlager,REF607383,In Bearbeitung
+Tccdd2392,Pcd326c9b,Ausgang,-1,2024-01-20 10:39:30,547.904,Versand,REF650573,Abgeschlossen
+T49e5dfe4,Pafb5ceb2,Retoure,4,2023-07-07 01:14:08,66.955,Außenlager,REF240467,In Bearbeitung
+T5e5a29d6,Pa99221e5,Retoure,1,2023-07-30 10:08:50,18.494,Retouren,REF282993,In Bearbeitung
+T78551a74,P8af6ce4c,Eingang,41,2023-03-31 22:55:12,5.718999999999999,Außenlager,REF564001,Abgeschlossen
+Tf45e62fb,P522845b5,Bestandskorrektur,-2,2023-05-07 04:13:29,54.43899999999999,Hauptlager,REF178490,Abgeschlossen
+Tef78b4bc,P7326f7f4,Bestandskorrektur,-1,2024-04-28 22:47:46,30.205,Retouren,REF348831,Geplant
+T47b1c5fc,P6e8901a4,Ausgang,-9,2023-11-06 22:53:08,113.00099999999999,Versand,REF677329,Abgeschlossen
+T760a52c5,P80238d20,Retoure,3,2023-05-19 01:34:27,905.261,Hauptlager,REF237793,Abgeschlossen
+T82ecce2d,P77772f74,Eingang,10,2023-10-10 21:18:42,48.811,Retouren,REF96299,Abgeschlossen
+Ta840ae7f,P681c50d2,Bestandskorrektur,5,2024-08-10 07:17:01,629.3069999999999,Außenlager,REF930400,Abgeschlossen
+Te0d42ba2,P6d3e39ee,Eingang,33,2024-12-08 02:43:32,725.8089999999999,Retouren,REF423209,Geplant
+T51d0b0d7,Pdf9aaa73,Eingang,33,2024-03-17 14:41:58,760.011,Retouren,REF31886,Geplant
+T9094d301,Pd8ee6a2b,Ausgang,-13,2024-07-13 01:56:52,20.544999999999998,Retouren,REF381178,In Bearbeitung
+Tae903f5c,P2be52bb7,Ausgang,-5,2023-06-26 23:44:44,855.351,Außenlager,REF434875,Abgeschlossen
+Tc8303814,,Eingang,41,2023-09-14 06:43:46,,Hauptlager,REF106659,In Bearbeitung
+T126433d5,Pb2f63edd,Ausgang,-4,2023-11-25 01:35:55,46.305,Versand,REF472464,Geplant
+T33c23e4c,P6e01d9a3,Eingang,54,2024-03-21 18:49:39,25.291,Versand,REF325178,In Bearbeitung
+T3f274f40,Pb1d42b13,Bestandskorrektur,0,2024-12-07 03:45:46,99.67999999999999,Versand,REF131643,Abgeschlossen
+T9dbfd477,P7af6bba0,Eingang,63,2023-09-01 21:06:45,10.927,Hauptlager,REF11075,Geplant
+Ta8d06fc9,Pe940f056,Bestandskorrektur,5,2024-05-17 21:33:24,31.346,Außenlager,REF775706,Geplant
+Tca1a95e2,P1ed0e77b,Bestandskorrektur,3,2023-06-30 03:16:31,17.450999999999997,Versand,REF14781,In Bearbeitung
+T29e37764,Pb702965e,Retoure,4,2023-07-10 02:36:25,232.59599999999998,Außenlager,REF179006,In Bearbeitung
+T75bbf20d,P8b160812,Bestandskorrektur,-2,2023-01-14 22:34:21,10.136,Versand,REF121150,In Bearbeitung
+T14abce0a,P522845b5,Eingang,15,2024-05-19 23:58:58,54.43899999999999,Hauptlager,REF646138,Abgeschlossen
+T8ac2d9f7,P7326f7f4,Bestandskorrektur,3,2023-09-16 21:24:12,30.205,Retouren,REF865696,Abgeschlossen
+Ta19f3d04,Pd87e7c3b,Ausgang,-17,2023-08-19 14:58:16,76.52399999999999,Versand,REF249756,Abgeschlossen
+Ta52f2286,P7e94cb04,Bestandskorrektur,-4,2024-06-01 12:57:19,1308.391,Hauptlager,REF519169,Geplant
+T05fd99e3,Pafb5ceb2,Eingang,52,2024-06-14 13:51:24,66.955,Außenlager,REF535889,Geplant
+T8368ec7e,P4f5b8304,Ausgang,-16,2023-03-26 09:05:27,1322.811,Retouren,REF73526,Abgeschlossen
+T8d9abe07,,Ausgang,-3,2023-12-31 04:34:30,,Hauptlager,REF794824,Abgeschlossen
+T95683549,,Bestandskorrektur,1,2023-06-15 01:52:03,,Versand,REF109513,Abgeschlossen
+T72d2cc91,,Eingang,32,2023-04-01 02:22:45,,Versand,REF347018,In Bearbeitung
+T5ced0421,Pd87e7c3b,Eingang,70,2024-01-12 01:44:27,76.52399999999999,Hauptlager,REF324291,Geplant
+Tdbc5312d,Pe5a125a2,Retoure,1,2023-11-29 08:12:36,822.2199999999999,Hauptlager,REF419419,Abgeschlossen
+Tfa598db0,,Retoure,3,2024-09-30 01:29:30,,Hauptlager,REF946301,In Bearbeitung
+T5876f71a,P6e8901a4,Retoure,2,2023-09-03 17:18:23,113.00099999999999,Hauptlager,REF453779,Abgeschlossen
+T5a4ad24b,P80238d20,Retoure,1,2024-09-20 05:09:47,905.261,Retouren,REF718813,Abgeschlossen
+T52c0384e,P31008989,Bestandskorrektur,-4,2024-06-25 06:47:07,714.371,Retouren,REF601079,Abgeschlossen
+T8e515008,,Ausgang,-18,2024-12-15 11:23:42,,Hauptlager,REF846487,Abgeschlossen
+T89375875,P7e945270,Ausgang,-5,2023-07-18 10:19:02,81.508,Versand,REF576438,Geplant
+T775f1ffd,,Bestandskorrektur,1,2024-01-06 11:08:09,,Hauptlager,REF677578,Geplant
+T07328330,,Eingang,18,2023-01-08 11:11:34,,Außenlager,REF615718,In Bearbeitung
+T5c6b9baf,P2e3f25bf,Ausgang,-15,2023-07-02 18:55:42,27.468,Hauptlager,REF495049,Geplant
+T11365994,P6bc3575d,Retoure,2,2023-07-22 16:27:48,338.772,Hauptlager,REF259518,Abgeschlossen
+Tb5fd1054,,Bestandskorrektur,3,2024-10-07 20:44:33,,Hauptlager,REF887671,Geplant
+Ta7380c51,Pde32edf4,Bestandskorrektur,-2,2024-06-26 17:25:26,34.601,Retouren,REF588045,Geplant
+T450ac0cf,P37a1cc45,Eingang,84,2024-10-06 02:18:42,26.215,Retouren,REF200090,In Bearbeitung
+T928640d2,Pdab1267e,Eingang,34,2023-11-07 13:00:50,158.18599999999998,Außenlager,REF654341,In Bearbeitung
+T60fca3fb,Pb2f63edd,Eingang,80,2023-06-21 09:49:39,46.305,Außenlager,REF820498,In Bearbeitung
+Tf745ce6d,Paa15aa91,Ausgang,-20,2024-10-11 11:47:47,136.325,Retouren,REF978571,In Bearbeitung
+T0471e338,P45a3e9ae,Retoure,3,2023-07-06 02:19:04,10.703,Versand,REF953293,Geplant
+T8861857b,,Ausgang,-5,2023-05-24 05:18:20,,Hauptlager,REF380433,In Bearbeitung
+Ted2dbf93,Pafb5ceb2,Retoure,1,2024-11-01 20:39:34,66.955,Retouren,REF359332,Abgeschlossen
+Tfe1c56af,P5b233719,Ausgang,-2,2023-06-19 14:56:02,30.358999999999995,Hauptlager,REF833345,Abgeschlossen
+Td485595c,P15cb23c4,Bestandskorrektur,0,2023-07-29 18:07:30,82.05399999999999,Hauptlager,REF756931,Abgeschlossen
+Te6578ee0,Pe93cc4c1,Bestandskorrektur,1,2024-01-18 06:59:14,18.837,Hauptlager,REF892657,Geplant
+T1494c560,,Bestandskorrektur,-4,2024-09-05 08:26:09,,Außenlager,REF579955,Abgeschlossen
+Ta92a8bb2,Pdb48c9ee,Retoure,3,2023-04-13 13:50:18,104.51,Hauptlager,REF454544,In Bearbeitung
+T689cd97f,Pdb48c9ee,Retoure,5,2024-08-24 18:30:15,104.51,Hauptlager,REF537856,Abgeschlossen
+T2276a61b,Pbbae2dd5,Eingang,16,2024-09-11 05:27:25,335.47499999999997,Versand,REF595096,Abgeschlossen
+T887f1f8f,P1ed0e77b,Bestandskorrektur,1,2023-09-24 11:07:20,17.450999999999997,Hauptlager,REF971697,Abgeschlossen
+T861fedfe,,Ausgang,-7,2024-07-25 16:15:57,,Außenlager,REF585186,Abgeschlossen
+T05c82d21,P499a265a,Eingang,10,2023-12-17 22:19:12,109.592,Hauptlager,REF136735,In Bearbeitung
+Tb8b96e1c,,Bestandskorrektur,-2,2023-11-15 16:37:20,,Versand,REF378332,Abgeschlossen
+T728ed799,P58d33e21,Ausgang,-19,2024-10-02 18:08:05,379.736,Versand,REF726190,In Bearbeitung
+Ta879c624,,Eingang,15,2024-02-24 04:36:27,,Außenlager,REF918175,Abgeschlossen
+Tbba2e82f,,Retoure,2,2023-05-04 16:01:10,,Versand,REF116730,Geplant
+T3bb064e8,,Ausgang,-18,2023-09-21 08:49:25,,Versand,REF343349,Geplant
+T8d337c3a,P2c5c4414,Ausgang,-20,2024-05-26 13:31:37,664.923,Retouren,REF87332,In Bearbeitung
+T70e80f54,P768564ac,Eingang,58,2024-11-21 12:29:25,105.112,Versand,REF362077,In Bearbeitung
+Tcb5f80ec,Pe284be6f,Ausgang,-20,2024-01-07 09:39:35,134.736,Retouren,REF975479,Abgeschlossen
+Td1bebb20,P71923486,Retoure,3,2023-10-18 12:59:14,83.50999999999999,Außenlager,REF833926,Abgeschlossen
+T09084230,P681c50d2,Eingang,33,2023-03-27 07:49:44,629.3069999999999,Retouren,REF23546,Geplant
+Tc560fec9,P15cb23c4,Eingang,68,2024-11-16 13:52:31,82.05399999999999,Hauptlager,REF961182,Abgeschlossen
+Tafde049d,P71923486,Retoure,2,2023-01-13 02:11:48,83.50999999999999,Retouren,REF525099,Geplant
+T2694a8d1,P7326f7f4,Retoure,2,2024-02-21 05:06:51,30.205,Versand,REF403981,Abgeschlossen
+Tbfcd3762,P5b233719,Retoure,2,2024-03-31 19:21:13,30.358999999999995,Außenlager,REF18456,In Bearbeitung
+T443bfa81,P21e20ef8,Eingang,68,2024-01-28 01:20:37,227.79399999999998,Versand,REF522507,Geplant
+T50a7ef48,P02cf2087,Bestandskorrektur,-5,2024-02-19 13:46:20,464.34499999999997,Hauptlager,REF664181,In Bearbeitung
+Ta2c3ae86,Pcd326c9b,Eingang,32,2024-05-29 22:15:06,547.904,Hauptlager,REF372802,Abgeschlossen
+T0f2b3a51,P150673c5,Ausgang,-14,2024-02-11 05:26:46,689.164,Hauptlager,REF893106,Abgeschlossen
+Taa2f97ce,P45a3e9ae,Eingang,56,2024-04-11 13:18:40,10.703,Außenlager,REF39884,Geplant
+T5c642758,P059dae10,Eingang,91,2023-03-03 11:24:00,667.506,Versand,REF571208,Abgeschlossen
+T1f842312,P150673c5,Ausgang,-2,2023-12-05 11:17:17,689.164,Retouren,REF940661,In Bearbeitung
+Tf3bede95,Pd0fa0e9f,Ausgang,-16,2023-02-07 22:17:40,613.0669999999999,Außenlager,REF830900,Abgeschlossen
+T41186012,,Bestandskorrektur,3,2023-08-21 08:56:23,,Außenlager,REF699056,Abgeschlossen
+Ta404b4d1,,Eingang,23,2023-08-08 08:39:19,,Hauptlager,REF954561,Abgeschlossen
+Tb3fe4bf2,P0fb2db2b,Retoure,5,2024-03-24 02:47:44,208.86599999999999,Außenlager,REF960024,In Bearbeitung
+T0eb14cbd,Pa7d69348,Retoure,4,2023-11-10 16:02:46,62.727,Retouren,REF555351,Geplant
+Te3d7aa9a,Pb880a595,Retoure,3,2023-02-06 08:39:33,212.58999999999997,Retouren,REF499622,Geplant
+Td206b3a2,Pde32edf4,Eingang,10,2024-05-22 15:24:13,34.601,Hauptlager,REF985573,Abgeschlossen
+T3a9257c9,Pdae71328,Retoure,4,2024-09-05 11:15:20,619.927,Versand,REF116247,Abgeschlossen
+Tfa5c483e,P000b799a,Bestandskorrektur,-1,2024-05-29 03:39:29,23.911999999999995,Retouren,REF625878,In Bearbeitung
+T71a63180,,Ausgang,-14,2023-08-23 20:51:54,,Versand,REF876697,In Bearbeitung
+Tc4feebde,P7e94cb04,Eingang,39,2023-11-28 22:40:21,1308.391,Außenlager,REF322978,Abgeschlossen
+T85591f78,P6e8901a4,Bestandskorrektur,-5,2023-03-20 17:47:43,113.00099999999999,Hauptlager,REF535827,Abgeschlossen
+T01e36ee4,Pafb5ceb2,Bestandskorrektur,1,2023-05-15 00:07:47,66.955,Außenlager,REF874927,Geplant
+Taefe4655,,Ausgang,-7,2023-12-22 15:44:29,,Hauptlager,REF289705,Geplant
+Ta446e2a8,,Bestandskorrektur,-2,2023-10-05 11:11:41,,Retouren,REF249008,Abgeschlossen
+Tb640a679,P31008989,Ausgang,-9,2024-11-28 22:40:45,714.371,Versand,REF745749,In Bearbeitung
+T99a9950c,Pb1eb6aa3,Bestandskorrektur,-4,2023-09-13 08:28:55,197.50499999999997,Retouren,REF603602,Geplant
+T34b3a2b1,,Bestandskorrektur,-4,2023-06-25 04:56:54,,Hauptlager,REF474712,Abgeschlossen
+Te10fd984,,Retoure,2,2024-09-19 19:13:47,,Hauptlager,REF44212,Abgeschlossen
+Tcd4d5b18,P2e3f25bf,Bestandskorrektur,5,2023-02-25 08:38:32,27.468,Versand,REF220207,Geplant
+T571312ea,P91c57b81,Eingang,75,2023-12-14 21:44:38,575.008,Hauptlager,REF68749,Abgeschlossen
+T1c3e1bef,Pb1d42b13,Retoure,1,2023-08-08 19:50:57,99.67999999999999,Retouren,REF436269,In Bearbeitung
+Tba4997ca,Pb1d42b13,Eingang,23,2024-03-14 21:51:45,99.67999999999999,Retouren,REF976755,Abgeschlossen
+T9a49092c,P768564ac,Eingang,89,2024-09-16 17:44:23,105.112,Retouren,REF139746,Geplant
+T5c2ee5a6,,Eingang,93,2024-02-07 22:44:57,,Retouren,REF1967,Abgeschlossen
+T3d9631ab,P5e8909d4,Eingang,39,2023-02-24 14:03:57,808.507,Außenlager,REF229014,In Bearbeitung
+T9fd0efab,P5c3dbd2c,Ausgang,-7,2023-04-30 00:40:28,154.97299999999998,Hauptlager,REF865252,Geplant
+Tfeac51ca,P9316c89b,Retoure,2,2024-01-06 16:32:27,185.836,Retouren,REF870274,Geplant
+Ta794e3ac,P35f6e13d,Retoure,4,2023-03-22 22:55:35,308.336,Hauptlager,REF228330,In Bearbeitung
+T4e6a2c1e,P1ab20abf,Eingang,88,2024-10-25 13:06:14,269.269,Hauptlager,REF414987,Geplant
+T2e2df836,Pdb48c9ee,Retoure,5,2024-07-31 06:12:01,104.51,Versand,REF844205,In Bearbeitung
+T555ec8c7,,Eingang,54,2024-08-14 15:03:31,,Außenlager,REF129806,Geplant
+Tc64f2699,Pb1d42b13,Ausgang,-17,2023-04-27 18:37:06,99.67999999999999,Außenlager,REF268106,In Bearbeitung
+Tf6b5906e,Pb0eb7e7d,Ausgang,-8,2023-10-26 06:28:37,338.34499999999997,Hauptlager,REF95042,Abgeschlossen
+T0603930d,P37a0efc6,Bestandskorrektur,-1,2023-03-15 17:59:41,38.352999999999994,Retouren,REF50067,In Bearbeitung
+T7778cf61,,Eingang,31,2023-08-06 20:33:16,,Hauptlager,REF182712,In Bearbeitung
+T2b362355,P5e8909d4,Eingang,94,2024-03-18 05:28:25,808.507,Außenlager,REF752163,In Bearbeitung
+Tda871d9f,,Ausgang,-6,2024-10-24 20:42:33,,Versand,REF283896,In Bearbeitung
+Tb5235630,P0fb2db2b,Ausgang,-6,2024-04-23 21:45:27,208.86599999999999,Hauptlager,REF66767,Geplant
+Te79f435f,P98c0192a,Ausgang,-18,2023-01-15 07:47:12,152.012,Außenlager,REF977279,In Bearbeitung
+T621b5752,P1ab20abf,Bestandskorrektur,0,2023-03-04 05:20:26,269.269,Hauptlager,REF776593,Abgeschlossen
+Tb173c1b9,Pededdd25,Eingang,74,2023-03-02 02:14:55,283.91299999999995,Versand,REF745964,Geplant
+T51850913,Pdb48c9ee,Retoure,5,2024-06-06 06:28:51,104.51,Hauptlager,REF702357,Geplant
+Tc4811c2c,P7326f7f4,Retoure,2,2024-08-04 23:24:39,30.205,Hauptlager,REF731820,Geplant
+T6e6d1ab6,,Bestandskorrektur,4,2024-11-22 22:39:21,,Außenlager,REF551788,Abgeschlossen
+T42f1ac57,Pafb5ceb2,Eingang,55,2024-02-19 14:07:10,66.955,Außenlager,REF565615,Abgeschlossen
+T03e44775,Pa7d69348,Retoure,5,2024-10-11 05:19:08,62.727,Versand,REF292279,In Bearbeitung
+T4de2b38c,Pe284be6f,Ausgang,-5,2024-06-24 12:54:03,134.736,Außenlager,REF8998,In Bearbeitung
+T1ec559e6,P0a45676d,Eingang,88,2024-04-07 14:44:55,546.357,Versand,REF723958,In Bearbeitung
+T6e5d3ee5,P309cbd26,Ausgang,-6,2023-07-15 12:48:03,99.01499999999999,Retouren,REF79922,Abgeschlossen
+T2d2e8744,P51bcf5d2,Bestandskorrektur,-2,2024-05-27 02:42:08,5.893999999999999,Außenlager,REF661524,Geplant
+T8e1984cd,P71923486,Eingang,49,2023-09-21 03:51:20,83.50999999999999,Hauptlager,REF48241,Geplant
+Tc7511ce8,,Ausgang,-1,2023-10-03 03:27:37,,Außenlager,REF785143,Geplant
+T1e2e53e2,P21e20ef8,Retoure,4,2023-08-30 02:52:57,227.79399999999998,Retouren,REF42223,In Bearbeitung
+Tdf796be2,P5aa6cacb,Bestandskorrektur,-3,2024-05-21 16:00:37,727.3699999999999,Retouren,REF862552,Abgeschlossen
+Td15d4e62,,Eingang,82,2023-12-07 21:16:54,,Hauptlager,REF373038,Geplant
+Tc6541749,P58d33e21,Bestandskorrektur,3,2023-01-10 12:32:22,379.736,Versand,REF636658,Abgeschlossen
+T7a0b6e56,P32e7cdce,Ausgang,-11,2023-05-29 06:38:39,1070.776,Versand,REF358854,Abgeschlossen
+T8fe12284,P0260b04c,Bestandskorrektur,-1,2023-03-01 15:58:28,36.848,Außenlager,REF384160,Geplant
+Tf1223e27,,Ausgang,-14,2023-08-31 16:37:11,,Versand,REF443754,In Bearbeitung
+T143ab988,,Retoure,2,2024-05-26 00:48:27,,Hauptlager,REF361195,In Bearbeitung
+Te134aafe,Pdf9aaa73,Bestandskorrektur,3,2023-06-24 06:10:32,760.011,Hauptlager,REF571561,Geplant
+Tb1196944,Pe5a125a2,Ausgang,-15,2024-06-11 08:49:26,822.2199999999999,Außenlager,REF871325,Geplant
+T7102b0c5,P5e8909d4,Bestandskorrektur,1,2023-07-03 20:38:18,808.507,Versand,REF820393,Geplant
+T5f8f5376,P2486f730,Bestandskorrektur,-4,2023-10-09 14:59:30,21.377999999999997,Versand,REF891935,Geplant
+T121e446e,P1ed0e77b,Eingang,19,2024-01-01 14:58:53,17.450999999999997,Hauptlager,REF5285,Geplant
+Ta40a66eb,Pc7eb56da,Ausgang,-2,2024-10-05 03:31:59,352.86299999999994,Versand,REF681664,Abgeschlossen
+T5ece7ad5,P80238d20,Eingang,94,2024-11-22 01:21:17,905.261,Retouren,REF73861,In Bearbeitung
+Tdac8247b,P51bcf5d2,Eingang,83,2023-06-14 09:01:28,5.893999999999999,Versand,REF276461,Geplant
+T1d8870c9,P51bcf5d2,Bestandskorrektur,-1,2024-08-24 10:04:59,5.893999999999999,Retouren,REF83960,Geplant
+Te82e07f8,P8af6ce4c,Bestandskorrektur,-5,2023-05-21 23:42:08,5.718999999999999,Außenlager,REF603882,In Bearbeitung
+Te1c7131e,Pdae71328,Ausgang,-5,2023-08-16 18:31:38,619.927,Versand,REF297106,Abgeschlossen
+T305711df,P984b9129,Retoure,5,2024-08-18 00:33:40,586.9359999999999,Retouren,REF791123,Abgeschlossen
+T2cb8192f,P64ecb39d,Retoure,1,2023-03-29 02:09:36,474.747,Außenlager,REF780171,Abgeschlossen
+T5d089a97,,Ausgang,-19,2024-03-09 10:24:50,,Hauptlager,REF338435,In Bearbeitung
+Ta440fb16,P8b160812,Bestandskorrektur,1,2024-03-30 21:11:10,10.136,Retouren,REF17513,In Bearbeitung
+T5ba55b06,,Retoure,2,2023-08-21 15:33:30,,Außenlager,REF71002,In Bearbeitung
+T582838e3,Peba8359e,Retoure,1,2024-07-29 22:11:01,231.54599999999996,Hauptlager,REF626788,Abgeschlossen
+T017dee20,P522845b5,Eingang,41,2023-03-30 12:01:57,54.43899999999999,Hauptlager,REF621282,In Bearbeitung
+T348f7a32,P258ec8b0,Bestandskorrektur,3,2024-05-09 23:18:48,114.30299999999998,Retouren,REF679150,In Bearbeitung
+Tbf086ba3,,Retoure,2,2023-06-15 03:32:21,,Außenlager,REF390599,Abgeschlossen
+T31bb4e8d,P0fb2db2b,Ausgang,-13,2023-12-17 12:48:58,208.86599999999999,Außenlager,REF404116,Abgeschlossen
+Tb4ff61fc,P7834e026,Bestandskorrektur,-3,2024-05-23 05:29:51,288.75,Außenlager,REF955510,In Bearbeitung
+Tb3242fd0,P0260b04c,Ausgang,-3,2024-06-02 14:16:44,36.848,Versand,REF665572,Geplant
+T0812dcb4,P98c0192a,Bestandskorrektur,0,2024-06-27 06:44:40,152.012,Hauptlager,REF538975,Geplant
+Tfff9dde4,P499a265a,Bestandskorrektur,2,2023-12-10 00:22:06,109.592,Hauptlager,REF222949,In Bearbeitung
+T529353d0,P7e94cb04,Eingang,19,2024-04-08 14:38:13,1308.391,Versand,REF451335,In Bearbeitung
+T35de4685,P1ed0e77b,Retoure,3,2024-02-20 15:19:07,17.450999999999997,Außenlager,REF459854,Abgeschlossen
+Tabd22cd2,P6e8901a4,Eingang,12,2023-09-05 08:09:45,113.00099999999999,Retouren,REF261704,Abgeschlossen
+Te3f21703,P80238d20,Retoure,4,2024-12-02 21:00:13,905.261,Retouren,REF640172,Geplant
+Tffa7a7d8,P2c5c4414,Bestandskorrektur,-4,2024-12-30 00:48:12,664.923,Retouren,REF491870,In Bearbeitung
+T726541e2,Pa9b1f4ad,Retoure,4,2024-02-03 17:18:14,16.113999999999997,Retouren,REF200780,In Bearbeitung
+T6cb1e4b8,Pbe069892,Ausgang,-1,2024-12-12 16:43:23,47.214999999999996,Versand,REF638347,In Bearbeitung
+Tb204ae9a,P64ecb39d,Retoure,5,2024-06-04 14:20:12,474.747,Außenlager,REF248186,In Bearbeitung
+T5c1ecf8f,P60295ad9,Ausgang,-4,2024-07-15 01:04:43,276.493,Retouren,REF374939,In Bearbeitung
+T176007dc,Pdf9aaa73,Eingang,23,2023-10-17 00:41:22,760.011,Hauptlager,REF558194,Geplant
+T1a86f839,Pd0fa0e9f,Bestandskorrektur,3,2023-05-04 21:43:44,613.0669999999999,Außenlager,REF89271,Geplant
+Tdcb7fc06,,Retoure,2,2024-01-15 18:20:25,,Versand,REF553283,Abgeschlossen
+T341f28c0,Pafb5ceb2,Eingang,75,2023-11-09 19:04:12,66.955,Außenlager,REF364529,In Bearbeitung
+Td51ffe66,Pb0eb7e7d,Ausgang,-14,2024-03-25 14:20:10,338.34499999999997,Versand,REF209945,In Bearbeitung
+T2694f690,Pbbae2dd5,Ausgang,-2,2024-07-11 01:09:28,335.47499999999997,Hauptlager,REF138825,Abgeschlossen
+T4000e08d,Pdb48c9ee,Retoure,1,2024-12-24 19:58:16,104.51,Retouren,REF155277,In Bearbeitung
+Tb0505e22,P6e8901a4,Retoure,2,2023-10-23 13:23:24,113.00099999999999,Außenlager,REF657598,Abgeschlossen
+Td5e9dfc0,Pafb5ceb2,Bestandskorrektur,-4,2024-10-31 04:17:57,66.955,Retouren,REF47529,Abgeschlossen
+T33edac0b,P5aa6cacb,Bestandskorrektur,0,2023-08-31 01:48:31,727.3699999999999,Versand,REF621257,Geplant
+Tb17a49aa,P7834e026,Retoure,5,2023-09-07 19:57:51,288.75,Außenlager,REF679725,Abgeschlossen
+T7aa6f7ca,Pbe069892,Ausgang,-16,2023-04-14 09:26:41,47.214999999999996,Hauptlager,REF318892,Geplant
+Tf2d80674,P1ab20abf,Ausgang,-6,2024-08-16 23:32:28,269.269,Versand,REF566294,Abgeschlossen
+T119a362c,P0a45676d,Eingang,77,2024-07-10 20:26:13,546.357,Außenlager,REF270678,Geplant
+T411e1512,P0260b04c,Eingang,98,2023-08-02 00:17:10,36.848,Versand,REF604466,In Bearbeitung
+Tb002a0f5,,Bestandskorrektur,0,2023-05-24 23:29:09,,Hauptlager,REF369210,Geplant
+T34d022d8,Pfd577618,Retoure,5,2024-02-19 15:45:36,97.62899999999999,Retouren,REF45304,Geplant
+T406f8e48,P984b9129,Retoure,3,2023-04-28 20:28:02,586.9359999999999,Versand,REF342928,Geplant
+Tae8b80f4,P15cb23c4,Ausgang,-2,2023-01-27 07:41:39,82.05399999999999,Hauptlager,REF361185,Geplant
+T44d945af,Pe704ab75,Bestandskorrektur,2,2024-08-16 14:01:21,292.754,Außenlager,REF839101,Geplant
+Tdbf862b7,P984b9129,Retoure,2,2024-06-02 18:26:11,586.9359999999999,Versand,REF925340,Abgeschlossen
+Tededace6,,Eingang,76,2023-01-13 10:51:25,,Retouren,REF597382,Geplant
+Tec8c3f96,Pb0eb7e7d,Bestandskorrektur,2,2023-10-09 20:35:18,338.34499999999997,Versand,REF917942,In Bearbeitung
+Tc41864d1,Pb880a595,Eingang,97,2023-11-01 12:13:18,212.58999999999997,Außenlager,REF163778,Abgeschlossen
+T8a21a1b6,Pf750a342,Ausgang,-20,2023-05-31 10:18:35,18.214,Hauptlager,REF489308,In Bearbeitung
+T76f7f2ea,Pe940f056,Ausgang,-20,2024-10-31 20:11:58,31.346,Retouren,REF315438,Abgeschlossen
+T394f9616,Pde32edf4,Eingang,94,2024-09-03 13:56:49,34.601,Retouren,REF340143,Abgeschlossen
+T5d927df9,Pdae71328,Ausgang,-5,2023-02-18 16:10:57,619.927,Retouren,REF891520,Abgeschlossen
+T97bc55d8,P7834e026,Ausgang,-9,2024-02-03 04:09:15,288.75,Retouren,REF938893,In Bearbeitung
+Tcca0a9c4,P059dae10,Ausgang,-17,2023-04-07 14:07:19,667.506,Hauptlager,REF55027,Abgeschlossen
+Tdfe3a9c0,,Eingang,46,2024-04-19 21:06:21,,Hauptlager,REF384047,Abgeschlossen
+T42033784,Pdae71328,Bestandskorrektur,5,2023-12-19 02:39:15,619.927,Hauptlager,REF206973,Abgeschlossen
+T5e9ae5c6,P91c57b81,Retoure,3,2024-03-31 05:47:06,575.008,Außenlager,REF307213,In Bearbeitung
+T932dabf2,P15cb23c4,Bestandskorrektur,-4,2023-10-07 17:12:03,82.05399999999999,Versand,REF247350,Abgeschlossen
+Tdf164ae5,P309cbd26,Ausgang,-9,2024-06-16 21:59:09,99.01499999999999,Außenlager,REF703888,In Bearbeitung
+T013178da,P984784d6,Ausgang,-2,2023-05-24 19:42:24,18.311999999999998,Außenlager,REF498612,In Bearbeitung
+Tcfcbaf5f,Pb880a595,Retoure,3,2023-07-23 15:40:12,212.58999999999997,Retouren,REF206290,Abgeschlossen
+T8b630773,P60295ad9,Ausgang,-6,2024-12-15 06:35:34,276.493,Versand,REF409165,Abgeschlossen
+T4ef5c034,P6e8901a4,Eingang,53,2024-05-01 12:58:46,113.00099999999999,Hauptlager,REF946271,Geplant
+Ta3c7486c,P4f5b8304,Eingang,61,2023-12-30 00:34:32,1322.811,Versand,REF478282,Abgeschlossen
+T1bc6070d,P2e3f25bf,Ausgang,-2,2023-03-08 16:10:41,27.468,Versand,REF815841,Abgeschlossen
+Tda3c6622,Pfd577618,Bestandskorrektur,0,2024-07-02 15:38:31,97.62899999999999,Retouren,REF930058,Abgeschlossen
+T8a8f69e2,Pa99221e5,Retoure,2,2024-11-24 08:03:02,18.494,Retouren,REF445355,In Bearbeitung
+T8a16e24f,P2c5c4414,Ausgang,-5,2024-04-02 10:24:56,664.923,Retouren,REF168387,In Bearbeitung
+T8eda20d4,P21e20ef8,Ausgang,-3,2024-03-03 19:35:00,227.79399999999998,Außenlager,REF516564,Geplant
+T36bc8a4c,Pe284be6f,Ausgang,-19,2023-08-24 03:14:35,134.736,Hauptlager,REF183933,Abgeschlossen
+Tf8091ec7,,Ausgang,-8,2024-12-03 23:35:16,,Außenlager,REF857960,Abgeschlossen
+T1f13c4bd,P33796485,Bestandskorrektur,-4,2024-04-17 04:11:17,110.726,Außenlager,REF251702,Geplant
+T4a9e055f,P7e945270,Eingang,76,2023-02-28 19:32:15,81.508,Außenlager,REF488781,Abgeschlossen
+Te9a02bac,P98c0192a,Bestandskorrektur,1,2023-11-30 21:53:31,152.012,Außenlager,REF591059,Abgeschlossen
+T7512dccf,P5c3dbd2c,Retoure,4,2023-05-28 03:03:08,154.97299999999998,Außenlager,REF534607,In Bearbeitung
+T7d85239c,P266b08a1,Ausgang,-20,2024-11-02 18:03:31,16.961,Hauptlager,REF351051,In Bearbeitung
+T7ab0bf8f,Pb880a595,Bestandskorrektur,1,2024-10-16 00:01:12,212.58999999999997,Retouren,REF6972,In Bearbeitung
+Tc7253f4a,P9da815f8,Eingang,22,2024-10-02 21:41:20,13.873999999999999,Außenlager,REF106297,Abgeschlossen
+Tfe8cb3ad,P4f5b8304,Eingang,50,2024-01-09 19:31:10,1322.811,Hauptlager,REF205845,Geplant
+Ta975d451,Pf4b7500e,Retoure,3,2024-11-20 15:00:19,150.29,Hauptlager,REF807540,In Bearbeitung
+Tbea643af,P33796485,Retoure,4,2024-11-09 05:31:53,110.726,Außenlager,REF197954,Geplant
+T829f5476,P1ab20abf,Retoure,1,2023-05-12 19:34:13,269.269,Hauptlager,REF813675,Abgeschlossen
+T75fe834b,P91c57b81,Eingang,95,2024-11-11 06:52:51,575.008,Versand,REF340572,Geplant
+T9e15f90a,Paa15aa91,Eingang,100,2024-09-02 20:03:48,136.325,Hauptlager,REF625873,Geplant
+T9d0b2cea,P7326f7f4,Ausgang,-14,2023-03-04 19:22:35,30.205,Versand,REF297061,Geplant
+T45c64b44,P681c50d2,Ausgang,-7,2024-10-23 04:23:35,629.3069999999999,Außenlager,REF454396,Abgeschlossen
+Tdbad732c,P681c50d2,Bestandskorrektur,2,2023-01-03 19:23:43,629.3069999999999,Versand,REF789802,In Bearbeitung
+T4d3a498f,Pa9b1f4ad,Eingang,90,2024-04-17 08:16:26,16.113999999999997,Außenlager,REF427311,Abgeschlossen
+T52ed4d35,,Bestandskorrektur,2,2024-01-07 11:27:58,,Außenlager,REF185899,In Bearbeitung
+T068a378f,P7e945270,Retoure,4,2024-12-14 16:15:54,81.508,Versand,REF267936,Geplant
+T7dc12096,P0260b04c,Ausgang,-4,2023-03-24 08:51:20,36.848,Versand,REF487928,In Bearbeitung
+T84b3772e,P6e8901a4,Ausgang,-13,2024-07-04 16:00:15,113.00099999999999,Außenlager,REF980887,Geplant
+T683cf2ff,P8af6ce4c,Ausgang,-12,2023-04-17 15:30:40,5.718999999999999,Außenlager,REF420385,Abgeschlossen
+T04768592,P8af6ce4c,Retoure,5,2024-12-08 03:38:15,5.718999999999999,Versand,REF593049,Abgeschlossen
+Tbd9dc49d,Pdbd241d0,Ausgang,-3,2024-03-18 08:18:23,89.306,Versand,REF231723,Geplant
+Tcee3e025,,Retoure,2,2023-09-11 15:17:59,,Retouren,REF892842,Geplant
+Td77254a7,P000b799a,Eingang,70,2023-08-17 09:41:57,23.911999999999995,Hauptlager,REF841336,Abgeschlossen
+T2bb30138,,Eingang,40,2023-07-07 19:41:58,,Hauptlager,REF987370,In Bearbeitung
+T183e5759,Pa99221e5,Bestandskorrektur,1,2024-02-15 19:57:07,18.494,Außenlager,REF257187,In Bearbeitung
+T3241a2fe,Pdb48c9ee,Retoure,1,2024-10-20 14:51:25,104.51,Außenlager,REF962773,Abgeschlossen
+Tf66f092e,P2c5c4414,Eingang,72,2024-10-01 15:10:50,664.923,Außenlager,REF451137,In Bearbeitung
+Tf4114f16,P9da815f8,Ausgang,-6,2023-03-16 06:08:55,13.873999999999999,Retouren,REF804067,Geplant
+T824fe2da,Pf519fe1a,Retoure,3,2024-11-07 08:38:13,211.40699999999998,Retouren,REF698727,Geplant
+T5cb6dee7,Pfd577618,Eingang,41,2024-11-16 10:53:30,97.62899999999999,Hauptlager,REF648902,Geplant
+T5e91758f,P98c0192a,Eingang,17,2024-11-20 02:27:15,152.012,Hauptlager,REF367329,In Bearbeitung
+Ta27d01d2,P1ed0e77b,Bestandskorrektur,-1,2024-06-17 06:42:09,17.450999999999997,Hauptlager,REF898184,In Bearbeitung
+T74d697c7,P1ab20abf,Retoure,2,2023-12-24 11:58:43,269.269,Außenlager,REF981301,In Bearbeitung
+Tc516e972,Pd87e7c3b,Bestandskorrektur,4,2023-04-06 18:50:43,76.52399999999999,Außenlager,REF151733,In Bearbeitung
+T29c5b7a2,,Bestandskorrektur,-4,2024-08-31 22:26:30,,Außenlager,REF166779,In Bearbeitung
+T9a77b688,,Bestandskorrektur,4,2023-04-01 17:36:20,,Versand,REF72139,Abgeschlossen
+T68d569dc,Pb0eb7e7d,Eingang,61,2024-05-10 05:05:12,338.34499999999997,Retouren,REF530063,Geplant
+T37fc1e1e,Pdb48c9ee,Retoure,1,2024-01-09 14:57:14,104.51,Retouren,REF754982,In Bearbeitung
+T3728beef,Pd87e7c3b,Bestandskorrektur,3,2024-06-23 18:02:53,76.52399999999999,Versand,REF632874,Geplant
+T16ee6100,Pd87e7c3b,Ausgang,-12,2023-12-10 15:00:21,76.52399999999999,Hauptlager,REF59058,Abgeschlossen
+Td22fc09f,P32e7cdce,Eingang,29,2023-01-21 01:16:08,1070.776,Hauptlager,REF893495,Geplant
+T305d11f4,Pafb5ceb2,Eingang,58,2023-03-19 20:32:51,66.955,Versand,REF449269,In Bearbeitung
+Tb87323c7,P7326f7f4,Eingang,94,2024-06-29 10:31:09,30.205,Retouren,REF53759,Abgeschlossen
+T1879d236,,Bestandskorrektur,0,2023-05-10 16:32:26,,Außenlager,REF905223,In Bearbeitung
+T3f969ddd,Pfbad365e,Retoure,1,2023-01-31 20:03:00,600.194,Retouren,REF67832,Abgeschlossen
+Tf411175c,P35f6e13d,Eingang,60,2023-04-14 15:34:43,308.336,Hauptlager,REF8127,Geplant
+Tf0e78ee4,,Bestandskorrektur,-4,2024-03-29 08:08:56,,Außenlager,REF588366,In Bearbeitung
+T9fc1d22a,Pcd326c9b,Retoure,1,2023-08-20 07:49:59,547.904,Versand,REF613292,Geplant
+T84ef774e,Pa7ae716f,Retoure,3,2024-07-20 09:17:25,9.296,Versand,REF13087,Abgeschlossen
+T0e872ad7,Pededdd25,Retoure,5,2024-05-21 20:12:07,283.91299999999995,Außenlager,REF321440,In Bearbeitung
+T75761a8b,P258ec8b0,Bestandskorrektur,1,2023-05-15 15:21:08,114.30299999999998,Hauptlager,REF291088,Geplant
+T91f01846,Pe284be6f,Bestandskorrektur,4,2023-10-06 18:25:28,134.736,Versand,REF894632,Abgeschlossen
+T3ec5047d,,Ausgang,-14,2024-10-05 17:29:42,,Außenlager,REF134193,Geplant
+Tb7908b27,Pc7eb56da,Bestandskorrektur,1,2024-10-18 11:20:28,352.86299999999994,Retouren,REF657372,In Bearbeitung
+T7146f61b,Pfbad365e,Bestandskorrektur,4,2023-06-05 08:11:43,600.194,Außenlager,REF540225,Geplant
+T77709e16,P984b9129,Retoure,1,2024-08-02 12:39:35,586.9359999999999,Hauptlager,REF665643,In Bearbeitung
+T98f2e23b,P58d33e21,Bestandskorrektur,5,2023-02-20 15:36:37,379.736,Versand,REF69689,Abgeschlossen
+Tc8429c5a,Pfd577618,Retoure,2,2024-08-27 17:50:11,97.62899999999999,Retouren,REF217186,Abgeschlossen
+Tc8ac9921,P258ec8b0,Ausgang,-13,2023-08-15 11:36:39,114.30299999999998,Retouren,REF381542,Abgeschlossen
+T47d03065,Pde32edf4,Retoure,1,2023-04-07 05:13:15,34.601,Hauptlager,REF337096,Geplant
+T7c6f09a0,Pa9b1f4ad,Ausgang,-16,2023-04-23 06:47:32,16.113999999999997,Außenlager,REF296709,Geplant
+T39b08c43,P8b160812,Retoure,4,2024-02-22 18:13:39,10.136,Versand,REF688196,In Bearbeitung
+T0b92cbfc,P51bcf5d2,Retoure,2,2024-07-14 15:26:34,5.893999999999999,Versand,REF464639,Abgeschlossen
+T1c9713a6,,Retoure,3,2024-10-04 04:22:23,,Hauptlager,REF525532,Abgeschlossen
+Tb77dc8ca,P33796485,Eingang,45,2024-11-03 00:53:26,110.726,Versand,REF679603,Geplant
+Tece58834,P64ecb39d,Bestandskorrektur,3,2024-01-31 18:33:45,474.747,Retouren,REF738473,In Bearbeitung
+T29dda18f,,Ausgang,-14,2024-08-22 20:59:25,,Außenlager,REF70507,Abgeschlossen
+Tabe5241f,Peba8359e,Bestandskorrektur,1,2024-02-28 07:23:30,231.54599999999996,Außenlager,REF494794,Geplant
+Tde5e0b04,P58d33e21,Eingang,20,2024-01-01 17:18:56,379.736,Versand,REF154931,In Bearbeitung
+T84b8a104,Pbe069892,Bestandskorrektur,-1,2023-01-26 22:49:11,47.214999999999996,Außenlager,REF520023,Abgeschlossen
+T2dce4da4,Pb1eb6aa3,Eingang,85,2024-02-12 14:20:23,197.50499999999997,Außenlager,REF308780,Abgeschlossen
+T5827504e,P2486f730,Eingang,29,2023-01-17 06:57:08,21.377999999999997,Versand,REF960141,In Bearbeitung
+Tb6e8cd8a,Pb0eb7e7d,Bestandskorrektur,5,2023-09-12 18:56:21,338.34499999999997,Retouren,REF62301,In Bearbeitung
+Ta622b7bb,P984784d6,Eingang,24,2023-09-08 11:13:49,18.311999999999998,Retouren,REF806584,In Bearbeitung
+Tba4c5d5a,Pb880a595,Retoure,3,2023-06-08 21:44:24,212.58999999999997,Retouren,REF897809,Geplant
+T252bb0dd,P522845b5,Bestandskorrektur,-1,2023-11-18 10:19:11,54.43899999999999,Hauptlager,REF985195,Abgeschlossen
+T31035309,P4f5b8304,Ausgang,-18,2024-09-11 03:59:24,1322.811,Hauptlager,REF432475,In Bearbeitung
+T40aa56a5,P6d3e39ee,Retoure,4,2023-03-31 03:16:48,725.8089999999999,Retouren,REF254369,Abgeschlossen
+T9fc19bf8,P150673c5,Bestandskorrektur,0,2024-01-24 22:45:22,689.164,Hauptlager,REF180042,In Bearbeitung
+T8004edd6,Pb880a595,Eingang,52,2023-08-07 22:59:56,212.58999999999997,Retouren,REF869620,Geplant
+T0b2fe9ad,Pb1d42b13,Ausgang,-14,2024-12-29 11:46:05,99.67999999999999,Außenlager,REF798867,Geplant
+T34ea4358,Pe704ab75,Ausgang,-3,2023-12-25 15:14:35,292.754,Außenlager,REF72669,Geplant
+T95c825be,Pdab1267e,Eingang,36,2024-07-27 14:20:58,158.18599999999998,Versand,REF44994,In Bearbeitung
+T55342d3c,P7e94cb04,Eingang,70,2023-09-07 16:18:38,1308.391,Außenlager,REF230275,Geplant
+T56ded6ad,Pdae71328,Eingang,83,2024-02-18 17:26:02,619.927,Außenlager,REF569475,In Bearbeitung
+Te70362c4,Pd32e1690,Ausgang,-10,2023-08-22 18:30:24,345.002,Hauptlager,REF90588,Abgeschlossen
+T7ac6e847,Pb1d42b13,Retoure,5,2023-09-17 13:19:44,99.67999999999999,Hauptlager,REF95797,In Bearbeitung
+T3d9927d0,P5b233719,Ausgang,-5,2024-05-09 02:30:56,30.358999999999995,Außenlager,REF562334,Abgeschlossen
+T6ba2a408,P266b08a1,Retoure,1,2023-12-19 20:25:16,16.961,Retouren,REF167577,In Bearbeitung
+Tde4ff9f7,P258ec8b0,Eingang,90,2024-12-28 23:29:44,114.30299999999998,Außenlager,REF521886,Abgeschlossen
+Tdef603d1,Pb1eb6aa3,Ausgang,-18,2023-10-25 01:53:34,197.50499999999997,Versand,REF883425,Geplant
+Tcb353897,P32e7cdce,Retoure,4,2024-09-09 17:43:41,1070.776,Retouren,REF105334,Geplant
+T60d46ea3,P8af6ce4c,Ausgang,-8,2024-09-25 18:48:56,5.718999999999999,Hauptlager,REF105971,Geplant
+T58c649b9,,Retoure,2,2024-12-09 16:00:34,,Retouren,REF600796,In Bearbeitung
+Tcb74b229,Pf4b7500e,Retoure,2,2024-11-16 15:54:49,150.29,Hauptlager,REF908837,Abgeschlossen
+Tdebb5b67,,Eingang,33,2023-11-01 06:20:48,,Außenlager,REF519033,Abgeschlossen
+Ta708fedf,P0fb2db2b,Ausgang,-2,2024-07-23 05:54:18,208.86599999999999,Retouren,REF72657,Abgeschlossen
+T0656bc30,P6e01d9a3,Bestandskorrektur,-1,2023-09-08 01:34:28,25.291,Hauptlager,REF138337,Geplant
+T7618420c,P5b233719,Retoure,2,2024-03-30 01:50:21,30.358999999999995,Außenlager,REF415254,In Bearbeitung
+T18e14d6b,Peba8359e,Retoure,1,2023-11-07 19:12:32,231.54599999999996,Außenlager,REF898845,In Bearbeitung
+Tf9b59681,P77772f74,Eingang,45,2024-08-26 09:36:35,48.811,Außenlager,REF632181,Geplant
+Td742ea1c,P5aa6cacb,Ausgang,-12,2024-07-12 08:14:03,727.3699999999999,Hauptlager,REF72293,Geplant
+T65bf1f53,P5aa6cacb,Retoure,5,2024-03-19 13:46:15,727.3699999999999,Versand,REF222669,Geplant
+T59983582,P2be52bb7,Bestandskorrektur,-5,2023-12-30 09:01:47,855.351,Hauptlager,REF828933,Geplant
+T4901cecf,Pdf9aaa73,Ausgang,-3,2024-12-24 01:52:37,760.011,Versand,REF475574,Abgeschlossen
+T32fb2c00,Pdae71328,Bestandskorrektur,1,2023-06-17 19:08:33,619.927,Hauptlager,REF827761,In Bearbeitung
+Tbfab7656,Pb880a595,Bestandskorrektur,5,2024-11-06 15:23:57,212.58999999999997,Retouren,REF412734,In Bearbeitung
+T2a49298d,Pe940f056,Bestandskorrektur,-5,2024-08-10 20:54:01,31.346,Außenlager,REF117200,In Bearbeitung
+Td330d54d,,Retoure,1,2024-07-08 18:06:12,,Retouren,REF297810,In Bearbeitung
+T1502357c,Pcd326c9b,Bestandskorrektur,-4,2024-11-21 01:31:58,547.904,Retouren,REF346697,Geplant
+T13807bd3,P000b799a,Ausgang,-6,2023-10-17 22:03:40,23.911999999999995,Außenlager,REF539426,In Bearbeitung
+Tc1dc0bd2,P4f5b8304,Retoure,5,2024-02-16 10:48:33,1322.811,Versand,REF504878,In Bearbeitung
+T15b3b27f,,Ausgang,-16,2023-04-27 03:10:01,,Versand,REF219294,Geplant
+T962952f2,Pfd577618,Eingang,54,2023-11-25 01:47:58,97.62899999999999,Versand,REF934174,Geplant
+Ta3806ee1,Pe5a125a2,Eingang,64,2024-06-23 02:57:35,822.2199999999999,Hauptlager,REF72294,Geplant
+Te0e8ea63,P984b9129,Retoure,4,2024-08-11 07:27:48,586.9359999999999,Retouren,REF289066,In Bearbeitung
+T3e327ced,Pb0eb7e7d,Retoure,5,2023-12-05 06:22:20,338.34499999999997,Versand,REF420633,Abgeschlossen
+T5727b27b,P15cb23c4,Ausgang,-17,2023-10-08 05:43:18,82.05399999999999,Versand,REF902385,Geplant
+Tead7de1c,Pfbad365e,Eingang,45,2023-09-09 08:02:58,600.194,Versand,REF134930,In Bearbeitung
+Te7a9a1f7,Pa7ae716f,Ausgang,-13,2024-08-23 13:28:10,9.296,Außenlager,REF114986,In Bearbeitung
+Tbfdcbce4,P02cf2087,Bestandskorrektur,-3,2023-06-10 10:05:27,464.34499999999997,Retouren,REF399918,Abgeschlossen
+T984a273e,P8af6ce4c,Ausgang,-14,2023-07-12 22:20:41,5.718999999999999,Retouren,REF903697,In Bearbeitung
+T55f85dbc,Pe93cc4c1,Eingang,69,2024-07-11 18:08:03,18.837,Hauptlager,REF479327,Abgeschlossen
+T0b3183b0,Pf519fe1a,Bestandskorrektur,4,2024-10-08 17:24:53,211.40699999999998,Hauptlager,REF848051,In Bearbeitung
+T8e7a609f,P02cf2087,Bestandskorrektur,3,2024-02-17 05:40:38,464.34499999999997,Hauptlager,REF486741,Geplant
+T4dcd6fa8,Peba8359e,Bestandskorrektur,-3,2024-12-13 06:12:17,231.54599999999996,Versand,REF853481,Abgeschlossen
+Tce1905f5,Pf519fe1a,Bestandskorrektur,5,2024-08-02 16:53:11,211.40699999999998,Retouren,REF408257,Abgeschlossen
+Tea2356b7,Pb1eb6aa3,Eingang,45,2023-04-26 08:30:09,197.50499999999997,Hauptlager,REF181142,Abgeschlossen
+Tfd2ef968,P984784d6,Ausgang,-2,2023-04-27 19:22:36,18.311999999999998,Hauptlager,REF823834,Abgeschlossen
+T1adca2ac,P5aa6cacb,Ausgang,-13,2024-11-15 23:39:21,727.3699999999999,Hauptlager,REF282450,Abgeschlossen
+T595c30b7,P7af6bba0,Bestandskorrektur,2,2024-07-25 19:23:09,10.927,Hauptlager,REF185568,Geplant
+Tfbbb22bf,Pb702965e,Retoure,1,2023-04-08 14:41:09,232.59599999999998,Retouren,REF302315,In Bearbeitung
+Tc6d11654,,Bestandskorrektur,2,2024-02-23 08:19:37,,Versand,REF312356,Geplant
+T90540ad7,Pe93cc4c1,Ausgang,-19,2024-07-05 18:15:39,18.837,Außenlager,REF667333,Abgeschlossen
+T6e78098c,P8af6ce4c,Eingang,14,2023-02-03 18:05:13,5.718999999999999,Versand,REF957568,Abgeschlossen
+T9d21de65,P9316c89b,Bestandskorrektur,-1,2024-04-25 16:12:53,185.836,Retouren,REF641292,Abgeschlossen
+Tb143481d,Pe704ab75,Retoure,4,2023-01-12 03:55:28,292.754,Retouren,REF737394,In Bearbeitung
+Te196fffb,Pafb5ceb2,Bestandskorrektur,5,2024-12-24 11:12:07,66.955,Außenlager,REF739288,Geplant
+T24b79607,P768564ac,Eingang,93,2023-12-11 08:32:27,105.112,Hauptlager,REF553452,Abgeschlossen
+T533a2ae8,P6e8901a4,Ausgang,-12,2024-04-13 17:35:32,113.00099999999999,Außenlager,REF367851,In Bearbeitung
+Tf9fbcdc9,Pfbad365e,Eingang,30,2024-11-08 04:06:07,600.194,Versand,REF257955,Abgeschlossen
+T2eb88741,P55e4365b,Eingang,93,2023-07-07 14:05:50,501.956,Retouren,REF412638,Geplant
+T9c90955a,Pdf9aaa73,Bestandskorrektur,2,2023-03-22 09:57:06,760.011,Außenlager,REF204233,In Bearbeitung
+Te1d995ae,,Bestandskorrektur,4,2024-01-24 21:15:12,,Retouren,REF567351,Abgeschlossen
+T17c95715,P499a265a,Retoure,3,2024-06-13 04:16:08,109.592,Versand,REF9027,In Bearbeitung
+Tebbfeab7,Pf4b7500e,Eingang,53,2024-02-17 20:01:40,150.29,Außenlager,REF285617,Abgeschlossen
+Tc097670c,,Eingang,36,2023-01-07 11:50:54,,Versand,REF374765,Geplant
+Ta092dff2,,Ausgang,-3,2024-06-06 20:24:31,,Hauptlager,REF792202,In Bearbeitung
+T1b9c7dba,P7e94cb04,Eingang,69,2023-05-24 03:12:31,1308.391,Hauptlager,REF632061,In Bearbeitung
+T764be7e8,P5c3dbd2c,Retoure,3,2023-10-28 12:57:11,154.97299999999998,Außenlager,REF739972,Abgeschlossen
+T828ebba3,Pa99221e5,Eingang,53,2024-08-02 19:50:35,18.494,Außenlager,REF405774,Abgeschlossen
+Te95a729a,P309cbd26,Ausgang,-5,2023-04-25 22:38:49,99.01499999999999,Außenlager,REF177821,Abgeschlossen
+T45fdcf57,Pde32edf4,Retoure,2,2024-01-15 03:09:38,34.601,Versand,REF339208,Abgeschlossen
+T292407fc,Pcd326c9b,Ausgang,-5,2024-07-08 13:23:00,547.904,Retouren,REF678890,Abgeschlossen
+T7eb77ebf,Pe5a125a2,Retoure,4,2024-04-09 04:19:14,822.2199999999999,Retouren,REF17703,In Bearbeitung
+T60906254,Pd87e7c3b,Retoure,4,2024-02-27 11:09:35,76.52399999999999,Retouren,REF679029,Abgeschlossen
+Tfd61385b,,Bestandskorrektur,4,2023-12-01 19:49:56,,Außenlager,REF107214,Geplant
+Tef33eb54,Pdae71328,Bestandskorrektur,2,2023-10-18 08:24:34,619.927,Hauptlager,REF664264,Abgeschlossen
+Tafe0a95b,P5aa6cacb,Bestandskorrektur,-3,2024-07-17 17:02:18,727.3699999999999,Außenlager,REF740943,Geplant
+Taf61aace,P4f5b8304,Eingang,32,2023-02-24 12:53:00,1322.811,Versand,REF621236,In Bearbeitung
+T975db29c,P60295ad9,Retoure,2,2024-11-09 01:08:08,276.493,Hauptlager,REF264217,Geplant
+T94bc868d,P33796485,Bestandskorrektur,5,2023-01-28 08:37:26,110.726,Retouren,REF783485,Abgeschlossen
+T63e3f2c7,P5b233719,Bestandskorrektur,2,2023-03-09 17:36:47,30.358999999999995,Hauptlager,REF770469,Geplant
+T8795623e,P309cbd26,Bestandskorrektur,-3,2023-09-12 21:53:16,99.01499999999999,Retouren,REF46524,Geplant
+T8014ef11,P98c0192a,Eingang,40,2023-08-08 03:10:17,152.012,Außenlager,REF880998,Geplant
+T4e6c07b4,P45a3e9ae,Ausgang,-9,2023-09-10 21:31:08,10.703,Versand,REF165463,Abgeschlossen
+T48b1f4c9,P37a1cc45,Ausgang,-7,2023-09-09 15:54:33,26.215,Retouren,REF820142,Abgeschlossen
+T5ad1bde9,P2486f730,Ausgang,-6,2023-08-08 14:20:40,21.377999999999997,Außenlager,REF512260,Geplant
+T06b1bfcd,P0fb2db2b,Retoure,2,2023-09-26 02:28:34,208.86599999999999,Versand,REF337795,In Bearbeitung
+Te34d7787,,Ausgang,-20,2023-12-29 07:26:33,,Versand,REF314456,Geplant
+T94fbdb19,P768564ac,Ausgang,-9,2024-11-05 09:40:01,105.112,Versand,REF498830,Geplant
+T6cf14228,P5e8909d4,Bestandskorrektur,3,2024-05-15 09:44:33,808.507,Hauptlager,REF385731,In Bearbeitung
+Tabad4c07,Pa9b1f4ad,Eingang,100,2024-05-03 11:40:32,16.113999999999997,Hauptlager,REF361673,In Bearbeitung
+Td1de1d6f,,Bestandskorrektur,-1,2023-04-02 13:02:45,,Hauptlager,REF176681,In Bearbeitung
+Td2bbacb7,P522845b5,Retoure,2,2023-09-13 11:35:21,54.43899999999999,Außenlager,REF499940,In Bearbeitung
+Tecaff0fd,P4f5b8304,Retoure,4,2024-09-19 10:18:02,1322.811,Versand,REF642705,In Bearbeitung
+Te09ae263,P7e945270,Bestandskorrektur,-5,2023-02-22 14:06:33,81.508,Außenlager,REF194362,In Bearbeitung
+Tcd53cef5,P33796485,Eingang,60,2024-07-09 00:07:41,110.726,Retouren,REF916461,In Bearbeitung
+T07b1099a,Pb2f63edd,Ausgang,-16,2024-07-08 16:27:27,46.305,Retouren,REF748782,Geplant
+T5f695df3,Pafb5ceb2,Bestandskorrektur,2,2024-11-03 19:54:16,66.955,Versand,REF323847,Abgeschlossen
+T12086ec3,Pdf9aaa73,Bestandskorrektur,-5,2024-12-27 11:11:37,760.011,Retouren,REF904266,Geplant
+T144f2354,P5b233719,Eingang,65,2023-01-25 14:01:30,30.358999999999995,Außenlager,REF444730,In Bearbeitung
+Td17b87f0,,Retoure,2,2024-12-21 12:49:24,,Versand,REF564754,In Bearbeitung
+T50e9f898,P6bc3575d,Ausgang,-18,2024-01-25 17:30:26,338.772,Außenlager,REF432440,Abgeschlossen
+T5fbb1f2f,P4f5b8304,Retoure,1,2023-03-21 17:34:05,1322.811,Außenlager,REF752440,In Bearbeitung
+T519db493,P150673c5,Ausgang,-9,2024-07-30 23:45:36,689.164,Außenlager,REF580812,Geplant
+Te9712069,Pdae71328,Retoure,1,2023-10-02 22:05:26,619.927,Retouren,REF88386,In Bearbeitung
+T672b6532,Pdae71328,Bestandskorrektur,-2,2023-01-24 12:29:10,619.927,Hauptlager,REF26748,Abgeschlossen
+T08c7e052,P35f6e13d,Bestandskorrektur,-4,2023-07-28 06:25:29,308.336,Außenlager,REF143676,In Bearbeitung
+Teb44c49d,P9316c89b,Eingang,71,2023-03-23 08:39:16,185.836,Retouren,REF498811,Abgeschlossen
+T3e6bd5c3,P80238d20,Bestandskorrektur,2,2023-07-27 11:31:45,905.261,Außenlager,REF801939,In Bearbeitung
+Te050d82d,P7326f7f4,Eingang,63,2023-02-15 06:43:58,30.205,Versand,REF186389,Geplant
+Tc0295af3,Pb0eb7e7d,Bestandskorrektur,3,2023-07-25 05:59:45,338.34499999999997,Außenlager,REF831941,In Bearbeitung
+T3c4005f4,P5b233719,Retoure,5,2024-09-25 19:21:46,30.358999999999995,Hauptlager,REF495853,Abgeschlossen
+Tada086e1,Pa8d55241,Bestandskorrektur,4,2024-03-30 22:33:53,175.777,Versand,REF813126,Abgeschlossen
+T4dd1384e,P60295ad9,Ausgang,-1,2024-03-06 16:41:39,276.493,Versand,REF954510,Geplant
+T2fd16779,P258ec8b0,Ausgang,-17,2023-01-26 04:44:57,114.30299999999998,Retouren,REF952589,Geplant
+Te1ebd5b7,P9316c89b,Bestandskorrektur,1,2024-09-06 09:21:00,185.836,Hauptlager,REF900243,In Bearbeitung
+Taadac4e0,P6e8901a4,Bestandskorrektur,0,2023-10-11 09:03:51,113.00099999999999,Retouren,REF149279,In Bearbeitung
+Tffe2332f,,Bestandskorrektur,0,2023-12-20 04:21:34,,Retouren,REF588538,Abgeschlossen
+Tf3ab7307,Pf750a342,Bestandskorrektur,5,2024-02-01 10:56:08,18.214,Außenlager,REF959872,Geplant
+T12a1a18f,,Eingang,63,2024-07-20 12:55:02,,Retouren,REF970190,In Bearbeitung
+T891dc467,P32e7cdce,Ausgang,-3,2024-12-12 17:45:57,1070.776,Außenlager,REF250333,Geplant
+T83e55af5,Pb880a595,Ausgang,-20,2024-01-31 10:11:14,212.58999999999997,Versand,REF748077,Abgeschlossen
+Tafacee54,P7e945270,Ausgang,-11,2023-06-11 16:51:15,81.508,Hauptlager,REF777458,In Bearbeitung
+Tc80fa682,P5c3dbd2c,Eingang,82,2023-02-13 16:21:44,154.97299999999998,Außenlager,REF486015,Abgeschlossen
+T03c2620b,Pe704ab75,Eingang,55,2023-01-24 08:16:06,292.754,Versand,REF253814,Abgeschlossen
+T57782e0e,Pb1eb6aa3,Eingang,66,2024-11-13 00:37:00,197.50499999999997,Hauptlager,REF821998,Geplant
+Td72a59c2,Pcd326c9b,Ausgang,-7,2023-02-18 01:14:46,547.904,Außenlager,REF679135,Abgeschlossen
+T5806adfb,P15cb23c4,Eingang,92,2024-09-18 15:01:40,82.05399999999999,Versand,REF400225,Geplant
+Tab462f8f,,Bestandskorrektur,0,2024-05-16 01:39:14,,Hauptlager,REF487855,In Bearbeitung
+T0d9cf373,,Ausgang,-14,2024-10-08 03:31:34,,Retouren,REF635938,In Bearbeitung
+T20877612,Pe5a125a2,Eingang,37,2024-01-11 23:48:17,822.2199999999999,Retouren,REF343964,Abgeschlossen
+T1826a829,,Ausgang,-19,2024-07-29 15:19:51,,Versand,REF395656,Abgeschlossen
+T6de1b9b2,Pc7eb56da,Bestandskorrektur,-3,2024-07-18 01:17:17,352.86299999999994,Hauptlager,REF792077,In Bearbeitung
+T8fc3df18,Pa7d69348,Eingang,42,2024-12-16 15:56:25,62.727,Retouren,REF820946,In Bearbeitung
+Ta7b0704c,Pd8ee6a2b,Eingang,18,2024-11-16 04:49:48,20.544999999999998,Außenlager,REF899109,Geplant
+T610e5535,Pf4b7500e,Bestandskorrektur,-4,2024-01-27 20:16:37,150.29,Außenlager,REF213338,Geplant
+T7bee03e3,P0fb2db2b,Bestandskorrektur,-4,2024-10-26 13:17:01,208.86599999999999,Versand,REF886393,In Bearbeitung
+T161f4c76,Pdab1267e,Eingang,89,2024-02-10 20:07:12,158.18599999999998,Versand,REF258924,Geplant
+T841fa425,Pb1d42b13,Ausgang,-15,2023-05-18 16:58:05,99.67999999999999,Hauptlager,REF501880,In Bearbeitung
+Tceda3914,,Bestandskorrektur,1,2024-03-06 01:57:17,,Versand,REF843907,Geplant
+T2abb0311,,Retoure,3,2023-11-22 17:12:17,,Außenlager,REF908734,Geplant
+T7623a117,Pdbd241d0,Eingang,17,2023-11-29 14:24:02,89.306,Retouren,REF667511,Geplant
+T96f42c55,P7af6bba0,Bestandskorrektur,-5,2023-10-02 02:54:25,10.927,Hauptlager,REF538175,Abgeschlossen
+T2334f60b,P9316c89b,Retoure,4,2023-02-15 09:49:38,185.836,Retouren,REF105470,In Bearbeitung
+T2c80317e,,Ausgang,-2,2023-04-30 14:32:20,,Versand,REF703861,Geplant
+T865fa7cf,P55e4365b,Bestandskorrektur,-1,2023-03-06 00:40:47,501.956,Außenlager,REF511893,Geplant
+Tdd35c6bb,P6d3e39ee,Eingang,25,2024-04-25 18:02:00,725.8089999999999,Versand,REF196829,Abgeschlossen
+Tde8879bd,Pdf9aaa73,Eingang,44,2024-06-03 04:11:08,760.011,Versand,REF263032,In Bearbeitung
+Tc300c41c,,Retoure,2,2023-04-22 03:59:49,,Außenlager,REF851017,Abgeschlossen
+T1a6be02a,,Eingang,19,2024-11-29 15:54:43,,Retouren,REF843725,In Bearbeitung
+Te2338967,P499a265a,Eingang,15,2024-08-02 15:10:07,109.592,Versand,REF534836,Abgeschlossen
+Tbf74be72,P77772f74,Retoure,1,2023-08-23 05:10:09,48.811,Außenlager,REF236947,Geplant
+Td5f60b4f,Pededdd25,Eingang,54,2024-03-06 23:56:00,283.91299999999995,Retouren,REF463637,Abgeschlossen
+Ta92388ca,Pfd577618,Retoure,3,2024-12-06 11:31:41,97.62899999999999,Hauptlager,REF727997,In Bearbeitung
+T1092f7e8,P150673c5,Eingang,91,2024-11-20 05:05:26,689.164,Außenlager,REF553252,Geplant
+T8a29b964,P58d33e21,Bestandskorrektur,5,2023-07-31 19:45:46,379.736,Außenlager,REF389171,Abgeschlossen
+Te37fdee3,P000b799a,Bestandskorrektur,-1,2023-02-20 17:46:24,23.911999999999995,Hauptlager,REF567029,Abgeschlossen
+Td1a9866f,,Eingang,90,2024-05-29 05:38:36,,Retouren,REF987071,Geplant
+T5888c929,P2486f730,Ausgang,-12,2023-09-05 15:20:49,21.377999999999997,Retouren,REF895212,In Bearbeitung
+Tbb7fe71b,P266b08a1,Ausgang,-20,2023-06-25 16:51:03,16.961,Retouren,REF17838,In Bearbeitung
+Td4bbc802,Pededdd25,Ausgang,-6,2024-11-04 19:03:22,283.91299999999995,Retouren,REF454133,Abgeschlossen
+T7bbd5d7c,Pdf9aaa73,Ausgang,-19,2024-12-04 23:26:20,760.011,Versand,REF706029,Geplant
+T1fab2882,,Ausgang,-8,2023-01-31 13:59:56,,Außenlager,REF253167,Geplant
+T12086976,Pdb48c9ee,Ausgang,-20,2023-09-12 22:03:33,104.51,Retouren,REF31246,Geplant
+T26d76a9e,Pe704ab75,Eingang,42,2023-06-11 01:20:27,292.754,Hauptlager,REF525317,Geplant
+T9fa2e1cd,,Retoure,3,2024-02-26 06:14:17,,Retouren,REF285807,Abgeschlossen
+Tb66227a0,P7e94cb04,Retoure,1,2023-09-28 12:12:39,1308.391,Retouren,REF293353,Geplant
+T81652940,Pdae71328,Retoure,1,2024-10-04 23:05:41,619.927,Außenlager,REF670449,Geplant
+Tb786d7ac,Pb702965e,Bestandskorrektur,0,2023-06-22 05:17:43,232.59599999999998,Hauptlager,REF167811,Abgeschlossen
+T62760994,Paa15aa91,Retoure,3,2024-01-11 13:36:35,136.325,Retouren,REF567731,Abgeschlossen
+T3e3b1744,P5e8909d4,Retoure,2,2023-06-01 18:11:44,808.507,Retouren,REF723940,In Bearbeitung
+Tacbe7968,Pd0fa0e9f,Eingang,17,2024-06-12 06:05:17,613.0669999999999,Versand,REF363590,Geplant
+Tae5fe509,P984b9129,Eingang,25,2024-12-15 14:49:57,586.9359999999999,Außenlager,REF895408,Abgeschlossen
+Tbea9b35d,Pe284be6f,Bestandskorrektur,5,2023-07-27 10:37:12,134.736,Retouren,REF891540,Geplant
+Ta353b30a,Pdae71328,Bestandskorrektur,4,2023-11-19 08:05:40,619.927,Hauptlager,REF544252,Geplant
+Tb26a6ebe,,Ausgang,-15,2024-06-16 14:01:13,,Retouren,REF278081,In Bearbeitung
+Tf28fa1c4,,Bestandskorrektur,-4,2024-03-17 03:20:50,,Hauptlager,REF740979,Abgeschlossen
+Tb41e911d,Pa7ae716f,Ausgang,-20,2024-10-25 13:03:59,9.296,Versand,REF395023,In Bearbeitung
+T67d8c4ce,Pcd326c9b,Ausgang,-10,2024-01-17 14:56:55,547.904,Außenlager,REF947014,Geplant
+T010350cf,Pa7ae716f,Retoure,1,2024-03-24 01:56:34,9.296,Außenlager,REF752796,In Bearbeitung
+T3e748351,P7e945270,Bestandskorrektur,3,2024-11-07 21:07:04,81.508,Außenlager,REF620051,Geplant
+T0a4c6027,Pfbad365e,Bestandskorrektur,-2,2023-03-13 13:43:36,600.194,Retouren,REF964877,Geplant
+T7b39dc1f,P2c5c4414,Eingang,81,2024-06-02 21:29:44,664.923,Außenlager,REF568855,Abgeschlossen
+Tbb7157b0,,Retoure,1,2023-02-28 15:25:46,,Hauptlager,REF328064,Abgeschlossen
+T9e36672c,P1ed0e77b,Eingang,51,2024-05-03 16:40:33,17.450999999999997,Hauptlager,REF553198,Abgeschlossen
+T12505d86,Pb2f63edd,Retoure,5,2023-05-25 17:30:14,46.305,Retouren,REF100235,Geplant
+Tf0e9cb3e,P2486f730,Bestandskorrektur,1,2023-05-28 14:15:22,21.377999999999997,Versand,REF626104,Geplant
+T6f67e935,Pc7eb56da,Bestandskorrektur,2,2024-04-11 16:28:39,352.86299999999994,Retouren,REF926428,In Bearbeitung
+Tbe8389c3,,Eingang,59,2024-08-17 17:09:56,,Retouren,REF868931,Abgeschlossen
+T644f8c60,,Eingang,31,2023-07-17 18:05:57,,Versand,REF825976,Abgeschlossen
+T6f561442,Pa7d69348,Ausgang,-16,2023-07-12 12:01:05,62.727,Außenlager,REF838288,In Bearbeitung
+T0427962d,P1e256c76,Bestandskorrektur,2,2024-10-04 07:05:08,671.4119999999999,Hauptlager,REF467455,Geplant
+Tb1f9f192,P71923486,Ausgang,-12,2024-07-25 15:03:43,83.50999999999999,Außenlager,REF635780,In Bearbeitung
+T5e3daffe,,Eingang,53,2023-11-28 12:37:10,,Versand,REF9556,Abgeschlossen
+Tbc8d063e,,Ausgang,-6,2023-03-18 19:50:15,,Versand,REF49203,In Bearbeitung
+T2cfc77af,P7e945270,Bestandskorrektur,3,2023-01-03 05:54:23,81.508,Retouren,REF81623,Abgeschlossen
+Tbedd0d5e,Pcd326c9b,Retoure,1,2023-06-09 11:28:36,547.904,Hauptlager,REF764100,Geplant
+Teeb7df56,P2e3f25bf,Retoure,5,2023-12-11 07:06:57,27.468,Versand,REF132088,Abgeschlossen
+T62b005b0,P2be52bb7,Retoure,1,2023-03-27 04:05:43,855.351,Retouren,REF752008,In Bearbeitung
+Td63ad38b,P77772f74,Eingang,20,2023-05-27 05:53:13,48.811,Außenlager,REF157990,Geplant
+T34f8a41f,P5e8909d4,Eingang,87,2024-09-19 18:01:21,808.507,Versand,REF320865,Geplant
+Tdbbc4de9,P31008989,Bestandskorrektur,-2,2024-06-05 18:22:31,714.371,Außenlager,REF747537,In Bearbeitung
+Tc744592b,P6e8901a4,Bestandskorrektur,4,2023-01-09 18:19:19,113.00099999999999,Retouren,REF398792,In Bearbeitung
+T016e12ca,P059dae10,Bestandskorrektur,-5,2024-05-30 12:41:57,667.506,Retouren,REF858537,Geplant
+Ta1bee051,P7af6bba0,Eingang,68,2024-07-18 14:15:47,10.927,Retouren,REF688190,Geplant
+T8bf11ede,P1e256c76,Bestandskorrektur,-1,2024-05-04 01:18:37,671.4119999999999,Retouren,REF208077,Geplant
+T2ebc5e97,Pdae71328,Ausgang,-1,2023-05-25 13:51:30,619.927,Retouren,REF892816,In Bearbeitung
+Ta177de7b,Pbe069892,Retoure,4,2023-04-03 05:39:44,47.214999999999996,Hauptlager,REF778796,Geplant
+T6f77a3c5,,Retoure,1,2023-08-24 21:55:57,,Außenlager,REF612235,Abgeschlossen
+Te1613f71,P31008989,Ausgang,-17,2024-05-20 23:28:55,714.371,Hauptlager,REF657292,In Bearbeitung
+Tf8c09c6f,Pb0eb7e7d,Ausgang,-20,2023-02-19 02:53:09,338.34499999999997,Versand,REF466151,Abgeschlossen
+T1b378b29,Pd87e7c3b,Retoure,4,2023-04-11 10:51:30,76.52399999999999,Retouren,REF160300,Geplant
+T03315634,,Retoure,1,2024-12-29 12:42:26,,Hauptlager,REF9355,In Bearbeitung
+Td5463b1f,,Retoure,1,2023-08-24 12:56:17,,Außenlager,REF75164,In Bearbeitung
+Tfea40b2a,Pd32e1690,Ausgang,-7,2024-05-16 04:21:55,345.002,Außenlager,REF787799,Abgeschlossen
+T4aa97425,,Ausgang,-7,2024-07-09 21:14:23,,Hauptlager,REF901131,Abgeschlossen
+T7b4da7e9,P059dae10,Bestandskorrektur,-2,2023-02-20 05:08:49,667.506,Versand,REF668244,Geplant
+T9d6e46d3,Pa8d55241,Bestandskorrektur,-5,2023-06-14 08:47:14,175.777,Außenlager,REF823065,Abgeschlossen
+T535acc42,P7834e026,Eingang,51,2023-08-09 23:42:57,288.75,Außenlager,REF56068,In Bearbeitung
+Te81ed020,P2486f730,Eingang,24,2024-05-02 00:09:20,21.377999999999997,Versand,REF194904,Geplant
+Td0b54f4d,Pdae71328,Retoure,2,2023-04-01 18:32:39,619.927,Retouren,REF108099,In Bearbeitung
+Tae63f440,P71923486,Eingang,86,2024-11-26 11:28:25,83.50999999999999,Außenlager,REF695577,Geplant
+Tfcdc16a9,Pe5a125a2,Bestandskorrektur,-5,2023-08-29 04:02:22,822.2199999999999,Hauptlager,REF40932,In Bearbeitung
+Tc8be1087,P5aa6cacb,Bestandskorrektur,-5,2024-07-16 10:58:11,727.3699999999999,Hauptlager,REF242016,In Bearbeitung
+Tb2e37228,Pde32edf4,Retoure,4,2024-03-31 06:51:00,34.601,Versand,REF950740,Geplant
+T42ab497a,P80238d20,Retoure,1,2024-02-22 08:39:44,905.261,Außenlager,REF630169,In Bearbeitung
+T3760edf7,P150673c5,Eingang,84,2023-01-16 13:54:57,689.164,Versand,REF27983,Geplant
+T7d868486,Pd8ee6a2b,Ausgang,-18,2024-08-27 10:06:30,20.544999999999998,Außenlager,REF885872,Abgeschlossen
+Ta15dc905,P5e8909d4,Eingang,35,2023-06-26 20:10:23,808.507,Hauptlager,REF183398,Geplant
+T74816cba,P1e256c76,Bestandskorrektur,5,2024-01-26 15:30:13,671.4119999999999,Versand,REF383727,Geplant
+T64fd89af,,Eingang,39,2024-08-28 21:17:18,,Retouren,REF187825,Geplant
+Ta3fd21cd,P2486f730,Eingang,84,2024-08-18 06:50:45,21.377999999999997,Versand,REF476242,In Bearbeitung
+Ta1cf9239,P2e3f25bf,Ausgang,-7,2024-11-23 16:40:25,27.468,Versand,REF896905,In Bearbeitung
+Tdec91157,Paa15aa91,Eingang,17,2024-05-07 13:45:54,136.325,Außenlager,REF415193,In Bearbeitung
+Ta7817dc8,Pcd326c9b,Ausgang,-7,2024-12-06 06:31:14,547.904,Retouren,REF249953,Geplant
+T6b6e6b7b,Peba8359e,Bestandskorrektur,5,2024-04-23 13:02:45,231.54599999999996,Außenlager,REF96947,In Bearbeitung
+T7b6859ab,P1ed0e77b,Retoure,4,2023-12-20 10:52:40,17.450999999999997,Versand,REF820561,Geplant
+Tfa670b00,P7834e026,Bestandskorrektur,1,2023-09-22 05:28:27,288.75,Versand,REF851082,Geplant
+T5b685952,Pe284be6f,Retoure,4,2024-11-20 03:03:18,134.736,Außenlager,REF85862,In Bearbeitung
+T1d0618ce,P37a1cc45,Eingang,30,2024-03-17 07:51:00,26.215,Versand,REF982018,Geplant
+T0bdda154,Pd8ee6a2b,Eingang,64,2023-07-14 14:41:09,20.544999999999998,Hauptlager,REF94030,In Bearbeitung
+T5cff01d3,,Retoure,1,2023-02-28 23:36:54,,Versand,REF708185,Abgeschlossen
+T9049de96,P55e4365b,Bestandskorrektur,1,2024-02-27 18:19:48,501.956,Versand,REF395989,Geplant
+T92a6350b,P45a3e9ae,Bestandskorrektur,0,2023-08-15 04:55:12,10.703,Versand,REF545367,Abgeschlossen
+Tc5a3c8ae,P059dae10,Bestandskorrektur,-5,2024-09-11 13:04:41,667.506,Retouren,REF812172,Geplant
+T2be14ee3,Pbe069892,Ausgang,-3,2024-06-08 12:50:56,47.214999999999996,Retouren,REF684354,Geplant
+T082412e2,Pf519fe1a,Eingang,91,2024-10-31 09:44:18,211.40699999999998,Retouren,REF821643,In Bearbeitung
+T08a507be,Pb1d42b13,Bestandskorrektur,1,2023-05-16 09:42:59,99.67999999999999,Versand,REF553551,In Bearbeitung
+T31ca5cc1,P7e945270,Ausgang,-1,2023-01-20 19:10:40,81.508,Außenlager,REF108183,Geplant
+T15238606,P7e945270,Bestandskorrektur,2,2024-08-05 19:53:58,81.508,Hauptlager,REF988306,Abgeschlossen
+Te1d41b01,Pdb48c9ee,Retoure,4,2024-08-13 17:09:25,104.51,Außenlager,REF289265,Geplant
+Taaa869c9,,Eingang,79,2024-07-31 11:37:56,,Hauptlager,REF80773,Abgeschlossen
+T0f45b1a4,P37a1cc45,Retoure,3,2023-05-08 03:30:32,26.215,Versand,REF668484,In Bearbeitung
+T10854329,Pbe069892,Eingang,41,2023-08-03 02:45:50,47.214999999999996,Retouren,REF83025,Geplant
+T7c85ae78,,Eingang,12,2023-07-07 19:54:48,,Retouren,REF739841,Abgeschlossen
+T75b3c143,P98c0192a,Eingang,19,2024-05-24 22:19:26,152.012,Außenlager,REF357327,Geplant
+T3f6171cf,P059dae10,Retoure,1,2024-10-03 22:51:01,667.506,Hauptlager,REF199171,Abgeschlossen
+T24b4c40c,P51bcf5d2,Eingang,12,2023-08-14 08:34:59,5.893999999999999,Versand,REF673197,Abgeschlossen
+T3f9599c4,P309cbd26,Ausgang,-15,2023-12-09 17:13:58,99.01499999999999,Versand,REF499191,In Bearbeitung
+T156af536,,Retoure,5,2023-06-11 14:13:41,,Außenlager,REF208192,Abgeschlossen
+T3d05ac89,P4f5b8304,Bestandskorrektur,5,2024-11-08 12:09:45,1322.811,Hauptlager,REF509083,Geplant
+T236495fe,Pbe069892,Bestandskorrektur,4,2023-03-10 22:34:23,47.214999999999996,Retouren,REF136150,Abgeschlossen
+T8711251c,Pde32edf4,Eingang,11,2023-02-12 00:25:51,34.601,Retouren,REF859781,Abgeschlossen
+T2ca5828d,Pf750a342,Eingang,19,2024-05-17 22:26:50,18.214,Versand,REF3432,Abgeschlossen
+Taf0a68b0,P8b160812,Eingang,92,2024-02-06 21:09:12,10.136,Hauptlager,REF580314,In Bearbeitung
+T8f4a94c2,Pb2f63edd,Retoure,5,2023-10-12 04:03:18,46.305,Versand,REF121208,Geplant
+Tcdf29b5b,P58d33e21,Ausgang,-17,2023-12-22 18:44:39,379.736,Retouren,REF633529,Geplant
+Tce1de23d,P150673c5,Eingang,90,2023-04-08 10:00:34,689.164,Retouren,REF252058,Abgeschlossen
+T016aba2b,P02cf2087,Eingang,89,2023-06-01 04:57:42,464.34499999999997,Retouren,REF564375,Abgeschlossen
+T64f6a034,Pd32e1690,Retoure,1,2024-10-18 14:06:53,345.002,Hauptlager,REF923208,Abgeschlossen
+T73c88de8,P15cb23c4,Eingang,40,2023-02-17 21:19:22,82.05399999999999,Versand,REF799428,Abgeschlossen
+T8f413876,Pbe069892,Retoure,1,2024-05-18 13:49:52,47.214999999999996,Versand,REF869825,In Bearbeitung
+T7f5f0ef7,,Bestandskorrektur,-3,2023-02-28 17:07:33,,Außenlager,REF802542,Abgeschlossen
+T37780913,Pf750a342,Bestandskorrektur,1,2024-05-24 00:21:33,18.214,Retouren,REF769859,In Bearbeitung
+T13ac8819,P98c0192a,Ausgang,-11,2024-04-10 03:57:17,152.012,Hauptlager,REF126368,Abgeschlossen
+T94263f1e,Pf750a342,Eingang,37,2023-01-21 03:10:44,18.214,Außenlager,REF418973,In Bearbeitung
+T2d7f4ade,P522845b5,Retoure,4,2023-02-18 10:58:54,54.43899999999999,Versand,REF57002,Abgeschlossen
+Teb561ab3,P5aa6cacb,Eingang,89,2024-02-19 19:49:28,727.3699999999999,Hauptlager,REF919009,Abgeschlossen
+Ta76c97c5,P9da815f8,Ausgang,-11,2024-12-18 18:45:38,13.873999999999999,Retouren,REF205848,In Bearbeitung
+T1c090cdf,Pe284be6f,Retoure,1,2023-04-01 09:50:19,134.736,Versand,REF609078,Abgeschlossen
+T354f80ec,P9316c89b,Ausgang,-6,2023-08-17 00:30:39,185.836,Hauptlager,REF878017,In Bearbeitung
+T7ac5b42d,P21e20ef8,Eingang,32,2023-09-11 17:55:05,227.79399999999998,Außenlager,REF588313,Geplant
+T616576ba,Pd0fa0e9f,Bestandskorrektur,1,2024-03-23 22:39:17,613.0669999999999,Hauptlager,REF462538,Geplant
+T2bcfca3f,P4f5b8304,Bestandskorrektur,-5,2024-05-27 02:30:09,1322.811,Hauptlager,REF12625,In Bearbeitung
+Tf1dfaa48,,Bestandskorrektur,4,2024-09-08 20:12:10,,Versand,REF870246,Geplant
+Ta6258732,P768564ac,Ausgang,-14,2024-02-04 19:10:09,105.112,Hauptlager,REF89178,Abgeschlossen
+Te1252b4f,P45a3e9ae,Ausgang,-20,2023-12-10 19:50:41,10.703,Außenlager,REF878881,Geplant
+T0b3c8406,P71923486,Ausgang,-11,2023-02-08 12:02:08,83.50999999999999,Außenlager,REF640111,In Bearbeitung
+T958cdc07,P7834e026,Retoure,2,2024-07-20 21:09:17,288.75,Retouren,REF393178,Abgeschlossen
+T14606236,P6bc3575d,Ausgang,-12,2023-06-12 15:17:17,338.772,Außenlager,REF798897,Abgeschlossen
+Tc65e6a39,Pf519fe1a,Bestandskorrektur,-4,2024-02-28 20:03:02,211.40699999999998,Versand,REF104446,Geplant
+Tb66af7ff,P266b08a1,Eingang,55,2023-07-31 00:03:36,16.961,Außenlager,REF588102,Abgeschlossen
+T5ae82eb3,P2c5c4414,Eingang,81,2023-08-09 06:16:59,664.923,Versand,REF920909,Abgeschlossen
+Tbd1f08a1,Pd8ee6a2b,Eingang,10,2023-02-04 01:07:53,20.544999999999998,Hauptlager,REF649494,Abgeschlossen
+T295cbdaf,P2be52bb7,Ausgang,-5,2023-02-04 12:49:54,855.351,Außenlager,REF669108,Geplant
+Tc2803b55,P7326f7f4,Ausgang,-15,2024-12-19 06:23:19,30.205,Hauptlager,REF479456,Geplant
+Tebcf6642,P1e256c76,Eingang,38,2023-04-09 04:18:10,671.4119999999999,Hauptlager,REF830586,In Bearbeitung
+T7a4142d0,Pe704ab75,Bestandskorrektur,-1,2024-03-02 11:30:39,292.754,Versand,REF941960,Abgeschlossen
+Ted95240c,P32e7cdce,Ausgang,-19,2024-12-12 00:21:35,1070.776,Versand,REF626338,In Bearbeitung
+T4e304fed,Pbbae2dd5,Ausgang,-20,2024-12-24 16:25:49,335.47499999999997,Hauptlager,REF506096,In Bearbeitung
+Te815287a,Pb880a595,Eingang,94,2024-04-13 02:00:02,212.58999999999997,Retouren,REF44808,Geplant
+T23b12460,P55e4365b,Eingang,36,2024-05-09 01:42:24,501.956,Außenlager,REF401902,Geplant
+T5db56ddc,P2be52bb7,Ausgang,-18,2023-07-31 19:58:14,855.351,Außenlager,REF153935,Geplant
+T3844539c,P059dae10,Eingang,45,2023-03-20 05:12:07,667.506,Versand,REF223896,Geplant
+T92662b7d,P45a3e9ae,Retoure,1,2024-11-20 03:59:49,10.703,Außenlager,REF203781,In Bearbeitung
+Tfa542828,,Retoure,5,2023-09-20 11:00:54,,Versand,REF653307,In Bearbeitung
+Tce9c9f89,Pbbae2dd5,Ausgang,-17,2023-09-10 04:03:21,335.47499999999997,Retouren,REF929741,Geplant
+T122c3998,Pb2f63edd,Retoure,2,2023-03-05 04:44:45,46.305,Außenlager,REF416606,Abgeschlossen
+T5d259f94,,Ausgang,-6,2023-06-20 00:01:26,,Hauptlager,REF167523,Abgeschlossen
+T558e93b8,Peba8359e,Ausgang,-17,2024-04-19 07:01:53,231.54599999999996,Hauptlager,REF102228,Geplant
+Tddf5ac1a,P6e01d9a3,Eingang,79,2024-05-12 13:29:07,25.291,Versand,REF154629,Abgeschlossen
+Tf74fcbaf,P0260b04c,Retoure,2,2023-01-28 20:58:34,36.848,Außenlager,REF992077,In Bearbeitung
+Te0e077d3,P9da815f8,Ausgang,-9,2024-06-24 19:20:07,13.873999999999999,Retouren,REF55683,Abgeschlossen
+Tccc978ba,P6e8901a4,Ausgang,-18,2024-12-17 22:55:54,113.00099999999999,Außenlager,REF18472,Geplant
+T1c7aaf61,Pb1d42b13,Bestandskorrektur,-5,2024-09-09 16:36:52,99.67999999999999,Hauptlager,REF177370,Abgeschlossen
+T97d4c3b5,P37a0efc6,Bestandskorrektur,-2,2023-01-13 09:37:20,38.352999999999994,Hauptlager,REF807113,Abgeschlossen
+T3c5786e8,Pe284be6f,Eingang,30,2024-05-23 07:47:54,134.736,Hauptlager,REF232502,In Bearbeitung
+T6a8495d4,P9da815f8,Ausgang,-20,2023-12-01 13:14:27,13.873999999999999,Retouren,REF34748,Abgeschlossen
+T1b59187a,P768564ac,Ausgang,-5,2023-11-04 03:08:44,105.112,Außenlager,REF608308,Geplant
+Tdeb078eb,P7e94cb04,Retoure,2,2024-08-22 14:03:36,1308.391,Hauptlager,REF890750,Geplant
+Tbbe015df,Paa15aa91,Bestandskorrektur,1,2023-05-25 13:18:51,136.325,Retouren,REF337349,Abgeschlossen
+T836c2424,,Ausgang,-10,2024-08-16 06:43:28,,Retouren,REF435939,In Bearbeitung
+T90e5e36c,P6e8901a4,Bestandskorrektur,2,2024-09-21 23:16:14,113.00099999999999,Außenlager,REF334078,Geplant
+Tb1e4036d,P6bc3575d,Retoure,4,2024-06-23 02:52:10,338.772,Hauptlager,REF111880,Geplant
+T979cfc59,P58d33e21,Eingang,70,2023-07-15 13:14:17,379.736,Außenlager,REF870015,Abgeschlossen
+T5904a4cb,P51bcf5d2,Ausgang,-17,2024-01-15 19:38:19,5.893999999999999,Versand,REF482627,In Bearbeitung
+T728b4caa,P7af6bba0,Bestandskorrektur,2,2023-01-28 11:46:14,10.927,Außenlager,REF713832,Geplant
+Te9073415,P2c5c4414,Bestandskorrektur,-3,2024-01-28 05:30:49,664.923,Hauptlager,REF589877,Geplant
+Tea579c24,P0fb2db2b,Eingang,54,2024-05-17 00:40:58,208.86599999999999,Außenlager,REF631043,Geplant
+T18ea9a75,P23dd0eb5,Retoure,4,2023-11-30 22:00:14,27.180999999999997,Hauptlager,REF368108,Abgeschlossen
+Ted20ba77,,Retoure,4,2024-02-23 16:16:37,,Versand,REF489103,In Bearbeitung
+Tee679366,,Ausgang,-14,2024-12-16 11:46:32,,Versand,REF115255,Abgeschlossen
+T53a27b65,P7e94cb04,Bestandskorrektur,3,2023-01-15 08:24:08,1308.391,Hauptlager,REF679567,Geplant
+T4b2f76c3,Pcd326c9b,Eingang,67,2023-06-17 05:16:44,547.904,Außenlager,REF875313,In Bearbeitung
+T3245d37d,P7e945270,Bestandskorrektur,-1,2024-06-04 00:43:52,81.508,Retouren,REF255674,Abgeschlossen
+T3d76b50f,P5e8909d4,Eingang,56,2024-12-05 10:51:47,808.507,Retouren,REF810213,In Bearbeitung
+T518959c1,P37a0efc6,Ausgang,-18,2024-06-01 00:50:26,38.352999999999994,Außenlager,REF984175,Geplant
+T657291db,Pd87e7c3b,Eingang,28,2023-01-19 02:45:19,76.52399999999999,Hauptlager,REF558619,In Bearbeitung
+T579d3b7c,P55e4365b,Ausgang,-17,2023-09-27 00:02:22,501.956,Außenlager,REF100512,In Bearbeitung
+T8d7bdb4a,,Retoure,5,2023-04-05 05:34:55,,Retouren,REF425421,In Bearbeitung
+T19ff5c13,P23dd0eb5,Ausgang,-19,2024-03-31 20:12:44,27.180999999999997,Hauptlager,REF594643,Geplant
+T3981649c,Pdae71328,Retoure,4,2024-10-02 18:50:44,619.927,Retouren,REF435205,Abgeschlossen
+T59c9ee6f,P000b799a,Retoure,1,2024-01-01 16:32:21,23.911999999999995,Retouren,REF443852,Abgeschlossen
+T02035c7f,Pa7ae716f,Retoure,2,2023-01-08 04:35:41,9.296,Hauptlager,REF828147,Geplant
+T7493e58c,Peba8359e,Retoure,3,2024-04-15 10:18:07,231.54599999999996,Versand,REF187077,Geplant
+T26eb548d,Paa15aa91,Retoure,4,2023-08-15 23:16:26,136.325,Außenlager,REF566056,Geplant
+T25851cc4,,Ausgang,-18,2023-01-22 14:39:58,,Retouren,REF613759,Geplant
+T78ed7dbc,P768564ac,Eingang,23,2023-10-11 06:34:47,105.112,Versand,REF49451,Abgeschlossen
+Tf9e1c09f,P23dd0eb5,Ausgang,-12,2024-06-02 14:05:55,27.180999999999997,Hauptlager,REF773761,Abgeschlossen
+T07d04a6e,Pd8ee6a2b,Bestandskorrektur,-2,2023-02-06 16:41:12,20.544999999999998,Hauptlager,REF850260,Abgeschlossen
+T327b18f4,P059dae10,Bestandskorrektur,2,2023-11-19 05:16:37,667.506,Versand,REF566784,In Bearbeitung
+Tf24e72cf,P681c50d2,Retoure,4,2024-07-14 02:04:25,629.3069999999999,Hauptlager,REF904282,Geplant
+T2dbd538d,Pdb48c9ee,Eingang,51,2024-06-08 03:12:06,104.51,Hauptlager,REF111174,In Bearbeitung
+T1d2f6187,,Bestandskorrektur,4,2023-05-15 08:00:00,,Retouren,REF558939,In Bearbeitung
+Ta282f89e,P2e3f25bf,Eingang,14,2023-04-05 22:58:47,27.468,Retouren,REF493402,In Bearbeitung
+Tacd33482,P71923486,Bestandskorrektur,1,2024-12-24 12:39:43,83.50999999999999,Versand,REF589382,Abgeschlossen
+Te0a12009,Pa9b1f4ad,Bestandskorrektur,0,2024-09-10 07:03:42,16.113999999999997,Hauptlager,REF303462,Abgeschlossen
+Tde1c54c7,P37a0efc6,Ausgang,-11,2023-11-10 16:52:31,38.352999999999994,Außenlager,REF443263,Geplant
+Tcba3847b,Pafb5ceb2,Retoure,2,2024-04-30 22:50:29,66.955,Retouren,REF927442,In Bearbeitung
+T1168e408,,Retoure,4,2024-12-27 07:27:51,,Außenlager,REF984431,Geplant
+T36d18258,,Eingang,88,2023-04-25 01:37:50,,Außenlager,REF575684,Abgeschlossen
+T57d9f360,,Ausgang,-8,2023-12-15 20:33:23,,Hauptlager,REF570714,Geplant
+Tb7399607,Pf519fe1a,Retoure,3,2024-09-03 06:48:17,211.40699999999998,Versand,REF686244,In Bearbeitung
+Td01ea1de,Pa8d55241,Bestandskorrektur,-4,2023-05-25 05:29:37,175.777,Retouren,REF894858,Geplant
+T65e232f9,P0260b04c,Bestandskorrektur,-4,2024-08-02 03:02:09,36.848,Retouren,REF39888,In Bearbeitung
+T718c3716,Pe5a125a2,Retoure,3,2024-07-01 10:39:28,822.2199999999999,Außenlager,REF914114,Abgeschlossen
+T994d6744,P4f5b8304,Retoure,4,2023-11-21 04:59:24,1322.811,Versand,REF754761,Geplant
+Td45b6f79,P2e3f25bf,Bestandskorrektur,3,2023-11-06 06:52:43,27.468,Hauptlager,REF377765,In Bearbeitung
+T7f0d8ad9,,Bestandskorrektur,5,2023-04-18 18:57:10,,Hauptlager,REF155775,In Bearbeitung
+Tf7db4c65,Pfd577618,Eingang,55,2023-01-28 12:41:48,97.62899999999999,Hauptlager,REF460310,Geplant
+T160f759a,,Retoure,2,2024-12-04 16:38:57,,Versand,REF711203,Abgeschlossen
+Tf1e57d29,P2be52bb7,Ausgang,-13,2023-01-26 08:49:31,855.351,Außenlager,REF55834,Geplant
+Tb1c21926,,Retoure,5,2024-10-15 08:21:47,,Hauptlager,REF777035,In Bearbeitung
+T55ecf955,Pb880a595,Retoure,3,2024-06-17 23:13:23,212.58999999999997,Versand,REF54502,Abgeschlossen
+Te9370f02,Pdae71328,Ausgang,-5,2023-02-23 11:06:02,619.927,Außenlager,REF813407,In Bearbeitung
+T3973b625,P6e8901a4,Eingang,59,2023-06-28 18:09:19,113.00099999999999,Außenlager,REF184832,Abgeschlossen
+T484b226a,P7e94cb04,Ausgang,-19,2024-10-12 06:03:52,1308.391,Außenlager,REF591381,Geplant
+Tdf93fabd,P91c57b81,Ausgang,-16,2024-11-13 22:16:16,575.008,Versand,REF763069,Geplant
+T4e933bcb,Pa7ae716f,Retoure,2,2023-10-03 15:46:24,9.296,Außenlager,REF427642,Abgeschlossen
+Tba611858,Pd32e1690,Ausgang,-20,2023-01-03 04:54:27,345.002,Retouren,REF493777,Geplant
+T0796b70e,P71923486,Ausgang,-20,2024-01-02 17:48:12,83.50999999999999,Außenlager,REF179853,In Bearbeitung
+T3185df3e,Pcd326c9b,Eingang,91,2023-09-15 04:03:19,547.904,Hauptlager,REF101909,Abgeschlossen
+T77617441,P45a3e9ae,Retoure,3,2024-04-28 11:05:10,10.703,Außenlager,REF816110,In Bearbeitung
+T15fbb273,P5c3dbd2c,Eingang,57,2023-07-11 13:48:13,154.97299999999998,Retouren,REF738908,Abgeschlossen
+T837b8ef0,Pd87e7c3b,Bestandskorrektur,-3,2023-10-06 05:10:14,76.52399999999999,Versand,REF423719,In Bearbeitung
+T861beb72,P309cbd26,Retoure,5,2024-04-13 03:15:49,99.01499999999999,Außenlager,REF967164,Abgeschlossen
+T4afdf665,Pde32edf4,Retoure,4,2023-05-24 18:16:09,34.601,Versand,REF780380,Abgeschlossen
+T0616629b,Pb702965e,Ausgang,-7,2024-09-03 16:36:35,232.59599999999998,Retouren,REF668327,Geplant
+T886328d8,Pc7eb56da,Eingang,55,2023-06-07 21:10:22,352.86299999999994,Außenlager,REF752909,In Bearbeitung
+Td99b58cf,,Retoure,1,2024-09-30 14:59:52,,Versand,REF600114,Geplant
+Ta00f5cf8,P2e3f25bf,Eingang,77,2024-01-09 16:43:56,27.468,Versand,REF50622,In Bearbeitung
+T39f6ff7f,Pb2f63edd,Bestandskorrektur,3,2023-12-26 05:29:43,46.305,Versand,REF204778,Abgeschlossen
+Te0cae2a8,Pfd577618,Retoure,4,2024-07-06 13:36:50,97.62899999999999,Außenlager,REF550592,Abgeschlossen
+T37bcb11c,P15cb23c4,Retoure,3,2023-12-27 18:45:06,82.05399999999999,Außenlager,REF3373,Abgeschlossen
+T5b15519b,,Eingang,96,2023-08-09 08:16:21,,Retouren,REF54644,Geplant
+T8ec0b1a2,P7326f7f4,Eingang,82,2024-10-26 08:18:49,30.205,Außenlager,REF54085,Abgeschlossen
+Tbe7d7cad,Pb0eb7e7d,Bestandskorrektur,3,2024-12-23 23:53:12,338.34499999999997,Retouren,REF957556,Abgeschlossen
+Tca6abcc8,P91c57b81,Retoure,3,2023-12-18 04:38:47,575.008,Retouren,REF794976,In Bearbeitung
+T257693cc,P64ecb39d,Ausgang,-15,2023-02-03 02:06:54,474.747,Versand,REF321251,In Bearbeitung
+T9c7aed4f,P258ec8b0,Retoure,1,2023-08-12 14:55:10,114.30299999999998,Versand,REF357499,Geplant
+T82503664,Pd32e1690,Bestandskorrektur,3,2024-12-21 07:37:31,345.002,Retouren,REF71855,Abgeschlossen
+T139613e4,P58d33e21,Retoure,1,2024-10-18 22:45:32,379.736,Versand,REF244543,In Bearbeitung
+Tacf79c25,P5aa6cacb,Ausgang,-12,2024-06-19 09:13:58,727.3699999999999,Retouren,REF528049,Geplant
+T50d3e05e,P984784d6,Bestandskorrektur,0,2024-02-09 16:09:16,18.311999999999998,Retouren,REF553645,In Bearbeitung
+Tc3a84c09,P000b799a,Eingang,75,2024-08-10 20:03:02,23.911999999999995,Versand,REF385201,In Bearbeitung
+Td3790e10,P8af6ce4c,Bestandskorrektur,-2,2023-04-10 10:39:16,5.718999999999999,Außenlager,REF218659,Abgeschlossen
+T812e1b1a,Pf750a342,Retoure,1,2024-02-25 00:53:38,18.214,Außenlager,REF209138,Geplant
+T1be97f72,P1ab20abf,Eingang,36,2023-11-11 17:49:57,269.269,Retouren,REF452784,Geplant
+T2a8ebf8b,P23dd0eb5,Eingang,83,2024-02-08 18:03:15,27.180999999999997,Versand,REF274194,Abgeschlossen
+T2fcc24d7,,Bestandskorrektur,-1,2023-04-02 23:12:12,,Retouren,REF956584,Geplant
+Ta1b633bc,P33796485,Eingang,78,2024-04-03 02:52:31,110.726,Hauptlager,REF612190,Geplant
+Tc4c82091,P37a1cc45,Ausgang,-12,2024-01-31 10:58:07,26.215,Retouren,REF996650,In Bearbeitung
+T38b39bd8,Pb702965e,Bestandskorrektur,3,2024-10-07 04:24:47,232.59599999999998,Außenlager,REF159266,Abgeschlossen
+T045cb03f,Pb880a595,Retoure,2,2024-12-16 17:48:44,212.58999999999997,Versand,REF255135,Geplant
+T8c1a27d5,P6e8901a4,Eingang,93,2023-01-17 17:53:32,113.00099999999999,Außenlager,REF83142,In Bearbeitung
+T77f365a9,P000b799a,Eingang,53,2024-09-24 20:07:33,23.911999999999995,Außenlager,REF418488,Geplant
+Ta8e8af3d,,Retoure,2,2023-07-21 11:38:38,,Versand,REF220901,Geplant
+Tec21304b,Pe284be6f,Eingang,24,2023-08-19 10:42:33,134.736,Hauptlager,REF523101,In Bearbeitung
+Tff8c063d,,Eingang,34,2023-05-27 05:28:48,,Retouren,REF37753,In Bearbeitung
+T020497af,Pb880a595,Ausgang,-6,2023-12-10 09:58:57,212.58999999999997,Außenlager,REF728955,In Bearbeitung
+Td0b0e5f5,,Bestandskorrektur,-5,2024-03-04 19:08:27,,Retouren,REF273083,Abgeschlossen
+T4ee45da1,Pbe069892,Retoure,1,2023-05-18 10:11:50,47.214999999999996,Versand,REF216243,Geplant
+T2880043e,P51bcf5d2,Retoure,3,2024-01-03 03:26:53,5.893999999999999,Außenlager,REF940211,Abgeschlossen
+T41d8f941,,Ausgang,-11,2023-10-13 13:04:11,,Hauptlager,REF356574,Abgeschlossen
+T4f768cfd,P80238d20,Retoure,2,2023-10-02 21:48:12,905.261,Außenlager,REF124314,In Bearbeitung
+Tcadb767e,Pa7ae716f,Eingang,84,2023-07-18 16:32:54,9.296,Außenlager,REF855495,Abgeschlossen
+T41973706,P33796485,Eingang,72,2023-02-24 18:57:25,110.726,Retouren,REF435350,Abgeschlossen
+T5abec798,Pb1d42b13,Retoure,2,2024-11-12 23:14:46,99.67999999999999,Retouren,REF847024,In Bearbeitung
+Tccb8af87,P23dd0eb5,Retoure,3,2023-04-15 11:08:55,27.180999999999997,Retouren,REF208474,In Bearbeitung
+Tc5220889,P7af6bba0,Bestandskorrektur,1,2023-04-27 11:39:19,10.927,Versand,REF886191,Abgeschlossen
+T80a3e261,,Ausgang,-5,2024-01-20 19:17:29,,Hauptlager,REF374029,Geplant
+Tc77092f8,P21e20ef8,Eingang,60,2024-09-15 15:31:49,227.79399999999998,Außenlager,REF662225,Abgeschlossen
+T7c25c52f,P71923486,Retoure,4,2023-11-22 01:56:59,83.50999999999999,Retouren,REF625327,Geplant
+T1988f7d8,Pa99221e5,Eingang,17,2023-08-17 05:50:21,18.494,Außenlager,REF912487,Geplant
+Tb863a2ec,Pb880a595,Eingang,65,2024-01-21 00:29:38,212.58999999999997,Retouren,REF817447,Geplant
+T085ec1eb,,Ausgang,-20,2023-10-30 02:07:29,,Versand,REF622852,Abgeschlossen
+T625f1455,,Eingang,56,2024-12-10 17:41:32,,Außenlager,REF577317,Geplant
+T3d74781d,,Retoure,1,2023-05-06 16:56:11,,Versand,REF889921,Abgeschlossen
+T44d0830e,P71923486,Ausgang,-13,2024-01-18 00:08:32,83.50999999999999,Retouren,REF412976,In Bearbeitung
+T403c8aa6,Pb1d42b13,Eingang,27,2024-01-10 14:05:17,99.67999999999999,Retouren,REF528241,In Bearbeitung
+T85b7673f,Pf4b7500e,Ausgang,-10,2023-03-12 17:50:01,150.29,Versand,REF927705,In Bearbeitung
+T0762f3bb,P33796485,Eingang,17,2023-10-28 22:10:49,110.726,Versand,REF171476,In Bearbeitung
+T2320990f,P059dae10,Ausgang,-16,2023-08-03 19:48:53,667.506,Versand,REF580818,Geplant
+T34405d09,Pd32e1690,Ausgang,-14,2023-08-13 14:56:49,345.002,Außenlager,REF952466,Abgeschlossen
+T4dd353e7,Pa7d69348,Eingang,19,2023-08-24 13:29:10,62.727,Außenlager,REF96457,Abgeschlossen
+T5509361b,P23dd0eb5,Bestandskorrektur,2,2023-10-09 09:58:01,27.180999999999997,Hauptlager,REF627954,In Bearbeitung
+T4c7e986e,,Retoure,1,2024-09-07 07:41:16,,Versand,REF255678,Geplant
+Ta488d796,P5aa6cacb,Ausgang,-4,2023-09-04 21:00:57,727.3699999999999,Hauptlager,REF115176,In Bearbeitung
+T5e04f962,Pb1eb6aa3,Ausgang,-14,2024-01-15 01:10:34,197.50499999999997,Außenlager,REF332785,Geplant
+T6ab4cccc,P37a1cc45,Bestandskorrektur,4,2023-08-24 02:18:35,26.215,Hauptlager,REF835057,Abgeschlossen
+Tfbf50398,,Ausgang,-4,2024-08-21 17:24:43,,Hauptlager,REF581111,Abgeschlossen
+T59b839de,P5e8909d4,Retoure,3,2023-03-29 02:59:50,808.507,Außenlager,REF614020,In Bearbeitung
+Tde8b8f39,P9da815f8,Ausgang,-2,2024-03-13 17:07:43,13.873999999999999,Versand,REF444045,In Bearbeitung
+T24220fa4,P2c5c4414,Retoure,3,2023-06-20 13:24:45,664.923,Außenlager,REF975383,Geplant
+T7babd366,P37a0efc6,Bestandskorrektur,-4,2023-07-18 09:52:44,38.352999999999994,Versand,REF266084,In Bearbeitung
+T98ae2d1f,Pdab1267e,Eingang,65,2023-08-04 15:16:17,158.18599999999998,Hauptlager,REF812205,Abgeschlossen
+T6270ec93,P64ecb39d,Bestandskorrektur,2,2024-03-18 05:11:26,474.747,Retouren,REF872316,Abgeschlossen
+T6f4d7b03,Pcd326c9b,Bestandskorrektur,-1,2023-04-22 05:55:53,547.904,Hauptlager,REF426842,Abgeschlossen
+T6eb710b8,P000b799a,Bestandskorrektur,-4,2023-08-12 05:34:09,23.911999999999995,Hauptlager,REF215976,In Bearbeitung
+Td5763a94,P5b233719,Eingang,29,2024-10-05 07:54:16,30.358999999999995,Retouren,REF630255,Geplant
+T9e098550,Peba8359e,Bestandskorrektur,-5,2023-06-24 23:05:00,231.54599999999996,Außenlager,REF578139,Abgeschlossen
+T6bd6b68a,Pdf9aaa73,Eingang,73,2024-06-10 22:56:08,760.011,Versand,REF201930,Geplant
+T1799889c,P02cf2087,Bestandskorrektur,0,2023-06-29 11:21:46,464.34499999999997,Versand,REF309672,Abgeschlossen
+T53337838,P6d3e39ee,Retoure,3,2024-01-26 16:15:24,725.8089999999999,Außenlager,REF713839,Abgeschlossen
+Td1a111c5,Pa7ae716f,Ausgang,-16,2023-03-25 01:33:39,9.296,Versand,REF707030,Abgeschlossen
+T40560aa2,,Ausgang,-7,2023-01-04 00:01:46,,Versand,REF468124,In Bearbeitung
+T038f093e,P5c3dbd2c,Bestandskorrektur,0,2024-04-15 19:26:31,154.97299999999998,Retouren,REF830252,Abgeschlossen
+T7bbd0227,P98c0192a,Eingang,43,2023-08-25 08:47:38,152.012,Außenlager,REF672393,Geplant
+Tb56391f5,P059dae10,Ausgang,-5,2024-09-26 12:09:57,667.506,Außenlager,REF873480,Abgeschlossen
+Te86f17e9,P5aa6cacb,Ausgang,-17,2024-05-19 14:19:55,727.3699999999999,Retouren,REF763620,Geplant
+Tb73b77e1,P5b233719,Retoure,1,2024-10-17 00:04:17,30.358999999999995,Außenlager,REF226157,Geplant
+T6af50174,P9da815f8,Eingang,45,2023-12-24 23:08:35,13.873999999999999,Hauptlager,REF421200,Geplant
+T70e98c4d,P8b160812,Bestandskorrektur,5,2024-12-19 23:41:13,10.136,Hauptlager,REF293843,Geplant
+T294c401d,P32e7cdce,Eingang,89,2023-07-25 08:43:23,1070.776,Versand,REF375798,Abgeschlossen
+T29524315,P2be52bb7,Eingang,64,2024-07-22 00:50:04,855.351,Retouren,REF92917,Geplant
+T6ec3667d,P6bc3575d,Bestandskorrektur,-3,2024-07-24 16:44:08,338.772,Außenlager,REF371174,Abgeschlossen
+T8ec155ea,P80238d20,Ausgang,-20,2023-06-15 01:46:01,905.261,Retouren,REF363206,Geplant
+Td324df7a,Paa15aa91,Ausgang,-2,2023-06-16 18:13:36,136.325,Hauptlager,REF343955,Abgeschlossen
+Tedd37e7a,,Bestandskorrektur,-2,2024-04-15 00:40:55,,Hauptlager,REF616250,Geplant
+T72b8b108,,Ausgang,-14,2023-11-03 05:59:32,,Außenlager,REF219071,Geplant
+Td726ad2a,P309cbd26,Ausgang,-20,2024-06-17 10:42:19,99.01499999999999,Versand,REF720176,In Bearbeitung
+T759f8518,P21e20ef8,Ausgang,-4,2023-01-22 04:15:35,227.79399999999998,Versand,REF437277,In Bearbeitung
+Tfe7bd850,P984b9129,Retoure,4,2024-01-01 17:51:56,586.9359999999999,Versand,REF527275,Abgeschlossen
+Tf7ff17b6,P5b233719,Ausgang,-2,2023-06-04 00:58:21,30.358999999999995,Hauptlager,REF539663,Geplant
+T3c17f635,Pb2f63edd,Retoure,2,2023-02-12 09:28:34,46.305,Versand,REF385088,Abgeschlossen
+Tbf3c9497,P5aa6cacb,Retoure,5,2023-04-15 23:37:31,727.3699999999999,Hauptlager,REF618706,Abgeschlossen
+Te6d256df,Pb1eb6aa3,Eingang,68,2024-01-13 22:07:12,197.50499999999997,Außenlager,REF674740,Geplant
+T19b05a66,P21e20ef8,Eingang,79,2023-04-26 11:37:51,227.79399999999998,Hauptlager,REF759672,Geplant
+Td5873994,P45a3e9ae,Retoure,1,2023-04-17 16:14:45,10.703,Retouren,REF117581,Abgeschlossen
+Taec01648,Pa7ae716f,Bestandskorrektur,2,2023-05-26 13:14:21,9.296,Retouren,REF7330,Geplant
+T3758f436,Pe93cc4c1,Ausgang,-13,2023-03-04 14:16:47,18.837,Retouren,REF319725,Abgeschlossen
+T4b6c6dc1,P15cb23c4,Eingang,50,2024-01-29 21:43:36,82.05399999999999,Außenlager,REF963690,Abgeschlossen
+T13991173,Pd32e1690,Ausgang,-3,2024-07-24 15:29:58,345.002,Außenlager,REF318499,In Bearbeitung
+T703e87e1,P23dd0eb5,Eingang,19,2023-08-08 17:15:39,27.180999999999997,Retouren,REF165777,In Bearbeitung
+T2d2f29b0,Pa8d55241,Bestandskorrektur,5,2023-01-07 20:13:06,175.777,Retouren,REF133326,In Bearbeitung
+Ta7b2e0cb,P6e01d9a3,Bestandskorrektur,1,2023-04-30 15:27:13,25.291,Versand,REF747315,In Bearbeitung
+T86ca807f,P4f5b8304,Ausgang,-15,2024-07-21 11:05:26,1322.811,Hauptlager,REF512221,Abgeschlossen
+Teea0facb,Pb1d42b13,Bestandskorrektur,-5,2024-07-02 03:03:47,99.67999999999999,Versand,REF387144,Geplant
+T398963e0,Pd0fa0e9f,Ausgang,-20,2024-12-29 19:41:15,613.0669999999999,Retouren,REF838899,Geplant
+Ta1c359d9,P8af6ce4c,Retoure,5,2023-01-31 08:08:31,5.718999999999999,Retouren,REF643491,In Bearbeitung
+T2f114275,P98c0192a,Bestandskorrektur,-3,2023-05-22 01:01:40,152.012,Retouren,REF39121,Abgeschlossen
+T5ede840c,P60295ad9,Bestandskorrektur,2,2023-11-27 15:26:41,276.493,Hauptlager,REF98386,Abgeschlossen
+T5342aed5,P984784d6,Ausgang,-6,2024-10-13 09:57:00,18.311999999999998,Hauptlager,REF697948,In Bearbeitung
+Td8e18ba5,P6e01d9a3,Eingang,59,2023-05-14 21:23:11,25.291,Außenlager,REF176934,Abgeschlossen
+T1f7bc2be,,Eingang,87,2023-04-28 03:35:01,,Außenlager,REF384073,Abgeschlossen
+T1eefa210,Pfbad365e,Bestandskorrektur,-4,2024-05-31 16:40:02,600.194,Außenlager,REF472936,In Bearbeitung
+T13904d29,,Ausgang,-18,2023-07-09 10:57:36,,Außenlager,REF564198,Geplant
+T4a499770,P98c0192a,Bestandskorrektur,3,2024-10-13 22:03:10,152.012,Außenlager,REF39984,In Bearbeitung
+T3d4bdc2f,,Ausgang,-6,2023-04-10 19:56:13,,Hauptlager,REF887666,In Bearbeitung
+T344062a5,P02cf2087,Eingang,45,2023-01-05 01:38:16,464.34499999999997,Retouren,REF839616,Abgeschlossen
+Tc1324036,Pa8d55241,Ausgang,-8,2024-10-31 01:59:23,175.777,Außenlager,REF908583,Abgeschlossen
+Tba23d994,P6e8901a4,Eingang,15,2023-08-03 06:44:08,113.00099999999999,Hauptlager,REF534487,Abgeschlossen
+T8ca60ef0,,Retoure,3,2024-04-26 17:20:21,,Hauptlager,REF323521,In Bearbeitung
+Tb97877c9,P499a265a,Bestandskorrektur,-4,2024-09-21 22:37:58,109.592,Retouren,REF498967,Geplant
+Ta1f8b878,Pde32edf4,Eingang,24,2024-01-27 16:50:36,34.601,Retouren,REF833243,Abgeschlossen
+Tb2309998,,Bestandskorrektur,4,2023-08-21 14:42:50,,Außenlager,REF644930,In Bearbeitung
+T91d0dc0c,P35f6e13d,Retoure,1,2023-11-27 18:44:29,308.336,Außenlager,REF449300,Abgeschlossen
+T5d525d49,,Eingang,17,2023-08-20 09:45:15,,Außenlager,REF915142,Geplant
+Td0520df7,P02cf2087,Ausgang,-11,2023-10-02 14:34:44,464.34499999999997,Außenlager,REF433907,Geplant
+Tf888337d,,Ausgang,-11,2024-09-22 06:22:29,,Hauptlager,REF432129,Abgeschlossen
+Teda38bff,P58d33e21,Bestandskorrektur,-5,2024-01-20 21:31:05,379.736,Retouren,REF115451,In Bearbeitung
+Tc5328c33,,Retoure,5,2024-09-16 00:37:49,,Hauptlager,REF641887,In Bearbeitung
+Tfe4ec90f,Pdab1267e,Retoure,1,2023-11-21 22:43:27,158.18599999999998,Außenlager,REF621669,Geplant
+Tce9c4575,,Bestandskorrektur,-3,2024-08-31 00:53:30,,Hauptlager,REF934791,In Bearbeitung
+Tf579d081,P32e7cdce,Retoure,3,2023-02-25 00:35:50,1070.776,Retouren,REF725070,In Bearbeitung
+T51b0294d,Pa9b1f4ad,Eingang,70,2023-04-17 17:55:19,16.113999999999997,Versand,REF5235,Abgeschlossen
+T092d00be,P5b233719,Eingang,50,2024-01-15 17:32:17,30.358999999999995,Retouren,REF798145,In Bearbeitung
+T458bae64,,Retoure,2,2023-05-17 08:47:43,,Hauptlager,REF326853,In Bearbeitung
+T460e6f51,P71923486,Retoure,2,2024-01-01 13:18:20,83.50999999999999,Hauptlager,REF611590,In Bearbeitung
+T2037f9c3,P37a1cc45,Retoure,4,2024-11-18 18:58:38,26.215,Retouren,REF441871,Geplant
+T2300855e,,Retoure,3,2024-10-27 23:22:27,,Außenlager,REF445497,Geplant
+T9adec2ea,Pde32edf4,Eingang,11,2023-03-30 08:14:07,34.601,Hauptlager,REF685129,Geplant
+T69bb0f7e,P5b233719,Ausgang,-9,2024-08-04 03:47:29,30.358999999999995,Hauptlager,REF575200,Abgeschlossen
+Tc620ce66,P768564ac,Ausgang,-14,2023-03-05 06:38:41,105.112,Versand,REF495466,In Bearbeitung
+T5ca3862b,Pb0eb7e7d,Eingang,20,2024-10-18 06:51:51,338.34499999999997,Retouren,REF270933,Abgeschlossen
+Taeab486f,P58d33e21,Eingang,67,2023-01-11 14:13:35,379.736,Versand,REF587691,In Bearbeitung
+Tc5f45b9d,P984784d6,Bestandskorrektur,2,2023-01-16 21:23:04,18.311999999999998,Versand,REF926022,In Bearbeitung
+T1f6d0165,,Retoure,2,2024-03-09 07:01:58,,Außenlager,REF575764,In Bearbeitung
+T7275bcc5,Pcd326c9b,Ausgang,-19,2024-12-19 19:51:18,547.904,Retouren,REF928483,Abgeschlossen
+T18939f2e,P6bc3575d,Bestandskorrektur,-1,2024-07-01 16:38:15,338.772,Außenlager,REF573865,In Bearbeitung
+T6ce3b091,Pe93cc4c1,Bestandskorrektur,0,2024-10-19 11:42:59,18.837,Versand,REF558981,Abgeschlossen
+T55aa623b,P0260b04c,Eingang,89,2023-10-07 07:45:16,36.848,Retouren,REF689737,In Bearbeitung
+T4f3b0677,Pa7ae716f,Retoure,1,2024-11-25 22:26:32,9.296,Versand,REF149625,Geplant
+T71b6491d,Pf750a342,Eingang,75,2024-10-27 16:06:37,18.214,Retouren,REF13713,In Bearbeitung
+Tb47e03ca,P8b160812,Ausgang,-3,2024-10-07 15:41:24,10.136,Außenlager,REF406787,In Bearbeitung
+Tcc70828a,P33796485,Retoure,3,2024-03-17 18:36:10,110.726,Außenlager,REF241253,Abgeschlossen
+T16d10332,Pb1eb6aa3,Bestandskorrektur,3,2024-04-27 03:26:05,197.50499999999997,Außenlager,REF167787,Geplant
+Td03f314a,Pb1eb6aa3,Eingang,16,2023-07-19 04:03:10,197.50499999999997,Außenlager,REF114608,In Bearbeitung
+T538be7d5,P309cbd26,Eingang,90,2024-02-16 00:39:17,99.01499999999999,Hauptlager,REF247690,Geplant
+T579ba2b2,P02cf2087,Bestandskorrektur,2,2024-01-27 01:53:47,464.34499999999997,Hauptlager,REF127539,In Bearbeitung
+Te2e6b6f0,P8af6ce4c,Eingang,61,2023-09-04 16:03:24,5.718999999999999,Hauptlager,REF46602,Abgeschlossen
+Tec74eee9,P55e4365b,Retoure,2,2023-04-12 15:58:39,501.956,Hauptlager,REF893630,In Bearbeitung
+Tb8d4bf2d,Pb2f63edd,Retoure,4,2023-11-09 18:39:39,46.305,Hauptlager,REF675488,In Bearbeitung
+T18c93a46,,Bestandskorrektur,1,2023-02-14 15:55:49,,Außenlager,REF927207,In Bearbeitung
+T8b1c2981,Pa8d55241,Bestandskorrektur,-3,2024-04-16 10:41:50,175.777,Hauptlager,REF900429,Geplant
+Tfad40ef5,P55e4365b,Ausgang,-6,2023-04-09 18:14:23,501.956,Retouren,REF701527,Geplant
+T4a20c8a3,P6e8901a4,Eingang,50,2023-09-26 14:12:29,113.00099999999999,Versand,REF539784,In Bearbeitung
+T673c0c8e,P059dae10,Eingang,64,2023-02-12 20:37:57,667.506,Retouren,REF233001,Abgeschlossen
+Tb5277340,P7834e026,Ausgang,-16,2023-10-04 03:45:35,288.75,Außenlager,REF183205,In Bearbeitung
+Td4ab5543,P258ec8b0,Ausgang,-11,2023-01-17 23:35:47,114.30299999999998,Retouren,REF432594,In Bearbeitung
+T1457d3ee,P984b9129,Ausgang,-10,2023-08-11 05:55:57,586.9359999999999,Außenlager,REF330856,In Bearbeitung
+T633aa170,Peba8359e,Eingang,86,2024-12-01 04:48:35,231.54599999999996,Versand,REF391379,Abgeschlossen
+Te153b2f5,P4f5b8304,Bestandskorrektur,4,2023-07-10 06:28:45,1322.811,Retouren,REF256232,Abgeschlossen
+T2832feff,P7834e026,Eingang,85,2024-06-02 12:12:08,288.75,Außenlager,REF959562,Geplant
+T9fd4b159,,Eingang,28,2024-10-23 00:04:17,,Hauptlager,REF457575,Abgeschlossen
+T5486fd94,P33796485,Ausgang,-3,2024-06-30 16:15:21,110.726,Außenlager,REF423290,Abgeschlossen
+T2cd711e9,P32e7cdce,Bestandskorrektur,2,2023-04-06 02:45:40,1070.776,Retouren,REF205955,Geplant
+T8d12d1c8,P1ab20abf,Eingang,35,2023-11-14 05:00:05,269.269,Hauptlager,REF288069,Abgeschlossen
+T8afdec0e,P55e4365b,Ausgang,-5,2023-09-02 16:26:08,501.956,Außenlager,REF748715,Abgeschlossen
+T9653f236,P6bc3575d,Eingang,33,2023-12-07 11:09:28,338.772,Retouren,REF307470,Geplant
+T2e3f885f,Pbe069892,Bestandskorrektur,1,2024-10-25 19:24:25,47.214999999999996,Versand,REF748188,In Bearbeitung
+T0a5cc5b6,Pa9b1f4ad,Retoure,2,2024-09-05 02:03:23,16.113999999999997,Versand,REF576996,Abgeschlossen
+T3e5c1043,,Ausgang,-6,2024-03-23 17:22:08,,Außenlager,REF99614,In Bearbeitung
+Tac685c56,P8af6ce4c,Retoure,4,2024-06-28 22:48:07,5.718999999999999,Hauptlager,REF354316,In Bearbeitung
+T44255805,,Bestandskorrektur,4,2024-01-05 01:28:24,,Retouren,REF504051,In Bearbeitung
+T43be7677,P7af6bba0,Retoure,5,2023-07-25 15:00:02,10.927,Retouren,REF650569,Abgeschlossen
+T870b7332,P45a3e9ae,Retoure,2,2024-12-01 05:39:14,10.703,Außenlager,REF429482,Geplant
+Te3948cee,,Bestandskorrektur,4,2024-02-09 10:50:50,,Hauptlager,REF123847,Geplant
+T31c72bff,P23dd0eb5,Ausgang,-19,2023-02-10 19:15:12,27.180999999999997,Außenlager,REF68540,In Bearbeitung
+T6b507de6,P000b799a,Eingang,79,2024-09-11 17:42:48,23.911999999999995,Versand,REF370672,In Bearbeitung
+Tfa517624,Pb702965e,Ausgang,-6,2023-04-07 21:52:32,232.59599999999998,Hauptlager,REF900891,In Bearbeitung
+Te87b0f51,Pde32edf4,Ausgang,-4,2024-10-29 14:00:59,34.601,Hauptlager,REF496795,Abgeschlossen
+Ta2136a68,P1ab20abf,Eingang,17,2023-08-26 08:51:38,269.269,Außenlager,REF229392,Abgeschlossen
+T431bb911,P77772f74,Eingang,95,2023-01-08 23:30:57,48.811,Retouren,REF555634,Abgeschlossen
+T263a6bae,P984784d6,Bestandskorrektur,3,2023-05-19 00:34:21,18.311999999999998,Außenlager,REF14890,In Bearbeitung
+Tca5462b4,Pb1d42b13,Eingang,81,2023-09-18 09:27:17,99.67999999999999,Hauptlager,REF976322,Geplant
+Tdb0d66f1,Pa7ae716f,Retoure,4,2023-07-17 06:48:12,9.296,Versand,REF852868,Abgeschlossen
+Taf66fcb1,P8af6ce4c,Bestandskorrektur,5,2024-12-13 17:41:48,5.718999999999999,Retouren,REF829305,Geplant
+T7407d53d,Pa7d69348,Eingang,98,2023-11-10 09:54:24,62.727,Außenlager,REF309353,In Bearbeitung
+T4f716275,Pd87e7c3b,Eingang,36,2023-01-13 12:26:35,76.52399999999999,Versand,REF489104,Abgeschlossen
+T43f19220,Pbe069892,Bestandskorrektur,1,2023-04-22 08:41:11,47.214999999999996,Retouren,REF247968,In Bearbeitung
+T4b55cba5,P02cf2087,Eingang,29,2024-12-25 11:41:20,464.34499999999997,Außenlager,REF398822,In Bearbeitung
+Td2d43a52,Pb2f63edd,Eingang,76,2024-05-14 06:39:41,46.305,Versand,REF634757,In Bearbeitung
+T25c697ab,P000b799a,Bestandskorrektur,-2,2023-02-13 09:10:50,23.911999999999995,Retouren,REF149347,Abgeschlossen
+T036b21b8,Pb2f63edd,Ausgang,-18,2024-12-21 15:31:09,46.305,Retouren,REF663288,Geplant
+T6b3fdd71,P5e8909d4,Ausgang,-1,2023-07-30 10:16:36,808.507,Außenlager,REF554224,Geplant
+Tf883139a,Pf4b7500e,Retoure,1,2024-11-09 07:25:27,150.29,Retouren,REF925688,In Bearbeitung
+T799c2362,P0fb2db2b,Eingang,40,2024-11-25 05:33:12,208.86599999999999,Versand,REF506512,In Bearbeitung
+T05ccfa2d,P9da815f8,Retoure,1,2024-08-15 05:29:19,13.873999999999999,Außenlager,REF791337,Geplant
+T08c0d70c,P984784d6,Retoure,3,2024-11-10 14:29:51,18.311999999999998,Hauptlager,REF678932,In Bearbeitung
+T54a6fa04,,Ausgang,-17,2023-09-09 01:24:00,,Hauptlager,REF218744,Geplant
+T35bd9387,Pe93cc4c1,Eingang,14,2024-01-06 06:25:27,18.837,Versand,REF693489,In Bearbeitung
+T0db3a6ac,P8af6ce4c,Eingang,27,2023-05-28 18:41:25,5.718999999999999,Hauptlager,REF342326,In Bearbeitung
+Tca392d1d,P23dd0eb5,Ausgang,-12,2024-12-02 04:07:10,27.180999999999997,Hauptlager,REF603708,In Bearbeitung
+T2d6e442e,P33796485,Retoure,2,2024-12-03 02:35:48,110.726,Hauptlager,REF938379,Geplant
+Tda9831ce,,Ausgang,-18,2023-08-23 19:07:19,,Hauptlager,REF205313,Abgeschlossen
+T5a93b8c8,Pbe069892,Eingang,100,2023-12-04 00:38:12,47.214999999999996,Retouren,REF434418,In Bearbeitung
+Te2b77b6e,P522845b5,Eingang,53,2023-03-23 17:44:25,54.43899999999999,Außenlager,REF714422,Abgeschlossen
+T29c5dfb3,Pc7eb56da,Ausgang,-10,2023-06-14 08:57:48,352.86299999999994,Retouren,REF926097,In Bearbeitung
+T67ef927d,Pb1eb6aa3,Bestandskorrektur,5,2024-03-25 12:08:55,197.50499999999997,Versand,REF809765,Geplant
+T91ef5d2c,P71923486,Ausgang,-15,2023-01-15 10:28:19,83.50999999999999,Hauptlager,REF768731,In Bearbeitung
+T01968cee,Pf750a342,Ausgang,-1,2023-11-12 16:45:52,18.214,Versand,REF239847,Abgeschlossen
+Tcfd23aac,P059dae10,Retoure,4,2024-03-07 07:41:29,667.506,Außenlager,REF11683,In Bearbeitung
+T8b00bc09,P9da815f8,Ausgang,-5,2024-11-02 23:50:26,13.873999999999999,Außenlager,REF603889,Geplant
+T9e351b35,P0260b04c,Bestandskorrektur,1,2024-11-03 06:25:12,36.848,Versand,REF952580,In Bearbeitung
+Tb110554e,Pd87e7c3b,Bestandskorrektur,3,2024-11-23 19:40:24,76.52399999999999,Versand,REF33116,Geplant
+T3939511b,P45a3e9ae,Retoure,5,2024-10-05 03:55:15,10.703,Hauptlager,REF246645,Abgeschlossen
+T66329266,P6e01d9a3,Eingang,91,2024-08-01 05:28:23,25.291,Hauptlager,REF526454,Abgeschlossen
+Tb4e191d0,Pd0fa0e9f,Eingang,86,2023-01-21 20:16:56,613.0669999999999,Hauptlager,REF482545,In Bearbeitung
+T9f60920b,Pb2f63edd,Retoure,3,2023-12-16 05:01:15,46.305,Außenlager,REF691452,In Bearbeitung
+T03fb52a8,Pe940f056,Bestandskorrektur,4,2024-08-27 09:23:38,31.346,Außenlager,REF445541,Geplant
+T44b2aef5,,Eingang,45,2024-11-07 04:41:48,,Retouren,REF697347,Geplant
+T3effc84d,P258ec8b0,Ausgang,-4,2024-06-21 12:03:39,114.30299999999998,Außenlager,REF252668,Abgeschlossen
+Tb5140aba,Pdab1267e,Retoure,4,2023-02-10 20:13:06,158.18599999999998,Außenlager,REF521542,Geplant
+T815a9449,P266b08a1,Eingang,75,2024-06-16 18:26:38,16.961,Versand,REF891727,Geplant
+T483d88c6,P5aa6cacb,Bestandskorrektur,-4,2024-11-25 10:10:24,727.3699999999999,Hauptlager,REF68835,In Bearbeitung
+T6b08e17c,P6d3e39ee,Bestandskorrektur,-5,2024-10-09 13:14:39,725.8089999999999,Retouren,REF166211,In Bearbeitung
+T7efaa7b6,P7834e026,Bestandskorrektur,4,2024-05-29 00:34:33,288.75,Außenlager,REF349993,Geplant
+T0f19f231,P55e4365b,Ausgang,-7,2024-11-13 22:15:01,501.956,Versand,REF194695,Geplant
+T64856a12,P5aa6cacb,Bestandskorrektur,-5,2024-07-14 02:25:07,727.3699999999999,Retouren,REF197310,Geplant
+T1de85e57,Pdae71328,Eingang,63,2023-01-25 10:01:16,619.927,Retouren,REF291024,Abgeschlossen
+Te4070ff1,,Retoure,4,2023-03-16 13:55:52,,Hauptlager,REF428233,Abgeschlossen
+Teae069c3,P64ecb39d,Eingang,50,2023-02-18 00:53:28,474.747,Außenlager,REF532528,Abgeschlossen
+Td1e97c3f,P8af6ce4c,Ausgang,-20,2024-03-31 15:00:20,5.718999999999999,Außenlager,REF772781,Abgeschlossen
+T6b2b9dd6,Pa7ae716f,Ausgang,-3,2024-04-23 01:19:46,9.296,Retouren,REF817832,In Bearbeitung
+T9f64d9b3,Pd87e7c3b,Retoure,5,2024-12-19 22:12:22,76.52399999999999,Außenlager,REF844227,Geplant
+Tdb54e5a0,P6d3e39ee,Eingang,68,2023-07-19 18:14:39,725.8089999999999,Hauptlager,REF686481,Abgeschlossen
+T113f45b4,P150673c5,Retoure,4,2024-07-06 00:33:18,689.164,Hauptlager,REF457825,Abgeschlossen
+T2a0246e9,P0fb2db2b,Eingang,81,2024-06-27 02:46:52,208.86599999999999,Außenlager,REF822510,In Bearbeitung
+T9e65e93b,Pededdd25,Retoure,4,2024-11-16 05:27:55,283.91299999999995,Hauptlager,REF257470,Geplant
+Tbf2972bf,P37a1cc45,Eingang,49,2024-10-30 16:36:15,26.215,Versand,REF227402,Abgeschlossen
+T3c5e0f0b,Pe93cc4c1,Ausgang,-6,2024-02-08 16:31:16,18.837,Hauptlager,REF745177,Abgeschlossen
+T8cc011ee,P0fb2db2b,Eingang,95,2024-01-16 16:57:35,208.86599999999999,Retouren,REF911899,In Bearbeitung
+Ta51ce5cd,P77772f74,Eingang,83,2023-01-20 20:16:36,48.811,Versand,REF91174,Geplant
+T0b5ed56d,P258ec8b0,Eingang,13,2023-03-18 17:31:07,114.30299999999998,Versand,REF334762,Geplant
+T1251d375,P6bc3575d,Retoure,4,2024-07-10 16:12:18,338.772,Versand,REF370466,Geplant
+Tc2f9bde8,Pdae71328,Ausgang,-20,2024-01-30 07:30:37,619.927,Versand,REF456057,Geplant
+T2b980b63,P7af6bba0,Eingang,62,2024-08-21 09:02:21,10.927,Retouren,REF45137,Abgeschlossen
+Tf2f7dcbe,Pdae71328,Eingang,40,2023-02-24 16:29:46,619.927,Außenlager,REF232197,In Bearbeitung
+Ted47f79b,P7326f7f4,Bestandskorrektur,-3,2023-10-22 15:31:32,30.205,Retouren,REF311515,Abgeschlossen
+Tea73d304,P80238d20,Bestandskorrektur,5,2024-06-04 17:50:40,905.261,Versand,REF553384,Geplant
+Tc2ac9b58,Pb2f63edd,Ausgang,-5,2024-06-13 09:25:24,46.305,Außenlager,REF382371,Abgeschlossen
+Tf65b3a05,P6bc3575d,Ausgang,-6,2024-06-24 08:24:29,338.772,Hauptlager,REF566090,In Bearbeitung
+T4023bcab,P1ab20abf,Retoure,4,2024-07-02 15:26:16,269.269,Außenlager,REF182191,In Bearbeitung
+Tfdf42918,,Ausgang,-5,2024-11-05 23:52:20,,Hauptlager,REF267768,Geplant
+T4209a6ec,P80238d20,Retoure,4,2024-08-27 01:43:43,905.261,Retouren,REF287853,Abgeschlossen
+T218e5ced,P5b233719,Bestandskorrektur,4,2024-06-03 08:38:12,30.358999999999995,Retouren,REF525216,Geplant
+T005cd059,Pf4b7500e,Eingang,26,2024-06-04 20:11:56,150.29,Hauptlager,REF435452,In Bearbeitung
+Tc8fe2981,P8b160812,Retoure,1,2024-02-27 15:44:55,10.136,Retouren,REF469195,Abgeschlossen
+Tf71a1b46,Pd32e1690,Ausgang,-14,2023-06-27 09:59:30,345.002,Hauptlager,REF998863,Geplant
+T0a1098f7,P984b9129,Bestandskorrektur,-5,2023-10-11 01:52:36,586.9359999999999,Außenlager,REF292524,In Bearbeitung
+T398fe1ae,P7e945270,Eingang,93,2023-04-28 22:51:10,81.508,Versand,REF435563,Geplant
+T0efc9cdb,Pf4b7500e,Retoure,1,2023-12-21 15:24:22,150.29,Retouren,REF988522,Abgeschlossen
+T412b279a,Pc7eb56da,Ausgang,-10,2023-02-19 02:36:38,352.86299999999994,Versand,REF841041,Abgeschlossen
+T0b05819f,,Bestandskorrektur,-2,2024-10-20 14:24:30,,Hauptlager,REF340566,In Bearbeitung
+T67d9a228,P522845b5,Eingang,80,2023-06-23 03:06:30,54.43899999999999,Außenlager,REF815765,In Bearbeitung
+Tc69e15e3,Pdf9aaa73,Ausgang,-3,2023-12-27 13:16:37,760.011,Versand,REF938831,Geplant
+T5b890162,P8af6ce4c,Bestandskorrektur,3,2023-10-20 19:57:40,5.718999999999999,Retouren,REF3698,Geplant
+T866cf265,P5c3dbd2c,Retoure,3,2023-10-16 20:27:07,154.97299999999998,Hauptlager,REF436580,Abgeschlossen
+T7bda9328,P31008989,Ausgang,-2,2023-04-18 11:37:11,714.371,Hauptlager,REF431600,In Bearbeitung
+T864352a0,Pe940f056,Retoure,1,2024-07-22 03:06:51,31.346,Versand,REF771958,In Bearbeitung
+Tb7165723,P000b799a,Bestandskorrektur,0,2024-01-28 13:12:28,23.911999999999995,Außenlager,REF314823,Geplant
+Tb3be5678,P77772f74,Ausgang,-6,2024-03-04 05:13:38,48.811,Versand,REF746411,In Bearbeitung
+Tcd418214,P21e20ef8,Ausgang,-8,2023-08-27 01:51:13,227.79399999999998,Versand,REF934073,Geplant
+Tbc4346e0,,Eingang,87,2024-12-01 09:21:53,,Hauptlager,REF853749,Abgeschlossen
+T9947cfdf,Pb2f63edd,Bestandskorrektur,1,2023-10-26 06:45:36,46.305,Hauptlager,REF400227,Geplant
+T137339e1,P15cb23c4,Retoure,4,2023-06-14 12:30:28,82.05399999999999,Hauptlager,REF347918,Abgeschlossen
+Tf8e651f9,Pa99221e5,Ausgang,-19,2024-08-29 17:05:01,18.494,Außenlager,REF22793,In Bearbeitung
+T1d0234b3,Pa7d69348,Eingang,87,2023-09-11 18:47:51,62.727,Hauptlager,REF58013,Geplant
+T52109f90,Pf750a342,Bestandskorrektur,2,2024-02-05 15:51:38,18.214,Retouren,REF601009,In Bearbeitung
+Tbdcb4f7c,P0a45676d,Ausgang,-19,2024-07-27 12:35:53,546.357,Versand,REF364340,Abgeschlossen
+T38e53273,P98c0192a,Ausgang,-16,2023-07-26 11:32:34,152.012,Versand,REF597970,In Bearbeitung
+Tdbae8a83,P9316c89b,Retoure,2,2023-06-12 11:24:08,185.836,Außenlager,REF150352,Geplant
+Tb20e9afc,Pdf9aaa73,Bestandskorrektur,-5,2023-03-27 00:56:27,760.011,Retouren,REF781126,Geplant
+T67011900,P7834e026,Retoure,1,2023-06-25 20:13:12,288.75,Retouren,REF745652,Geplant
+T4ba46509,P150673c5,Bestandskorrektur,3,2024-05-19 08:41:19,689.164,Retouren,REF960926,Geplant
+T8a9c7925,Pb1d42b13,Bestandskorrektur,-5,2023-02-19 22:05:10,99.67999999999999,Hauptlager,REF368205,Abgeschlossen
+T58e02a33,Pafb5ceb2,Retoure,3,2023-11-20 02:07:49,66.955,Versand,REF967179,Abgeschlossen
+T5d4a0cb8,P32e7cdce,Bestandskorrektur,3,2024-08-18 11:54:22,1070.776,Versand,REF483386,In Bearbeitung
+T7520e5d8,P2e3f25bf,Ausgang,-10,2023-04-05 08:38:14,27.468,Retouren,REF305238,In Bearbeitung
+Tbad10ef5,Pdab1267e,Eingang,35,2023-07-09 22:09:44,158.18599999999998,Außenlager,REF590896,Geplant
+T4a8c1fa8,P1ed0e77b,Eingang,37,2024-07-23 23:41:11,17.450999999999997,Retouren,REF451822,Abgeschlossen
+T1ba0781b,P0a45676d,Retoure,5,2024-03-04 20:00:22,546.357,Hauptlager,REF464322,Geplant
+Tcedefc2d,P37a1cc45,Eingang,21,2023-11-10 05:41:27,26.215,Außenlager,REF183242,In Bearbeitung
+Tf8304a21,P258ec8b0,Retoure,1,2023-09-15 09:08:04,114.30299999999998,Hauptlager,REF539627,Abgeschlossen
+T1313e435,,Eingang,74,2023-07-14 02:02:56,,Hauptlager,REF243975,Geplant
+Tbb9d1f2d,P266b08a1,Bestandskorrektur,-2,2023-07-19 04:46:38,16.961,Retouren,REF328540,In Bearbeitung
+T3893fbba,P8b160812,Ausgang,-15,2024-02-14 12:45:44,10.136,Hauptlager,REF713157,Geplant
+Td485fd96,P768564ac,Retoure,1,2023-01-11 08:34:32,105.112,Hauptlager,REF710122,Abgeschlossen
+Tb8a02e3c,P150673c5,Bestandskorrektur,-4,2024-06-06 22:12:44,689.164,Außenlager,REF434732,In Bearbeitung
+T6e5a9ba0,P0fb2db2b,Eingang,100,2024-09-12 21:41:47,208.86599999999999,Außenlager,REF142198,In Bearbeitung
+Tb6c74c6f,,Bestandskorrektur,4,2024-07-02 20:18:02,,Retouren,REF932380,Abgeschlossen
+Tc9418877,P309cbd26,Retoure,1,2023-11-13 17:52:52,99.01499999999999,Retouren,REF308102,Abgeschlossen
+T15204b03,,Bestandskorrektur,-5,2024-01-10 22:21:57,,Außenlager,REF933796,In Bearbeitung
+T9a195255,Pafb5ceb2,Retoure,3,2024-08-23 13:46:51,66.955,Retouren,REF243482,In Bearbeitung
+T9283635b,Pededdd25,Retoure,2,2023-05-13 11:02:49,283.91299999999995,Retouren,REF740140,Geplant
+T35fb4c31,Pd8ee6a2b,Ausgang,-20,2024-01-28 22:11:35,20.544999999999998,Retouren,REF849870,Geplant
+T263ed08e,P5aa6cacb,Eingang,99,2024-07-05 21:47:42,727.3699999999999,Retouren,REF475084,Abgeschlossen
+T1e921159,P1e256c76,Retoure,3,2024-09-15 20:04:53,671.4119999999999,Außenlager,REF90405,In Bearbeitung
+T6f720d28,P15cb23c4,Retoure,4,2024-07-08 05:13:08,82.05399999999999,Retouren,REF803346,Abgeschlossen
+T905d36e8,P1ab20abf,Bestandskorrektur,1,2023-01-19 22:35:43,269.269,Hauptlager,REF47771,In Bearbeitung
+T5b73077f,P0260b04c,Eingang,71,2024-06-23 16:20:30,36.848,Hauptlager,REF578870,In Bearbeitung
+Taf6a6988,,Bestandskorrektur,-2,2023-06-24 11:22:02,,Hauptlager,REF684842,Abgeschlossen
+T83b36967,P5c3dbd2c,Eingang,85,2023-07-24 23:58:57,154.97299999999998,Hauptlager,REF157147,Abgeschlossen
+T486fc32d,,Bestandskorrektur,-2,2023-11-24 02:44:11,,Hauptlager,REF707015,Abgeschlossen
+Tafd584cf,Pf4b7500e,Eingang,60,2023-12-27 09:47:20,150.29,Versand,REF280805,Abgeschlossen
+Tb669e5e5,P9316c89b,Ausgang,-18,2024-05-09 10:44:05,185.836,Außenlager,REF87462,In Bearbeitung
+T38a1530a,,Retoure,3,2023-11-20 10:23:28,,Retouren,REF724688,In Bearbeitung
+T0e76e896,P0fb2db2b,Retoure,5,2024-02-22 07:43:11,208.86599999999999,Versand,REF142,In Bearbeitung
+T2141b3d4,P37a1cc45,Retoure,4,2024-05-04 19:19:30,26.215,Retouren,REF705989,In Bearbeitung
+T9c22b8f5,,Ausgang,-5,2024-09-07 20:53:42,,Außenlager,REF679400,In Bearbeitung
+Te6206c9a,Pe704ab75,Ausgang,-19,2024-04-05 12:20:23,292.754,Hauptlager,REF977032,Geplant
+T885e4815,Pa99221e5,Ausgang,-7,2024-02-19 22:06:16,18.494,Retouren,REF126997,In Bearbeitung
+T06b6833a,,Eingang,92,2024-10-06 18:50:24,,Versand,REF392187,Abgeschlossen
+T7c52e6df,P02cf2087,Ausgang,-20,2023-01-10 09:34:20,464.34499999999997,Retouren,REF514098,Abgeschlossen
+Ta16b44b1,P64ecb39d,Eingang,75,2024-10-23 09:17:02,474.747,Versand,REF251619,Abgeschlossen
+T10cce983,P31008989,Eingang,16,2023-09-12 04:05:41,714.371,Außenlager,REF547504,In Bearbeitung
+Te2dd0bcd,P5e8909d4,Bestandskorrektur,-2,2023-05-21 05:32:32,808.507,Außenlager,REF833011,Geplant
+Tfff402f0,P9316c89b,Eingang,78,2024-02-05 20:30:07,185.836,Außenlager,REF522979,Abgeschlossen
+T5e5b8296,P6d3e39ee,Retoure,3,2023-09-10 08:46:52,725.8089999999999,Retouren,REF312042,Abgeschlossen
+T4fda4ba3,P7326f7f4,Bestandskorrektur,-3,2024-05-05 07:57:34,30.205,Versand,REF570435,In Bearbeitung
+Tc217ddb5,P6e8901a4,Ausgang,-7,2023-03-27 12:55:24,113.00099999999999,Außenlager,REF288471,In Bearbeitung
+T471e3339,P768564ac,Bestandskorrektur,0,2024-02-22 05:50:37,105.112,Retouren,REF650092,Abgeschlossen
+T359c14c4,P768564ac,Bestandskorrektur,2,2024-10-14 17:22:09,105.112,Außenlager,REF606707,Abgeschlossen
+T66171c34,Pbbae2dd5,Eingang,93,2024-12-08 07:10:36,335.47499999999997,Hauptlager,REF953168,In Bearbeitung
+T6bac7b6a,P9da815f8,Retoure,4,2023-02-03 23:08:38,13.873999999999999,Hauptlager,REF852428,Geplant
+T0e99b7cd,P7e945270,Ausgang,-6,2023-01-13 12:03:43,81.508,Außenlager,REF190808,Geplant
+Tf73be8de,P7e945270,Ausgang,-8,2023-06-23 16:40:41,81.508,Retouren,REF159199,Abgeschlossen
+T3b141b8e,,Eingang,61,2024-01-03 13:34:54,,Versand,REF31686,In Bearbeitung
+Te15992a3,P2e3f25bf,Ausgang,-20,2024-12-29 10:37:48,27.468,Hauptlager,REF481919,Geplant
+T4e7078ac,P7af6bba0,Bestandskorrektur,-4,2023-04-27 22:55:42,10.927,Außenlager,REF517658,Abgeschlossen
+T878c2464,,Ausgang,-11,2023-12-20 21:46:59,,Versand,REF315088,Abgeschlossen
+Tc3320340,P7834e026,Bestandskorrektur,4,2023-11-18 20:13:03,288.75,Außenlager,REF607287,In Bearbeitung
+Tf959568f,P0a45676d,Eingang,78,2024-04-27 18:51:06,546.357,Hauptlager,REF211,Geplant
+Teb7fc3d0,P02cf2087,Eingang,70,2023-10-30 23:50:59,464.34499999999997,Außenlager,REF537009,In Bearbeitung
+T72e257e7,P8b160812,Ausgang,-4,2023-08-06 02:40:37,10.136,Versand,REF672200,Geplant
+T101c4529,P45a3e9ae,Ausgang,-15,2023-11-28 17:37:34,10.703,Versand,REF747058,Abgeschlossen
+T62c010a7,,Ausgang,-4,2023-11-11 13:28:59,,Retouren,REF714513,Abgeschlossen
+T55d0d662,P58d33e21,Ausgang,-7,2023-12-25 08:46:46,379.736,Außenlager,REF771632,In Bearbeitung
+T3e8123ac,P71923486,Ausgang,-3,2024-05-04 11:50:14,83.50999999999999,Außenlager,REF273829,Geplant
+Te325ef28,P7e94cb04,Eingang,78,2023-05-10 08:16:31,1308.391,Versand,REF493736,In Bearbeitung
+T7202a421,Pa7d69348,Retoure,5,2024-02-03 11:12:37,62.727,Außenlager,REF864590,Abgeschlossen
+T544b4b7a,P2be52bb7,Bestandskorrektur,5,2023-03-11 04:29:37,855.351,Versand,REF691507,Geplant
+Tb36c46b5,Pb880a595,Bestandskorrektur,1,2023-01-27 21:10:51,212.58999999999997,Versand,REF108383,Abgeschlossen
+Tac26c0b5,Pe940f056,Bestandskorrektur,-4,2023-11-02 09:57:32,31.346,Außenlager,REF346114,Geplant
+Te12d99ba,Pf4b7500e,Ausgang,-9,2023-01-10 20:21:54,150.29,Versand,REF421599,Geplant
+T66b07d86,Pd87e7c3b,Bestandskorrektur,-1,2023-11-27 17:30:45,76.52399999999999,Hauptlager,REF400318,In Bearbeitung
+Tada7a50f,,Bestandskorrektur,-4,2023-10-24 06:22:00,,Hauptlager,REF889323,In Bearbeitung
+Taf9633d6,,Retoure,5,2023-05-27 13:44:01,,Hauptlager,REF942731,Geplant
+Tfbbfb732,Pd0fa0e9f,Bestandskorrektur,-4,2024-01-23 04:43:51,613.0669999999999,Versand,REF15761,Abgeschlossen
+T74a6b937,P7af6bba0,Ausgang,-2,2024-04-15 12:46:34,10.927,Hauptlager,REF205697,Abgeschlossen
+T849b501c,P6d3e39ee,Ausgang,-15,2024-03-18 10:20:17,725.8089999999999,Hauptlager,REF163444,Abgeschlossen
+T416e6d6c,,Eingang,84,2023-02-07 15:49:02,,Versand,REF254620,Abgeschlossen
+T28d01e33,P1ed0e77b,Retoure,4,2023-05-23 16:37:52,17.450999999999997,Hauptlager,REF234322,In Bearbeitung
+T672bcfa9,P35f6e13d,Bestandskorrektur,1,2024-05-06 23:17:26,308.336,Retouren,REF710184,Geplant
+T40f7a935,Pe940f056,Bestandskorrektur,-1,2024-04-03 06:27:41,31.346,Hauptlager,REF860504,In Bearbeitung
+T804cd599,Pdbd241d0,Bestandskorrektur,-5,2023-08-24 03:34:31,89.306,Retouren,REF345190,Geplant
+T0e34637c,Pe93cc4c1,Eingang,42,2024-01-01 17:56:47,18.837,Hauptlager,REF690635,In Bearbeitung
+T9a63d795,P02cf2087,Bestandskorrektur,-5,2023-12-31 10:31:57,464.34499999999997,Versand,REF268780,Abgeschlossen
+T1bef10d3,P02cf2087,Retoure,2,2024-07-18 22:50:46,464.34499999999997,Retouren,REF714619,Geplant
+Teac5e8a8,P37a1cc45,Retoure,1,2024-01-23 13:57:10,26.215,Retouren,REF721370,Geplant
+Te0d65c7f,Pc7eb56da,Bestandskorrektur,2,2024-10-03 08:30:01,352.86299999999994,Außenlager,REF236154,Abgeschlossen
+Tafffc680,,Ausgang,-5,2023-03-31 06:03:30,,Außenlager,REF806844,Abgeschlossen
+Ta9b6c11c,Pededdd25,Retoure,2,2023-03-21 21:57:19,283.91299999999995,Versand,REF239654,Geplant
+T5de237b0,P2c5c4414,Ausgang,-4,2023-07-28 00:34:32,664.923,Versand,REF132566,Abgeschlossen
+Te817943e,P9316c89b,Ausgang,-16,2023-07-16 09:57:00,185.836,Hauptlager,REF750472,Geplant
+T24eb4413,P33796485,Ausgang,-14,2024-02-21 08:11:43,110.726,Retouren,REF750611,Geplant
+Tdabaa1d9,,Ausgang,-10,2023-12-01 11:50:19,,Retouren,REF672562,Geplant
+Td5fcb0d7,P21e20ef8,Ausgang,-5,2024-09-14 03:57:23,227.79399999999998,Außenlager,REF387936,Abgeschlossen
+T70b29ba1,,Bestandskorrektur,3,2023-09-10 08:17:35,,Versand,REF790651,Abgeschlossen
+Te9974457,P64ecb39d,Ausgang,-10,2024-09-18 19:01:41,474.747,Retouren,REF140498,Geplant
+Te5f8da00,P31008989,Eingang,47,2024-11-17 03:01:55,714.371,Außenlager,REF684740,Geplant
+T945aafe4,Pdab1267e,Ausgang,-15,2023-08-12 06:17:04,158.18599999999998,Retouren,REF294597,Geplant
+T527c9904,Pe284be6f,Bestandskorrektur,0,2024-05-14 05:17:18,134.736,Außenlager,REF386010,In Bearbeitung
+Td3c239a0,P58d33e21,Eingang,100,2023-05-15 17:00:07,379.736,Außenlager,REF540640,Geplant
+T47ae3184,,Bestandskorrektur,5,2024-02-21 01:38:44,,Hauptlager,REF36109,Geplant
+T08f7ecb4,Pa99221e5,Eingang,83,2024-12-07 22:56:35,18.494,Versand,REF856177,Abgeschlossen
+Ta8dc7f1d,P258ec8b0,Eingang,62,2023-03-19 20:13:36,114.30299999999998,Hauptlager,REF935036,Geplant
+T7a26072d,P71923486,Ausgang,-9,2023-10-22 20:02:12,83.50999999999999,Retouren,REF397321,Geplant
+T82f1f3a3,P1ed0e77b,Eingang,94,2023-03-23 04:37:54,17.450999999999997,Retouren,REF342194,In Bearbeitung
+T71706b91,P0a45676d,Bestandskorrektur,-3,2024-05-23 16:56:45,546.357,Hauptlager,REF720674,Geplant
+Tbec0db40,Pd87e7c3b,Eingang,64,2024-10-17 21:00:19,76.52399999999999,Außenlager,REF804581,Geplant
+T56032df1,Pdae71328,Retoure,4,2024-09-17 01:13:49,619.927,Außenlager,REF433886,Geplant
+Te3963038,Pa7d69348,Bestandskorrektur,0,2023-10-06 07:07:25,62.727,Retouren,REF50834,Abgeschlossen
+Te7380bb3,,Ausgang,-10,2024-09-12 17:43:07,,Versand,REF184020,Abgeschlossen
+T708d40b2,Pb1d42b13,Bestandskorrektur,5,2024-10-12 08:30:57,99.67999999999999,Retouren,REF39627,In Bearbeitung
+T2ea4f2cc,P91c57b81,Eingang,89,2023-09-01 17:11:53,575.008,Retouren,REF911530,Abgeschlossen
+Tef58cd46,Pb1eb6aa3,Bestandskorrektur,1,2024-12-08 08:38:03,197.50499999999997,Versand,REF584111,In Bearbeitung
+T2e4abb75,Pe5a125a2,Eingang,96,2023-12-09 01:59:09,822.2199999999999,Hauptlager,REF111697,In Bearbeitung
+T022d883c,,Ausgang,-14,2023-04-29 18:51:57,,Versand,REF117011,Abgeschlossen
+T6fa8c313,Pdf9aaa73,Bestandskorrektur,5,2023-05-06 16:14:44,760.011,Außenlager,REF130488,Geplant
+Tc5e1a797,P71923486,Bestandskorrektur,2,2023-07-17 19:37:56,83.50999999999999,Versand,REF490452,Geplant
+Tb471629c,P5b233719,Ausgang,-17,2023-05-31 09:54:45,30.358999999999995,Retouren,REF71733,In Bearbeitung
+T07b8fbf6,Pbbae2dd5,Ausgang,-19,2024-09-08 09:57:26,335.47499999999997,Retouren,REF366811,Abgeschlossen
+Tdeb17ab7,,Eingang,78,2024-03-18 04:34:26,,Hauptlager,REF609252,Geplant
+Tfef488dc,P02cf2087,Ausgang,-2,2023-12-16 05:22:16,464.34499999999997,Außenlager,REF835337,In Bearbeitung
+T590c6868,P1ed0e77b,Eingang,72,2024-03-28 14:23:47,17.450999999999997,Versand,REF119398,In Bearbeitung
+Tfc946dd7,Pb702965e,Bestandskorrektur,2,2023-04-07 15:50:59,232.59599999999998,Außenlager,REF244814,In Bearbeitung
+T713a12e4,,Ausgang,-13,2024-05-24 07:53:45,,Retouren,REF86860,Abgeschlossen
+T5c6007b8,,Bestandskorrektur,3,2024-06-20 21:43:37,,Retouren,REF719854,In Bearbeitung
+Td391a59a,P266b08a1,Ausgang,-18,2023-03-21 13:13:41,16.961,Retouren,REF265940,Abgeschlossen
+T2b5e94d2,P37a1cc45,Ausgang,-17,2023-02-28 16:02:03,26.215,Hauptlager,REF289824,Geplant
+Tb161a89f,P91c57b81,Bestandskorrektur,4,2024-06-28 23:39:55,575.008,Retouren,REF973962,Abgeschlossen
+Tec1b67d3,P6e01d9a3,Bestandskorrektur,-1,2023-10-02 06:38:14,25.291,Hauptlager,REF913679,Abgeschlossen
+Tf9b8dcbe,P0a45676d,Eingang,63,2024-06-06 20:23:12,546.357,Retouren,REF705010,Geplant
+Td318260d,P6e01d9a3,Eingang,43,2023-04-26 20:48:36,25.291,Hauptlager,REF154873,In Bearbeitung
+Te256fc16,Pde32edf4,Retoure,2,2024-01-20 10:19:23,34.601,Hauptlager,REF301293,Abgeschlossen
+Tce1336d9,,Eingang,64,2024-12-26 20:04:51,,Außenlager,REF706620,Geplant
+T14415c3d,P0fb2db2b,Bestandskorrektur,1,2023-07-02 12:38:57,208.86599999999999,Retouren,REF388577,In Bearbeitung
+T13a1c90e,Pe5a125a2,Eingang,61,2024-06-08 03:11:48,822.2199999999999,Hauptlager,REF448156,Abgeschlossen
+Te8c44424,P2486f730,Retoure,1,2023-02-21 22:39:40,21.377999999999997,Hauptlager,REF781296,In Bearbeitung
+T8b6a3334,P9da815f8,Eingang,64,2024-01-19 07:44:33,13.873999999999999,Außenlager,REF520651,Geplant
+Tc1ac9374,Pe940f056,Retoure,4,2023-12-01 08:00:02,31.346,Retouren,REF808889,In Bearbeitung
+Tbbc4fbec,P60295ad9,Retoure,4,2023-06-03 23:59:47,276.493,Außenlager,REF734104,Geplant
+Tbb97f43c,,Eingang,41,2023-01-04 16:41:55,,Retouren,REF217369,In Bearbeitung
+Tda46e55b,,Bestandskorrektur,4,2023-05-08 17:49:30,,Versand,REF79089,Abgeschlossen
+Tcfd9fe26,Pde32edf4,Retoure,4,2023-10-12 05:04:33,34.601,Hauptlager,REF152290,Abgeschlossen
+T3fc1ea30,Pa9b1f4ad,Ausgang,-19,2023-06-11 05:50:12,16.113999999999997,Hauptlager,REF159095,In Bearbeitung
+T3b4bcc7d,Pd32e1690,Retoure,3,2023-06-22 15:54:53,345.002,Retouren,REF230279,Abgeschlossen
+T90061928,Pf519fe1a,Ausgang,-12,2023-07-05 05:32:59,211.40699999999998,Retouren,REF861971,In Bearbeitung
+Ta219f701,P059dae10,Bestandskorrektur,3,2024-10-24 03:17:49,667.506,Retouren,REF503342,Geplant
+T5f1e133a,P9316c89b,Retoure,2,2024-03-30 02:50:18,185.836,Versand,REF290318,Geplant
+T44b0018e,P91c57b81,Bestandskorrektur,1,2024-12-23 14:53:27,575.008,Außenlager,REF233926,Geplant
+T205b8d0a,,Retoure,1,2023-08-23 12:31:53,,Hauptlager,REF515793,Abgeschlossen
+T917b57fb,P91c57b81,Retoure,2,2023-08-30 05:50:39,575.008,Versand,REF220390,Abgeschlossen
+T52af7c15,P984b9129,Retoure,3,2024-07-26 16:20:40,586.9359999999999,Außenlager,REF471560,Abgeschlossen
+Ta13c71ef,Pe940f056,Eingang,18,2024-10-04 11:53:24,31.346,Hauptlager,REF641271,In Bearbeitung
+Tef0dccb8,P9316c89b,Bestandskorrektur,4,2024-09-05 16:18:36,185.836,Versand,REF186594,Abgeschlossen
+T89ee9cb3,P4f5b8304,Eingang,55,2023-08-30 13:39:53,1322.811,Versand,REF80112,In Bearbeitung
+Tbc2e0097,Pf519fe1a,Retoure,3,2024-01-19 01:36:33,211.40699999999998,Retouren,REF815905,Geplant
+Tb4a59542,P8b160812,Eingang,79,2023-09-26 02:42:17,10.136,Hauptlager,REF94708,Geplant
+T7d64b741,,Bestandskorrektur,5,2023-02-20 13:12:14,,Versand,REF906287,Geplant
+T1177ce18,,Retoure,5,2024-08-20 20:33:13,,Versand,REF248344,In Bearbeitung
+Td66a8202,P32e7cdce,Retoure,5,2024-02-21 21:02:56,1070.776,Außenlager,REF732415,In Bearbeitung
+Td01ba3df,P5b233719,Retoure,4,2023-12-22 03:35:26,30.358999999999995,Außenlager,REF455981,Abgeschlossen
+T3ab19bcd,Pe940f056,Eingang,39,2024-06-06 14:45:45,31.346,Retouren,REF347267,Geplant
+Tcb2cf018,Pb1d42b13,Bestandskorrektur,-1,2024-03-29 07:49:53,99.67999999999999,Hauptlager,REF759530,Geplant
+T95ab44d4,P150673c5,Ausgang,-4,2023-08-30 11:35:00,689.164,Hauptlager,REF312592,In Bearbeitung
+T6eb40964,,Eingang,12,2023-01-23 00:26:52,,Hauptlager,REF139885,In Bearbeitung
+Tcafc44e8,P23dd0eb5,Eingang,96,2024-03-04 03:50:06,27.180999999999997,Versand,REF219230,In Bearbeitung
+Tc91ae00f,,Eingang,30,2024-07-07 06:22:58,,Hauptlager,REF158290,In Bearbeitung
+T5249eccd,,Ausgang,-10,2024-08-20 13:01:04,,Versand,REF78033,In Bearbeitung
+Tb96f4b49,P1ed0e77b,Ausgang,-3,2024-10-17 13:58:07,17.450999999999997,Hauptlager,REF910309,Geplant
+T1a4521f6,,Bestandskorrektur,3,2024-10-30 22:22:53,,Hauptlager,REF752539,Geplant
+T934a6ac6,Pa8d55241,Eingang,36,2023-07-09 05:12:18,175.777,Außenlager,REF385357,Abgeschlossen
+Ta4eed245,,Ausgang,-7,2023-09-23 10:33:45,,Außenlager,REF991013,Geplant
+T4e6d0771,Pe940f056,Bestandskorrektur,4,2023-02-12 05:40:43,31.346,Versand,REF769942,Abgeschlossen
+T577d6edb,P2be52bb7,Bestandskorrektur,-3,2024-05-30 09:35:06,855.351,Versand,REF497556,Abgeschlossen
+Tf2ddb342,Pb1eb6aa3,Retoure,2,2023-07-27 07:13:07,197.50499999999997,Retouren,REF934766,Geplant
+T42ff776f,P35f6e13d,Retoure,3,2023-06-01 00:27:41,308.336,Retouren,REF618546,Abgeschlossen
+Ta9c388ec,P98c0192a,Bestandskorrektur,-3,2024-07-22 13:06:28,152.012,Retouren,REF89819,Geplant
+T964b5fbb,Pfbad365e,Retoure,4,2024-07-16 21:28:07,600.194,Hauptlager,REF456264,In Bearbeitung
+T9c32d841,Pdab1267e,Ausgang,-4,2024-06-03 19:16:27,158.18599999999998,Retouren,REF787810,Abgeschlossen
+T10de7b66,Pd32e1690,Bestandskorrektur,2,2023-06-26 15:04:38,345.002,Versand,REF325485,Abgeschlossen
+T82fd80d6,Pdab1267e,Eingang,80,2024-09-20 13:53:31,158.18599999999998,Hauptlager,REF250692,In Bearbeitung
+T2e123ee3,Pde32edf4,Ausgang,-7,2023-10-29 07:53:46,34.601,Hauptlager,REF731846,In Bearbeitung
+T2653227c,Pdae71328,Bestandskorrektur,5,2024-10-24 08:42:06,619.927,Retouren,REF518768,Geplant
+Tacbe4cf9,,Retoure,2,2023-02-06 10:40:23,,Retouren,REF798587,In Bearbeitung
+Tdd36221c,Pe5a125a2,Eingang,25,2024-10-13 00:12:06,822.2199999999999,Retouren,REF990546,Abgeschlossen
+T14715407,,Retoure,5,2023-08-13 23:07:27,,Retouren,REF739235,In Bearbeitung
+Tf24fa3be,,Retoure,3,2024-04-07 14:45:11,,Versand,REF145480,In Bearbeitung
+T19c42f33,,Ausgang,-6,2024-04-21 22:23:14,,Hauptlager,REF563670,Abgeschlossen
+T5df6c231,,Ausgang,-9,2024-01-24 18:58:38,,Außenlager,REF718917,Abgeschlossen
+T2526a413,Pc7eb56da,Retoure,2,2024-06-20 13:22:43,352.86299999999994,Retouren,REF823018,In Bearbeitung
+T1837b56a,,Bestandskorrektur,3,2024-06-11 14:03:41,,Versand,REF512900,In Bearbeitung
+T9f0813b2,Pd8ee6a2b,Ausgang,-15,2023-08-11 08:05:14,20.544999999999998,Retouren,REF317229,In Bearbeitung
+Tfb95f902,Pe940f056,Ausgang,-6,2024-04-18 00:32:26,31.346,Hauptlager,REF320196,In Bearbeitung
+Tc69fe1f5,P2c5c4414,Retoure,2,2024-03-17 03:20:23,664.923,Hauptlager,REF789369,Geplant
+T087759ab,P7326f7f4,Eingang,21,2023-02-03 19:19:17,30.205,Retouren,REF613208,Geplant
+Ta4f4c38f,P984784d6,Bestandskorrektur,-1,2023-06-24 15:38:52,18.311999999999998,Außenlager,REF185804,Geplant
+T1984ba1d,,Ausgang,-10,2023-10-02 02:07:10,,Hauptlager,REF290475,Geplant
+T067d0a2b,P51bcf5d2,Bestandskorrektur,4,2024-06-02 11:15:05,5.893999999999999,Retouren,REF344309,Abgeschlossen
+Tcc0e3d97,,Ausgang,-15,2023-05-15 16:41:28,,Hauptlager,REF2189,Geplant
+T11602c36,P522845b5,Eingang,51,2024-06-16 20:06:56,54.43899999999999,Versand,REF727047,In Bearbeitung
+T53ddb11f,P55e4365b,Ausgang,-11,2024-10-08 03:16:30,501.956,Retouren,REF830524,In Bearbeitung
+Tb89d182d,P51bcf5d2,Retoure,4,2023-02-20 08:17:25,5.893999999999999,Retouren,REF954558,Abgeschlossen
+T7d491ff4,Pdbd241d0,Eingang,41,2024-01-05 18:10:56,89.306,Außenlager,REF475072,In Bearbeitung
+T21e290ce,Pde32edf4,Bestandskorrektur,0,2023-03-01 05:39:37,34.601,Außenlager,REF805962,Abgeschlossen
+Ted450125,P45a3e9ae,Ausgang,-13,2023-06-11 19:36:40,10.703,Hauptlager,REF115728,Abgeschlossen
+T2186eca1,Pd0fa0e9f,Ausgang,-8,2024-04-29 05:08:59,613.0669999999999,Außenlager,REF787591,Geplant
+Ta65ceda4,P77772f74,Ausgang,-20,2023-01-13 08:44:21,48.811,Versand,REF631677,Abgeschlossen
+T4144a3e3,P15cb23c4,Retoure,3,2024-11-08 03:14:23,82.05399999999999,Hauptlager,REF751541,In Bearbeitung
+T5ba1d81a,P37a0efc6,Bestandskorrektur,-4,2024-11-26 18:22:59,38.352999999999994,Hauptlager,REF104331,In Bearbeitung
+T7b2c6361,P1e256c76,Retoure,2,2023-12-02 05:29:08,671.4119999999999,Retouren,REF424001,Geplant
+T81d5f451,Pe704ab75,Bestandskorrektur,5,2024-01-26 00:37:55,292.754,Hauptlager,REF510418,In Bearbeitung
+Tbe88a10e,P71923486,Eingang,39,2023-11-11 01:44:37,83.50999999999999,Hauptlager,REF989509,Abgeschlossen
+T69f706c4,P6bc3575d,Retoure,1,2023-11-01 04:45:32,338.772,Hauptlager,REF456651,In Bearbeitung
+T3fde3013,P33796485,Eingang,82,2024-10-01 03:54:34,110.726,Versand,REF424455,In Bearbeitung
+Teedf8ab9,P45a3e9ae,Bestandskorrektur,5,2024-09-14 21:36:53,10.703,Retouren,REF767126,In Bearbeitung
+Td20c5d8a,P8b160812,Ausgang,-6,2023-02-25 02:52:30,10.136,Versand,REF407620,Geplant
+Tdbab4b9d,Pdb48c9ee,Retoure,2,2023-01-13 12:44:54,104.51,Hauptlager,REF693990,In Bearbeitung
+T8ab15638,P5b233719,Eingang,41,2024-09-16 02:06:48,30.358999999999995,Außenlager,REF488161,Abgeschlossen
+Tdd6b2e2d,P522845b5,Ausgang,-1,2023-08-31 23:36:07,54.43899999999999,Retouren,REF372827,Geplant
+T5e25c954,Pb2f63edd,Retoure,3,2024-10-10 18:02:44,46.305,Retouren,REF661241,In Bearbeitung
+T1ce275c6,P60295ad9,Bestandskorrektur,-2,2024-11-02 16:51:32,276.493,Außenlager,REF653323,Abgeschlossen
+T0190623b,P6e01d9a3,Bestandskorrektur,-5,2024-12-18 09:58:19,25.291,Retouren,REF741593,Geplant
+Te41831fd,P31008989,Bestandskorrektur,-5,2023-11-13 10:10:56,714.371,Retouren,REF945851,Abgeschlossen
+Td8d02572,P7834e026,Ausgang,-14,2023-03-17 03:53:06,288.75,Retouren,REF193842,Abgeschlossen
+T4f2ef05f,,Bestandskorrektur,-1,2024-05-17 22:46:31,,Versand,REF582055,Geplant
+T0ba0f2a5,P7326f7f4,Ausgang,-15,2023-07-31 15:29:10,30.205,Außenlager,REF839722,In Bearbeitung
+Ta6ab5f32,Peba8359e,Bestandskorrektur,-3,2024-04-21 12:32:44,231.54599999999996,Außenlager,REF135259,Geplant
+T1a8fd7e3,Pfd577618,Ausgang,-2,2023-04-02 07:15:25,97.62899999999999,Hauptlager,REF592086,Geplant
+T0677855f,,Eingang,16,2023-04-18 09:18:04,,Versand,REF574025,Abgeschlossen
+Tc177836b,Pd8ee6a2b,Bestandskorrektur,2,2024-11-11 07:02:38,20.544999999999998,Retouren,REF332636,In Bearbeitung
+T44e18737,P21e20ef8,Eingang,11,2024-12-11 22:39:16,227.79399999999998,Versand,REF73873,Geplant
+T2fab921a,P6e01d9a3,Eingang,87,2024-06-23 15:14:29,25.291,Retouren,REF56913,In Bearbeitung
+Tf9bae029,P51bcf5d2,Retoure,4,2023-07-30 18:31:34,5.893999999999999,Hauptlager,REF652312,Abgeschlossen
+T78411ad2,Pa8d55241,Retoure,4,2024-08-30 10:52:51,175.777,Versand,REF220166,In Bearbeitung
+T559b37fc,P6e01d9a3,Eingang,15,2024-11-15 07:01:16,25.291,Retouren,REF611528,Geplant
+Tc777a5b0,Pa7d69348,Ausgang,-14,2024-06-09 13:33:38,62.727,Außenlager,REF57774,In Bearbeitung
+T5ee4988e,P37a0efc6,Bestandskorrektur,-5,2024-08-25 11:27:40,38.352999999999994,Retouren,REF727539,In Bearbeitung
+Teaec4293,P45a3e9ae,Retoure,3,2023-06-23 09:29:39,10.703,Außenlager,REF224645,In Bearbeitung
+Tdcf1cef2,P768564ac,Eingang,91,2024-12-15 10:51:32,105.112,Retouren,REF748108,Geplant
+T407d4ae1,P58d33e21,Bestandskorrektur,-1,2024-09-28 08:37:39,379.736,Außenlager,REF689056,Abgeschlossen
+T17760930,Pdbd241d0,Bestandskorrektur,3,2024-08-10 16:30:55,89.306,Hauptlager,REF913520,Geplant
+T9a2a9c2d,Pc7eb56da,Bestandskorrektur,4,2023-11-24 10:11:20,352.86299999999994,Versand,REF726613,In Bearbeitung
+T1fbdb549,P059dae10,Retoure,4,2024-04-12 11:24:19,667.506,Retouren,REF604772,Abgeschlossen
+T01784655,,Ausgang,-2,2023-06-20 03:50:05,,Retouren,REF299371,Geplant
+T06a3e50d,Peba8359e,Bestandskorrektur,-3,2023-07-07 11:13:16,231.54599999999996,Versand,REF390749,Abgeschlossen
+T904b3737,P0260b04c,Bestandskorrektur,5,2023-11-21 18:05:58,36.848,Außenlager,REF519079,Geplant
+T7a8e5e17,,Bestandskorrektur,4,2024-01-26 08:26:17,,Außenlager,REF992942,Abgeschlossen
+T56d62235,Pcd326c9b,Retoure,1,2024-03-18 15:38:33,547.904,Außenlager,REF438601,Geplant
+T6d2934b7,P64ecb39d,Ausgang,-5,2023-07-02 12:37:37,474.747,Retouren,REF570756,Abgeschlossen
+Ta4e54997,,Bestandskorrektur,1,2023-11-01 17:00:20,,Hauptlager,REF871950,Geplant
+T8ebd3dee,P55e4365b,Retoure,1,2023-07-26 06:26:00,501.956,Hauptlager,REF655818,In Bearbeitung
+Tb88fcf30,Pb880a595,Eingang,82,2023-01-30 20:40:13,212.58999999999997,Außenlager,REF409330,Geplant
+T0295cfb0,P1ab20abf,Bestandskorrektur,-4,2024-10-14 04:39:49,269.269,Versand,REF829341,Abgeschlossen
+Tcd98a6a4,Pd87e7c3b,Eingang,24,2024-11-09 19:14:26,76.52399999999999,Versand,REF239698,Geplant
+Tbf05023e,P98c0192a,Retoure,2,2024-09-25 19:49:47,152.012,Retouren,REF599663,Geplant
+Taf885236,Pb0eb7e7d,Eingang,44,2024-11-15 11:59:59,338.34499999999997,Versand,REF545006,Abgeschlossen
+Ta908a68b,P64ecb39d,Ausgang,-8,2023-05-19 04:39:26,474.747,Retouren,REF1607,In Bearbeitung
+Ta51b6aa0,P7e945270,Ausgang,-14,2023-09-04 12:24:18,81.508,Außenlager,REF500200,Geplant
+Tb3a5b31f,P15cb23c4,Ausgang,-6,2024-11-02 07:42:44,82.05399999999999,Versand,REF141402,Abgeschlossen
+Tf335ddc6,Pa8d55241,Eingang,57,2024-09-10 15:57:30,175.777,Außenlager,REF144725,In Bearbeitung
+T32014749,Pdf9aaa73,Retoure,4,2024-10-22 16:35:09,760.011,Außenlager,REF983449,Geplant
+Tf3d6e474,Pd0fa0e9f,Eingang,75,2024-04-12 18:47:31,613.0669999999999,Retouren,REF232123,In Bearbeitung
+T7c076355,P37a0efc6,Bestandskorrektur,-5,2023-07-04 11:39:14,38.352999999999994,Außenlager,REF519877,Geplant
+Tdaa077a8,Pcd326c9b,Retoure,5,2024-07-28 07:18:24,547.904,Außenlager,REF534991,Abgeschlossen
+T8551c30d,,Ausgang,-3,2023-11-07 18:59:14,,Retouren,REF34656,Geplant
+T37e60310,P9da815f8,Eingang,63,2023-04-19 05:51:57,13.873999999999999,Versand,REF3058,In Bearbeitung
+T01ec9b23,P64ecb39d,Retoure,2,2023-07-16 03:34:39,474.747,Retouren,REF198295,Abgeschlossen
+Tfa2fc4bf,P45a3e9ae,Eingang,80,2023-11-04 03:14:25,10.703,Versand,REF492063,Abgeschlossen
+Td23dc382,P02cf2087,Ausgang,-10,2023-01-01 00:03:21,464.34499999999997,Hauptlager,REF549302,In Bearbeitung
+Tb7141343,Pc7eb56da,Bestandskorrektur,-4,2023-01-28 05:45:45,352.86299999999994,Versand,REF726232,In Bearbeitung
+T11b0d9b4,P7e94cb04,Ausgang,-7,2023-12-12 09:03:44,1308.391,Versand,REF200297,Abgeschlossen
+T10b06490,Pa7ae716f,Eingang,90,2023-05-06 00:07:30,9.296,Versand,REF539493,In Bearbeitung
+T7d061ad7,P1ed0e77b,Retoure,3,2023-04-21 11:17:00,17.450999999999997,Retouren,REF479122,In Bearbeitung
+Ta08b8af7,Pb702965e,Bestandskorrektur,5,2024-12-24 18:18:58,232.59599999999998,Retouren,REF820484,In Bearbeitung
+T48344429,P1ab20abf,Bestandskorrektur,0,2024-03-01 01:06:50,269.269,Außenlager,REF362652,In Bearbeitung
+T21cb40b2,,Bestandskorrektur,1,2023-08-01 13:05:08,,Außenlager,REF863090,Geplant
+T5ccca516,P1e256c76,Bestandskorrektur,5,2024-03-24 20:35:05,671.4119999999999,Hauptlager,REF633540,Abgeschlossen
+Tc8f1ab21,P60295ad9,Eingang,19,2023-08-18 02:56:01,276.493,Retouren,REF140661,In Bearbeitung
+T68ab9ad7,,Bestandskorrektur,1,2023-01-29 23:26:49,,Außenlager,REF165351,Abgeschlossen
+Tac62c3b6,Pbbae2dd5,Eingang,72,2023-10-08 10:30:17,335.47499999999997,Versand,REF162777,Abgeschlossen
+Ta6e6e459,Pa99221e5,Retoure,3,2023-05-26 01:53:44,18.494,Retouren,REF935834,Geplant
+Tf7bb9147,P7e94cb04,Bestandskorrektur,3,2023-03-13 20:26:40,1308.391,Versand,REF546322,Geplant
+T2ab71cc3,P6d3e39ee,Bestandskorrektur,-1,2023-06-16 13:05:52,725.8089999999999,Außenlager,REF234527,Geplant
+T960430ae,P7326f7f4,Retoure,1,2024-09-09 05:27:23,30.205,Außenlager,REF340901,Abgeschlossen
+Tbbb24aa6,P5c3dbd2c,Retoure,4,2024-01-25 17:48:08,154.97299999999998,Außenlager,REF579493,Abgeschlossen
+T9a747cfc,P0a45676d,Ausgang,-6,2024-02-01 17:48:59,546.357,Hauptlager,REF645046,In Bearbeitung
+T048b14a0,P45a3e9ae,Retoure,1,2024-07-08 15:01:06,10.703,Retouren,REF73944,Abgeschlossen
+T4211a2d3,,Eingang,41,2024-02-04 15:48:44,,Hauptlager,REF64053,Geplant
+T48862b0a,P2c5c4414,Ausgang,-6,2023-08-07 06:34:04,664.923,Außenlager,REF60827,Abgeschlossen
+T51aed85f,Pdae71328,Bestandskorrektur,2,2024-02-16 21:34:16,619.927,Außenlager,REF732645,In Bearbeitung
+T7e45abb3,P5c3dbd2c,Bestandskorrektur,-5,2024-07-08 08:57:27,154.97299999999998,Hauptlager,REF35592,Abgeschlossen
+T56c3d70f,,Ausgang,-3,2024-02-02 21:16:40,,Hauptlager,REF384756,In Bearbeitung
+T3547c611,Pa7ae716f,Ausgang,-1,2023-02-16 16:46:16,9.296,Versand,REF886767,Geplant
+T6861a07f,,Ausgang,-15,2023-11-06 08:21:31,,Außenlager,REF416864,Abgeschlossen
+T44c42921,P984784d6,Ausgang,-20,2024-01-08 13:27:14,18.311999999999998,Hauptlager,REF514941,Geplant
+Tc9972eac,P266b08a1,Ausgang,-7,2024-03-31 23:24:16,16.961,Hauptlager,REF929964,In Bearbeitung
+T0eb4227a,Pb2f63edd,Retoure,5,2024-01-10 15:06:48,46.305,Versand,REF749852,Geplant
+Tb997ceec,P499a265a,Bestandskorrektur,-2,2023-11-24 16:42:32,109.592,Versand,REF70977,Geplant
+T559b306d,Pe940f056,Ausgang,-9,2023-09-04 00:52:34,31.346,Hauptlager,REF114017,Abgeschlossen
+Tad82def5,Pcd326c9b,Bestandskorrektur,2,2023-06-16 23:56:39,547.904,Retouren,REF222705,In Bearbeitung
+Taaff3232,P33796485,Retoure,4,2024-03-16 22:02:21,110.726,Hauptlager,REF483520,Geplant
+T485f2f29,P64ecb39d,Eingang,15,2024-06-12 11:43:11,474.747,Retouren,REF159653,Geplant
+Tcdaeb646,P80238d20,Bestandskorrektur,-2,2024-07-08 21:39:55,905.261,Retouren,REF469671,In Bearbeitung
+T0ec23636,Pf519fe1a,Eingang,37,2023-04-08 05:09:48,211.40699999999998,Retouren,REF120345,Geplant
+Tc51d6372,P1ed0e77b,Bestandskorrektur,-5,2024-03-19 19:59:47,17.450999999999997,Außenlager,REF523738,In Bearbeitung
+T01747e26,Pd0fa0e9f,Retoure,4,2023-12-25 19:19:06,613.0669999999999,Hauptlager,REF398661,In Bearbeitung
+T9c6ec4c3,P1ed0e77b,Bestandskorrektur,-1,2024-12-17 21:53:44,17.450999999999997,Hauptlager,REF861009,Abgeschlossen
+T41ee19e4,Pe704ab75,Bestandskorrektur,4,2023-08-10 15:58:46,292.754,Außenlager,REF59430,Geplant
+T3797dd47,P681c50d2,Ausgang,-3,2023-10-03 23:42:19,629.3069999999999,Hauptlager,REF655589,Abgeschlossen
+T22dd36a1,P1ab20abf,Bestandskorrektur,5,2023-09-03 16:53:48,269.269,Retouren,REF729159,Geplant
+T40903daf,P60295ad9,Bestandskorrektur,4,2024-11-11 07:18:14,276.493,Außenlager,REF120352,Abgeschlossen
+Tf407e497,Pdf9aaa73,Retoure,3,2023-04-23 23:19:10,760.011,Hauptlager,REF392416,Abgeschlossen
+Te57e6290,P2be52bb7,Retoure,5,2023-03-09 14:26:30,855.351,Außenlager,REF455843,Abgeschlossen
+Tc3f39ec5,P60295ad9,Eingang,47,2024-03-28 20:12:04,276.493,Außenlager,REF790959,Abgeschlossen
+Td53566ae,,Bestandskorrektur,4,2023-05-27 18:32:43,,Hauptlager,REF402275,Abgeschlossen
+T7f9335aa,P1ab20abf,Bestandskorrektur,2,2023-05-03 09:54:11,269.269,Hauptlager,REF151578,Abgeschlossen
+Tcd478a88,P7326f7f4,Retoure,3,2023-07-08 05:01:35,30.205,Außenlager,REF961269,Geplant
+T26c05554,P5b233719,Ausgang,-8,2023-05-01 07:06:59,30.358999999999995,Außenlager,REF27728,In Bearbeitung
+T904f179a,Pe704ab75,Retoure,1,2023-02-24 16:22:16,292.754,Außenlager,REF318881,Geplant
+Td5b596c0,Pc7eb56da,Retoure,3,2024-09-21 03:28:57,352.86299999999994,Hauptlager,REF450116,In Bearbeitung
+Tbef9c1f1,,Eingang,22,2024-10-30 13:26:56,,Außenlager,REF311518,In Bearbeitung
+T711e9fc7,P4f5b8304,Ausgang,-1,2024-06-10 18:36:34,1322.811,Hauptlager,REF599184,In Bearbeitung
+T309ca225,Pb880a595,Eingang,13,2023-08-31 12:46:56,212.58999999999997,Hauptlager,REF21700,Abgeschlossen
+T20ad75da,P9316c89b,Eingang,60,2024-01-12 23:57:38,185.836,Außenlager,REF227695,Abgeschlossen
+Td75a8c86,Pe940f056,Bestandskorrektur,1,2024-11-03 17:16:40,31.346,Außenlager,REF828529,In Bearbeitung
+Ta18611df,Pde32edf4,Ausgang,-3,2024-05-07 18:03:35,34.601,Außenlager,REF186480,In Bearbeitung
+T13b957b2,P37a0efc6,Eingang,58,2024-02-19 07:25:50,38.352999999999994,Außenlager,REF740220,Abgeschlossen
+T5822975b,P0a45676d,Ausgang,-3,2024-05-27 22:53:05,546.357,Versand,REF515190,Geplant
+Td4626ac4,Pf519fe1a,Ausgang,-15,2023-04-23 19:49:20,211.40699999999998,Versand,REF521543,Abgeschlossen
+Tc2b19ce8,Pd8ee6a2b,Eingang,67,2023-01-21 10:03:22,20.544999999999998,Retouren,REF72309,Abgeschlossen
+Td3aaf7db,P0fb2db2b,Ausgang,-15,2024-05-08 20:07:53,208.86599999999999,Versand,REF529618,Abgeschlossen
+T16c7d6ea,Pde32edf4,Ausgang,-19,2024-09-28 23:55:16,34.601,Versand,REF549299,Geplant
+T79a27792,Pdae71328,Retoure,5,2024-09-12 05:41:03,619.927,Retouren,REF112971,Geplant
+T536bc4a8,P7326f7f4,Ausgang,-9,2023-01-24 18:47:30,30.205,Hauptlager,REF222061,In Bearbeitung
+Te9ae65ad,Peba8359e,Bestandskorrektur,0,2023-07-29 00:42:29,231.54599999999996,Retouren,REF253757,Abgeschlossen
+T6acb3d2a,P150673c5,Bestandskorrektur,3,2024-03-02 20:32:50,689.164,Hauptlager,REF873528,Geplant
+T26265b32,Pd0fa0e9f,Retoure,2,2024-06-15 20:51:28,613.0669999999999,Retouren,REF559244,Abgeschlossen
+Tcea42657,P6bc3575d,Ausgang,-10,2023-12-08 05:29:57,338.772,Hauptlager,REF808283,Geplant
+T507270ab,P7af6bba0,Eingang,81,2023-01-03 06:01:43,10.927,Versand,REF182460,Abgeschlossen
+T6915c830,Pe704ab75,Eingang,30,2024-07-16 14:50:24,292.754,Hauptlager,REF955421,Abgeschlossen
+T98c75343,P32e7cdce,Bestandskorrektur,-1,2023-10-19 23:02:31,1070.776,Hauptlager,REF82362,In Bearbeitung
+Tc3dab539,Peba8359e,Bestandskorrektur,4,2023-08-26 13:38:03,231.54599999999996,Außenlager,REF321950,Abgeschlossen
+T173539b6,P55e4365b,Bestandskorrektur,4,2024-10-19 05:43:18,501.956,Retouren,REF158878,In Bearbeitung
+T399faa40,,Ausgang,-16,2024-09-26 18:21:22,,Retouren,REF667156,Geplant
+Tdd79d014,Pdf9aaa73,Bestandskorrektur,-2,2024-03-30 21:05:45,760.011,Außenlager,REF45953,Abgeschlossen
+T906fffc5,P55e4365b,Eingang,40,2024-11-10 23:04:48,501.956,Versand,REF754846,Abgeschlossen
+Tab939460,P2c5c4414,Ausgang,-16,2024-09-19 16:53:55,664.923,Hauptlager,REF162049,Abgeschlossen
+Tc974c786,Pde32edf4,Ausgang,-11,2024-11-25 09:52:43,34.601,Hauptlager,REF758159,In Bearbeitung
+T2afbd12a,P91c57b81,Eingang,28,2023-07-27 07:45:57,575.008,Außenlager,REF872153,In Bearbeitung
+T57894e22,Pb880a595,Retoure,5,2023-09-01 04:57:33,212.58999999999997,Retouren,REF126116,Abgeschlossen
+Tdf5e8d38,P499a265a,Eingang,37,2023-05-11 18:14:52,109.592,Hauptlager,REF410542,Abgeschlossen
+T3bab7e76,P32e7cdce,Ausgang,-2,2024-11-12 00:22:59,1070.776,Versand,REF226872,In Bearbeitung
+T87a2d2aa,P2486f730,Bestandskorrektur,-2,2023-04-10 05:11:08,21.377999999999997,Versand,REF10604,Geplant
+Tab542abe,P499a265a,Eingang,90,2023-07-17 13:25:15,109.592,Retouren,REF21265,Geplant
+T84979631,P681c50d2,Retoure,3,2023-07-25 06:03:00,629.3069999999999,Retouren,REF498912,Abgeschlossen
+Te49e665a,Peba8359e,Retoure,5,2024-06-02 12:46:13,231.54599999999996,Hauptlager,REF121260,Abgeschlossen
+Tb2c8c026,P150673c5,Bestandskorrektur,-2,2024-08-25 23:29:27,689.164,Hauptlager,REF35342,In Bearbeitung
+Tca48165a,Pededdd25,Retoure,5,2023-05-12 12:02:59,283.91299999999995,Versand,REF838851,In Bearbeitung
+T25634281,Pb2f63edd,Eingang,14,2023-02-16 05:35:13,46.305,Retouren,REF578752,In Bearbeitung
+T00c127a2,,Bestandskorrektur,-3,2024-09-24 08:59:03,,Hauptlager,REF69096,Abgeschlossen
+T45719b80,,Bestandskorrektur,-3,2024-09-17 23:57:06,,Hauptlager,REF828217,Abgeschlossen
+T1e5a9621,,Ausgang,-1,2024-09-25 22:09:18,,Außenlager,REF266322,Geplant
+Tadba8681,P80238d20,Eingang,30,2023-05-20 14:25:50,905.261,Retouren,REF530963,Geplant
+Ted14eced,Pa8d55241,Bestandskorrektur,2,2023-04-17 14:25:46,175.777,Außenlager,REF933771,Abgeschlossen
+T5b51208e,P23dd0eb5,Ausgang,-17,2023-12-28 06:58:22,27.180999999999997,Versand,REF695585,Abgeschlossen
+T573386c6,P21e20ef8,Ausgang,-13,2023-05-30 23:00:46,227.79399999999998,Hauptlager,REF406197,Abgeschlossen
+T77331c58,P55e4365b,Ausgang,-15,2024-06-14 00:18:16,501.956,Versand,REF898006,Abgeschlossen
+T6b15219f,Pb2f63edd,Ausgang,-5,2023-07-13 04:05:20,46.305,Retouren,REF714595,Geplant
+T1ad78d32,Pb702965e,Retoure,3,2024-03-05 02:29:42,232.59599999999998,Versand,REF18068,In Bearbeitung
+T45694af1,Pb880a595,Eingang,95,2024-01-17 22:51:33,212.58999999999997,Hauptlager,REF753909,Geplant
+T1cb53c0d,Pb1d42b13,Retoure,2,2023-08-31 17:24:03,99.67999999999999,Retouren,REF622244,Geplant
+T64e55685,P15cb23c4,Ausgang,-19,2023-08-27 20:33:13,82.05399999999999,Versand,REF634952,Geplant
+T8ad6b60c,Pa7ae716f,Ausgang,-17,2023-07-10 19:47:02,9.296,Hauptlager,REF81016,Abgeschlossen
+T1ddfaa63,P5e8909d4,Bestandskorrektur,2,2024-12-13 19:45:23,808.507,Außenlager,REF779016,Abgeschlossen
+T041d2a18,,Ausgang,-11,2024-04-23 13:41:12,,Außenlager,REF259361,Abgeschlossen
+T0f471d68,P9316c89b,Ausgang,-8,2024-04-15 19:23:24,185.836,Hauptlager,REF45798,Abgeschlossen
+Td168e648,P6d3e39ee,Bestandskorrektur,-2,2023-08-06 18:06:01,725.8089999999999,Hauptlager,REF581321,Geplant
+T39f6394c,Pa7d69348,Ausgang,-20,2024-02-24 10:55:39,62.727,Retouren,REF65979,Abgeschlossen
+T0d1d8ac9,P768564ac,Ausgang,-16,2023-03-20 07:12:58,105.112,Außenlager,REF639949,Abgeschlossen
+Td6caf799,Pde32edf4,Eingang,50,2024-02-23 21:14:39,34.601,Hauptlager,REF794363,Abgeschlossen
+T68176c4e,P522845b5,Bestandskorrektur,4,2024-07-06 23:55:58,54.43899999999999,Versand,REF43604,In Bearbeitung
+T7c79aab8,P37a0efc6,Retoure,5,2024-06-30 08:53:54,38.352999999999994,Hauptlager,REF888436,Abgeschlossen
+Tfa8b343c,P522845b5,Retoure,2,2023-11-25 06:49:37,54.43899999999999,Hauptlager,REF659722,Abgeschlossen
+T291e5b92,P266b08a1,Retoure,3,2024-03-20 14:53:06,16.961,Versand,REF123351,Geplant
+T92dd2823,Pe704ab75,Bestandskorrektur,5,2024-03-16 16:10:42,292.754,Versand,REF334879,In Bearbeitung
+T192d050e,Pf519fe1a,Eingang,65,2023-10-19 12:33:04,211.40699999999998,Retouren,REF580637,In Bearbeitung
+T7b68f27d,Pfd577618,Ausgang,-6,2024-03-25 15:48:38,97.62899999999999,Retouren,REF989778,In Bearbeitung
+T856f8025,Pb702965e,Ausgang,-19,2024-07-16 02:03:59,232.59599999999998,Retouren,REF401672,Geplant
+Taed2fa15,,Bestandskorrektur,1,2024-11-09 00:20:53,,Außenlager,REF234484,Abgeschlossen
+Tc05c95ec,P15cb23c4,Ausgang,-17,2023-04-21 13:07:50,82.05399999999999,Versand,REF208804,In Bearbeitung
+T1b7386f7,,Retoure,5,2023-01-21 20:48:09,,Außenlager,REF243848,In Bearbeitung
+T33922154,Pdb48c9ee,Ausgang,-11,2024-05-26 03:09:58,104.51,Retouren,REF303164,In Bearbeitung
+Tf5a3c848,P80238d20,Bestandskorrektur,-3,2024-01-26 05:48:15,905.261,Außenlager,REF706889,Geplant
+T9bef4730,Pf519fe1a,Eingang,99,2023-03-08 07:56:02,211.40699999999998,Außenlager,REF573434,Geplant
+Te4906228,P499a265a,Retoure,5,2024-07-19 16:41:56,109.592,Hauptlager,REF966950,Abgeschlossen
+T61bd37c2,P02cf2087,Ausgang,-15,2023-03-01 00:10:26,464.34499999999997,Hauptlager,REF337095,Abgeschlossen
+Tcdd75938,Pb1eb6aa3,Eingang,31,2024-09-22 15:27:06,197.50499999999997,Hauptlager,REF154601,Abgeschlossen
+Tae77b763,Pa99221e5,Retoure,4,2024-11-21 02:18:01,18.494,Hauptlager,REF5287,Abgeschlossen
+T24a1cc53,P58d33e21,Ausgang,-5,2023-07-27 02:49:23,379.736,Hauptlager,REF820648,Geplant
+T6f403d8b,P77772f74,Eingang,72,2023-12-26 18:35:34,48.811,Retouren,REF423238,Abgeschlossen
+T6aaedbb2,P8af6ce4c,Retoure,2,2023-11-17 22:42:39,5.718999999999999,Retouren,REF518283,In Bearbeitung
+Tf23b1ba6,,Ausgang,-10,2024-08-14 22:22:50,,Hauptlager,REF426549,Geplant
+T394cb2ea,Pbbae2dd5,Retoure,1,2023-06-22 05:29:55,335.47499999999997,Versand,REF460048,Geplant
+T63f51441,,Retoure,5,2023-10-16 00:37:12,,Hauptlager,REF111131,Abgeschlossen
+T2896457d,P32e7cdce,Bestandskorrektur,4,2023-10-14 05:58:07,1070.776,Hauptlager,REF806500,Geplant
+T715e4069,Pbbae2dd5,Ausgang,-6,2023-02-07 04:45:01,335.47499999999997,Außenlager,REF806122,Abgeschlossen
+Tfa32fccd,Pe284be6f,Retoure,5,2023-09-07 05:51:47,134.736,Retouren,REF708389,In Bearbeitung
+T7a3d1a6a,Pfbad365e,Eingang,10,2023-12-29 18:20:14,600.194,Versand,REF280370,In Bearbeitung
+T3bf34c92,Pf750a342,Eingang,66,2024-08-07 11:59:44,18.214,Retouren,REF666412,In Bearbeitung
+T7830fa66,P7326f7f4,Bestandskorrektur,4,2023-03-16 08:03:00,30.205,Hauptlager,REF72399,Abgeschlossen
+Te25fedc0,P71923486,Eingang,95,2024-10-04 03:25:09,83.50999999999999,Versand,REF25075,In Bearbeitung
+T8f2e8047,Pa7d69348,Eingang,53,2023-10-25 02:44:56,62.727,Retouren,REF962527,Abgeschlossen
+T87f4c4fb,P266b08a1,Retoure,2,2023-08-11 09:21:26,16.961,Außenlager,REF220335,Abgeschlossen
+T8a7382c9,P4f5b8304,Bestandskorrektur,4,2024-10-26 01:28:45,1322.811,Versand,REF418257,In Bearbeitung
+T11d1c18d,P0260b04c,Ausgang,-20,2023-06-15 04:19:55,36.848,Außenlager,REF178347,In Bearbeitung
+Tc5e61d61,P2c5c4414,Retoure,4,2024-08-14 08:31:48,664.923,Außenlager,REF589420,Abgeschlossen
+T042ab518,P60295ad9,Ausgang,-2,2024-11-21 05:05:41,276.493,Retouren,REF426017,In Bearbeitung
+Ta4404d60,P45a3e9ae,Eingang,94,2024-08-21 17:18:44,10.703,Außenlager,REF684442,In Bearbeitung
+Tceae9a88,Pededdd25,Retoure,2,2023-08-18 11:20:18,283.91299999999995,Versand,REF569365,Geplant
+T3d51c357,Pfbad365e,Bestandskorrektur,-1,2024-10-16 20:50:21,600.194,Außenlager,REF200829,Geplant
+Tae580b4f,P984784d6,Bestandskorrektur,0,2023-03-06 06:27:22,18.311999999999998,Versand,REF501167,In Bearbeitung
+T44444835,Pd87e7c3b,Ausgang,-8,2023-08-28 23:47:10,76.52399999999999,Hauptlager,REF559254,Abgeschlossen
+T8f0c9cf2,Pf4b7500e,Eingang,54,2024-11-10 04:37:38,150.29,Retouren,REF928152,In Bearbeitung
+T65806c70,P7834e026,Ausgang,-14,2024-03-10 21:25:38,288.75,Retouren,REF118109,Geplant
+T6f46ddf7,P309cbd26,Eingang,55,2024-05-26 09:06:50,99.01499999999999,Hauptlager,REF263725,Geplant
+T393893ce,Pb702965e,Retoure,2,2024-12-03 10:44:19,232.59599999999998,Außenlager,REF35036,Abgeschlossen
+T38ad9ba1,,Eingang,84,2024-04-09 12:56:31,,Versand,REF474650,Abgeschlossen
+Tb12f7ee2,,Eingang,86,2024-08-26 05:01:51,,Retouren,REF450369,Abgeschlossen
+Tfccd29d7,Pcd326c9b,Bestandskorrektur,-1,2023-04-14 06:27:22,547.904,Retouren,REF227791,Geplant
+T07170c55,P8b160812,Retoure,5,2023-12-18 20:30:45,10.136,Außenlager,REF229891,Abgeschlossen
+T54f7598b,P7834e026,Retoure,5,2023-09-15 09:47:38,288.75,Außenlager,REF150258,Geplant
+T7ec90c97,,Eingang,24,2024-01-04 08:45:48,,Außenlager,REF391512,Abgeschlossen
+T8689a7db,Pededdd25,Eingang,94,2024-03-20 13:55:27,283.91299999999995,Außenlager,REF515079,Geplant
+T8ecb0749,P33796485,Retoure,4,2024-02-24 12:48:08,110.726,Außenlager,REF352441,Abgeschlossen
+T1e515fe7,P059dae10,Ausgang,-16,2024-10-05 08:05:08,667.506,Außenlager,REF905465,Abgeschlossen
+T8b5927fc,P2486f730,Eingang,100,2024-01-26 06:22:17,21.377999999999997,Außenlager,REF522329,Abgeschlossen
+T9a9bbe71,,Bestandskorrektur,-3,2023-07-12 01:32:04,,Hauptlager,REF741130,In Bearbeitung
+Tc94ffb01,P5aa6cacb,Eingang,24,2023-08-11 04:37:24,727.3699999999999,Hauptlager,REF754954,Abgeschlossen
+T0b6bd1bd,Pde32edf4,Retoure,2,2023-12-09 07:59:30,34.601,Außenlager,REF894940,Geplant
+T5990703a,Pf519fe1a,Eingang,34,2024-06-05 04:30:42,211.40699999999998,Versand,REF251621,Geplant
+T92b15f99,,Retoure,1,2024-07-12 18:10:23,,Außenlager,REF800731,Abgeschlossen
+Tf46386ba,Paa15aa91,Ausgang,-7,2023-08-07 06:49:25,136.325,Außenlager,REF615347,Abgeschlossen
+T213599ca,Pafb5ceb2,Eingang,99,2024-11-08 20:02:21,66.955,Retouren,REF186610,Geplant
+T7fdf7b33,P000b799a,Retoure,4,2024-08-22 13:17:40,23.911999999999995,Retouren,REF525863,Geplant
+T31be5436,Paa15aa91,Retoure,3,2024-01-07 03:02:17,136.325,Außenlager,REF371877,Geplant
+T5a726aba,P35f6e13d,Ausgang,-1,2023-02-11 20:49:24,308.336,Retouren,REF321468,In Bearbeitung
+Tf2217aff,Pdae71328,Eingang,65,2024-01-15 22:30:38,619.927,Versand,REF417585,In Bearbeitung
+Tdc47e9d9,Pe704ab75,Retoure,3,2023-06-24 08:23:22,292.754,Versand,REF898671,In Bearbeitung
+Tf74fb921,P522845b5,Ausgang,-6,2023-06-01 18:36:24,54.43899999999999,Versand,REF413968,Abgeschlossen
+T9aa89af4,Pb702965e,Retoure,2,2024-01-18 09:38:41,232.59599999999998,Hauptlager,REF827478,Geplant
+T264daaf9,P984b9129,Ausgang,-1,2023-03-01 16:01:50,586.9359999999999,Retouren,REF969437,Abgeschlossen
+T92655a6e,P059dae10,Eingang,33,2024-04-12 15:40:52,667.506,Außenlager,REF129679,In Bearbeitung
+T8f5d1396,,Retoure,3,2023-10-03 06:01:49,,Retouren,REF66500,Geplant
+T79a8a5cd,P5c3dbd2c,Ausgang,-4,2023-12-29 07:27:13,154.97299999999998,Außenlager,REF669385,In Bearbeitung
+T34e3d0f2,Pe93cc4c1,Bestandskorrektur,0,2024-06-26 15:41:58,18.837,Retouren,REF371099,Geplant
+Tf932b6a9,Pf519fe1a,Ausgang,-12,2023-06-03 06:21:36,211.40699999999998,Hauptlager,REF535291,Abgeschlossen
+T4dc961fd,,Bestandskorrektur,-4,2024-07-27 21:15:52,,Hauptlager,REF342070,Abgeschlossen
+Tc92df250,Pa8d55241,Ausgang,-17,2024-05-07 15:43:08,175.777,Außenlager,REF609701,Abgeschlossen
+T12e610b9,P15cb23c4,Bestandskorrektur,-3,2024-11-29 00:07:21,82.05399999999999,Außenlager,REF78529,Abgeschlossen
+T7245c307,P5b233719,Ausgang,-15,2024-10-03 21:59:37,30.358999999999995,Retouren,REF169141,Geplant
+Tb03e5bdf,Pcd326c9b,Eingang,62,2023-02-28 08:09:17,547.904,Hauptlager,REF274170,Geplant
+T36abb672,,Bestandskorrektur,3,2023-06-11 00:57:46,,Retouren,REF936785,In Bearbeitung
+T287476fe,P258ec8b0,Bestandskorrektur,-5,2023-06-08 15:08:08,114.30299999999998,Hauptlager,REF151542,Abgeschlossen
+T1b4c5f1c,P258ec8b0,Retoure,1,2024-11-08 02:32:53,114.30299999999998,Hauptlager,REF960540,In Bearbeitung
+Tcfb74c44,P9da815f8,Ausgang,-8,2024-09-06 12:19:20,13.873999999999999,Versand,REF656316,In Bearbeitung
+T1f733144,Pededdd25,Eingang,24,2024-09-05 18:47:52,283.91299999999995,Versand,REF269692,In Bearbeitung
+T4d21b6a2,Pb702965e,Eingang,13,2023-03-05 11:59:31,232.59599999999998,Hauptlager,REF980901,Geplant
+T928453e9,P8af6ce4c,Ausgang,-4,2023-01-22 07:32:34,5.718999999999999,Hauptlager,REF371509,Geplant
+T632a0504,P2c5c4414,Retoure,4,2024-03-17 11:37:42,664.923,Hauptlager,REF304987,Abgeschlossen
+T8149441c,Pdab1267e,Bestandskorrektur,-1,2023-04-04 08:18:19,158.18599999999998,Retouren,REF437869,In Bearbeitung
+T68a7e1da,P2c5c4414,Ausgang,-19,2024-04-13 06:13:53,664.923,Retouren,REF217642,In Bearbeitung
+Tc8e43d16,P37a1cc45,Bestandskorrektur,1,2024-08-20 00:31:15,26.215,Retouren,REF776674,In Bearbeitung
+Tebaa0268,,Bestandskorrektur,-4,2023-04-01 00:44:56,,Hauptlager,REF261370,Abgeschlossen
+T9b36ebaf,,Bestandskorrektur,-5,2024-01-24 06:56:25,,Retouren,REF62763,In Bearbeitung
+T5d436a74,Pe5a125a2,Eingang,33,2024-07-17 01:26:37,822.2199999999999,Außenlager,REF105236,Geplant
+Tbcd70b1c,P5c3dbd2c,Bestandskorrektur,5,2024-02-15 10:42:45,154.97299999999998,Versand,REF22259,In Bearbeitung
+Te66bc857,Pdf9aaa73,Bestandskorrektur,5,2023-09-26 05:04:44,760.011,Hauptlager,REF505587,Geplant
+Td101d330,P7e945270,Ausgang,-20,2024-07-02 01:31:10,81.508,Außenlager,REF205234,In Bearbeitung
+T13c45455,Pdb48c9ee,Retoure,2,2023-07-19 05:31:33,104.51,Hauptlager,REF578537,Geplant
+T62b67a54,Pbbae2dd5,Eingang,64,2023-04-10 14:33:24,335.47499999999997,Hauptlager,REF706344,Geplant
+T62dc4b52,P2c5c4414,Bestandskorrektur,-5,2024-03-29 10:20:52,664.923,Retouren,REF484502,Abgeschlossen
+T968f21c8,,Eingang,42,2023-11-12 18:50:58,,Versand,REF861390,Abgeschlossen
+T493fc02c,P5aa6cacb,Bestandskorrektur,3,2023-04-29 14:31:23,727.3699999999999,Außenlager,REF417037,Geplant
+T49cf2fa5,P32e7cdce,Eingang,49,2023-10-22 18:39:30,1070.776,Retouren,REF722430,Abgeschlossen
+T32ee698d,Pe93cc4c1,Retoure,5,2023-05-27 05:28:21,18.837,Retouren,REF713077,Geplant
+Teff7d818,Pe940f056,Retoure,2,2024-07-04 08:59:11,31.346,Außenlager,REF340436,Abgeschlossen
+T9aca28a2,P55e4365b,Ausgang,-11,2024-06-21 07:47:22,501.956,Versand,REF341583,Abgeschlossen
+Tfcde554d,P6d3e39ee,Ausgang,-13,2023-07-04 02:11:13,725.8089999999999,Hauptlager,REF16165,In Bearbeitung
+Tfca23813,P5e8909d4,Retoure,1,2023-05-29 10:10:15,808.507,Retouren,REF949601,Abgeschlossen
+Tf42617ce,Pd87e7c3b,Bestandskorrektur,-4,2024-07-29 15:15:21,76.52399999999999,Hauptlager,REF794436,Abgeschlossen
+T29d535e5,,Retoure,2,2024-08-11 04:53:19,,Versand,REF393548,In Bearbeitung
+Tb90838e7,P6e01d9a3,Eingang,28,2024-12-01 15:10:00,25.291,Versand,REF560643,Geplant
+T75e39ac8,P2c5c4414,Retoure,2,2024-12-13 23:29:26,664.923,Außenlager,REF794886,In Bearbeitung
+Ta70a5d28,Pafb5ceb2,Eingang,26,2023-02-02 03:12:50,66.955,Retouren,REF871993,In Bearbeitung
+Tb24fc31f,P64ecb39d,Retoure,1,2023-10-15 21:33:59,474.747,Hauptlager,REF931521,In Bearbeitung
+Tfdf8e353,P45a3e9ae,Ausgang,-1,2023-06-05 07:22:54,10.703,Außenlager,REF749390,In Bearbeitung
+T8bc5501a,P60295ad9,Retoure,5,2024-05-12 18:50:13,276.493,Außenlager,REF336377,Abgeschlossen
+T2500d8e1,P5b233719,Retoure,3,2023-06-25 03:38:45,30.358999999999995,Versand,REF213719,In Bearbeitung
+T8287282f,P45a3e9ae,Bestandskorrektur,3,2023-03-02 04:08:19,10.703,Außenlager,REF427873,Abgeschlossen
+Tc07a1324,P91c57b81,Retoure,3,2024-08-31 15:35:59,575.008,Versand,REF962453,Geplant
+T96e3e3b1,Pb0eb7e7d,Bestandskorrektur,-1,2023-04-02 21:06:06,338.34499999999997,Versand,REF883915,Abgeschlossen
+T28ee601b,,Bestandskorrektur,-5,2024-02-28 05:56:24,,Versand,REF882994,Geplant
+T6ae90c01,Pe940f056,Retoure,5,2024-02-27 18:10:47,31.346,Hauptlager,REF575024,In Bearbeitung
+T19e5f3e5,Pdb48c9ee,Bestandskorrektur,4,2023-07-11 15:06:44,104.51,Hauptlager,REF823164,Geplant
+T827cbab3,P9316c89b,Eingang,80,2024-06-09 04:13:03,185.836,Hauptlager,REF716669,Abgeschlossen
+T04523606,Pbbae2dd5,Eingang,22,2024-06-11 00:48:50,335.47499999999997,Retouren,REF901101,In Bearbeitung
+Teea812fb,P0260b04c,Retoure,2,2023-09-10 15:37:58,36.848,Hauptlager,REF101044,Geplant
+T9cd08579,Pb2f63edd,Ausgang,-17,2023-07-18 23:06:00,46.305,Versand,REF119220,Geplant
+T7cd2813f,P984b9129,Retoure,2,2024-02-24 04:50:35,586.9359999999999,Retouren,REF411905,In Bearbeitung
+T09a1e0b2,P499a265a,Bestandskorrektur,2,2024-11-07 14:23:57,109.592,Versand,REF230924,Abgeschlossen
+T49484358,,Ausgang,-13,2024-11-13 11:37:01,,Außenlager,REF248354,Geplant
+T341cd5f8,P23dd0eb5,Retoure,1,2024-02-21 18:50:14,27.180999999999997,Außenlager,REF230962,In Bearbeitung
+T26e63c4a,P5b233719,Eingang,24,2024-06-13 23:36:34,30.358999999999995,Außenlager,REF422408,In Bearbeitung
+T2fbec304,P71923486,Retoure,5,2023-01-23 23:28:49,83.50999999999999,Außenlager,REF716088,Abgeschlossen
+Ta4d58d18,Pd32e1690,Eingang,21,2023-02-10 12:03:54,345.002,Versand,REF756464,In Bearbeitung
+T12606287,Pa8d55241,Eingang,50,2023-08-16 10:25:33,175.777,Versand,REF987375,In Bearbeitung
+Tc585bc1b,Pdbd241d0,Bestandskorrektur,-2,2024-06-13 19:04:16,89.306,Retouren,REF974108,Abgeschlossen
+Tb6f9beca,Pb1eb6aa3,Bestandskorrektur,0,2024-12-18 16:38:19,197.50499999999997,Versand,REF9906,Geplant
+T0ac0cdc2,P6d3e39ee,Retoure,5,2023-11-05 21:42:41,725.8089999999999,Außenlager,REF806060,In Bearbeitung
+Tc086c5bd,Pafb5ceb2,Bestandskorrektur,-2,2024-10-20 23:07:32,66.955,Außenlager,REF207359,Abgeschlossen
+Ta4f3854e,P1ed0e77b,Eingang,43,2023-05-30 16:19:36,17.450999999999997,Hauptlager,REF704623,Abgeschlossen
+Tef97c6f6,,Eingang,34,2024-05-07 12:09:38,,Hauptlager,REF496453,Geplant
+Tbe298805,Paa15aa91,Retoure,3,2024-09-07 04:33:55,136.325,Versand,REF229879,Geplant
+Te151c795,P37a0efc6,Bestandskorrektur,3,2023-01-01 20:07:38,38.352999999999994,Retouren,REF158492,Abgeschlossen
+Td8f94cef,Pb0eb7e7d,Ausgang,-5,2023-03-20 07:57:28,338.34499999999997,Versand,REF248251,Geplant
+Tbe65d470,P6e8901a4,Retoure,5,2023-07-05 02:39:24,113.00099999999999,Versand,REF509268,Geplant
+T83cc35df,P15cb23c4,Bestandskorrektur,0,2023-06-10 08:42:59,82.05399999999999,Hauptlager,REF144816,In Bearbeitung
+Tc877be12,Pe5a125a2,Bestandskorrektur,-1,2023-07-21 08:54:53,822.2199999999999,Retouren,REF783096,Geplant
+T10744775,P150673c5,Ausgang,-8,2024-04-02 12:14:50,689.164,Versand,REF629236,In Bearbeitung
+T49c3a58a,P55e4365b,Retoure,1,2023-11-05 23:30:34,501.956,Hauptlager,REF414561,Geplant
+T504362d4,Pa99221e5,Ausgang,-9,2024-06-27 04:10:00,18.494,Außenlager,REF897306,Geplant
+Tbd4c3709,,Retoure,1,2024-01-25 04:45:02,,Versand,REF148756,Geplant
+T89f4ccd4,Pa9b1f4ad,Ausgang,-16,2024-04-29 03:01:39,16.113999999999997,Versand,REF273027,Geplant
+T867c8662,P37a1cc45,Eingang,94,2023-08-08 22:26:07,26.215,Hauptlager,REF151800,Geplant
+T0cd6383f,Pdf9aaa73,Eingang,89,2023-06-15 18:54:33,760.011,Versand,REF267838,Geplant
+T7d03cb8f,,Bestandskorrektur,-5,2023-10-20 05:01:00,,Außenlager,REF48483,Geplant
+T0c9f2fa2,P71923486,Bestandskorrektur,-3,2023-09-09 10:55:12,83.50999999999999,Retouren,REF985955,Abgeschlossen
+Tfaf87364,P0a45676d,Ausgang,-10,2023-03-18 11:52:39,546.357,Außenlager,REF399069,In Bearbeitung
+Te762cefa,Pe5a125a2,Bestandskorrektur,5,2023-03-05 08:22:32,822.2199999999999,Außenlager,REF55670,Geplant
+Ta7351850,,Ausgang,-2,2023-01-24 11:27:00,,Versand,REF422754,Geplant
+T2b390a9d,Pa7d69348,Bestandskorrektur,0,2024-04-08 18:49:08,62.727,Versand,REF36449,Abgeschlossen
+T07258955,Pb1eb6aa3,Retoure,2,2023-06-05 11:47:08,197.50499999999997,Außenlager,REF88274,In Bearbeitung
+Tb1ba979a,Pa7ae716f,Eingang,68,2023-10-09 21:06:30,9.296,Versand,REF505263,Geplant
+Ta5f98e37,P5b233719,Bestandskorrektur,0,2024-11-16 23:15:24,30.358999999999995,Hauptlager,REF686311,Abgeschlossen
+T08209042,P984b9129,Ausgang,-3,2024-05-25 18:36:06,586.9359999999999,Versand,REF228681,Abgeschlossen
+T978f1be4,,Ausgang,-16,2023-01-11 21:19:52,,Versand,REF465011,In Bearbeitung
+T081bedcf,Pa9b1f4ad,Retoure,1,2024-08-06 00:20:12,16.113999999999997,Retouren,REF941799,Geplant
+T8dbe2c17,,Eingang,14,2024-03-17 11:17:00,,Retouren,REF221963,In Bearbeitung
+T31b02a3c,P6e8901a4,Ausgang,-3,2023-06-09 15:12:57,113.00099999999999,Hauptlager,REF690145,Geplant
+T54c3cc70,,Retoure,4,2023-07-03 08:36:10,,Versand,REF644486,Abgeschlossen
+T232c9e00,Pb1eb6aa3,Ausgang,-7,2024-02-04 16:55:33,197.50499999999997,Versand,REF567481,Geplant
+T76afbeeb,Pde32edf4,Ausgang,-16,2024-10-19 22:48:57,34.601,Hauptlager,REF548067,In Bearbeitung
+T75d79295,,Bestandskorrektur,1,2023-03-05 20:26:37,,Retouren,REF34638,Geplant
+T0c3b9fea,Pc7eb56da,Ausgang,-7,2024-10-13 08:33:14,352.86299999999994,Außenlager,REF272069,In Bearbeitung
+T6da4a76f,P0260b04c,Ausgang,-13,2023-09-26 12:55:51,36.848,Hauptlager,REF122734,In Bearbeitung
+Td7a47c30,,Retoure,3,2023-05-24 16:40:04,,Retouren,REF154825,In Bearbeitung
+T81a6f77d,,Eingang,85,2023-10-24 10:50:48,,Retouren,REF570520,Abgeschlossen
+T18264c86,P984b9129,Ausgang,-6,2024-01-16 11:29:41,586.9359999999999,Retouren,REF685954,Abgeschlossen
+Teb19df6f,,Bestandskorrektur,-1,2023-11-25 10:10:59,,Retouren,REF741213,In Bearbeitung
+Tc243f78d,P2c5c4414,Ausgang,-5,2024-03-09 19:22:23,664.923,Versand,REF645371,In Bearbeitung
+Tf38b31e8,P64ecb39d,Ausgang,-2,2023-07-28 13:20:52,474.747,Hauptlager,REF742398,Abgeschlossen
+T877004e4,Pfbad365e,Ausgang,-16,2023-09-28 16:42:10,600.194,Versand,REF708600,In Bearbeitung
+T4821b24f,Pde32edf4,Eingang,12,2024-02-05 16:59:21,34.601,Außenlager,REF197506,Abgeschlossen
+T9e765433,P984b9129,Ausgang,-17,2023-08-28 02:52:16,586.9359999999999,Retouren,REF93880,Geplant
+T20e55ea5,P7834e026,Ausgang,-12,2024-06-22 01:16:13,288.75,Versand,REF886384,In Bearbeitung
+T87b720cd,Pb880a595,Eingang,40,2024-12-21 07:06:51,212.58999999999997,Retouren,REF741340,In Bearbeitung
+T7dd635ea,P02cf2087,Bestandskorrektur,2,2024-07-28 04:40:03,464.34499999999997,Retouren,REF650716,In Bearbeitung
+T1d6068e0,Pd0fa0e9f,Bestandskorrektur,2,2024-12-27 07:11:58,613.0669999999999,Retouren,REF31700,Abgeschlossen
+T44b0a23c,Pf750a342,Ausgang,-19,2024-06-27 20:15:24,18.214,Versand,REF140307,Abgeschlossen
+Tb19961e8,P7af6bba0,Eingang,61,2024-03-24 09:54:45,10.927,Versand,REF326206,Geplant
+T1b3c8d6e,P309cbd26,Eingang,45,2024-07-13 11:05:00,99.01499999999999,Außenlager,REF748327,Geplant
+Td923d9e2,P5aa6cacb,Ausgang,-17,2024-10-12 22:22:32,727.3699999999999,Außenlager,REF88055,Abgeschlossen
+Tf737292d,Pa9b1f4ad,Eingang,46,2024-06-24 20:39:10,16.113999999999997,Hauptlager,REF3112,Abgeschlossen
+Ta9043c19,P6bc3575d,Retoure,3,2023-03-26 13:08:08,338.772,Retouren,REF38022,Abgeschlossen
+T9ca4bb92,P58d33e21,Retoure,5,2024-06-07 21:06:11,379.736,Außenlager,REF372950,Geplant
+T72b0a316,Pafb5ceb2,Eingang,55,2024-05-06 06:59:39,66.955,Retouren,REF769739,Abgeschlossen
+Tcd279ab4,Pdf9aaa73,Bestandskorrektur,3,2023-11-19 20:53:16,760.011,Hauptlager,REF537226,In Bearbeitung
+T5d393665,Pb2f63edd,Ausgang,-2,2024-12-08 06:08:35,46.305,Außenlager,REF326240,Geplant
+Tc5c93dc4,P309cbd26,Eingang,41,2023-05-24 01:08:34,99.01499999999999,Retouren,REF815808,In Bearbeitung
+Tf8215caa,P1e256c76,Eingang,18,2024-01-21 19:49:45,671.4119999999999,Außenlager,REF954590,Geplant
+T7b0dbe4b,P15cb23c4,Bestandskorrektur,-2,2024-04-18 07:56:25,82.05399999999999,Retouren,REF472114,Abgeschlossen
+T47e5bf52,P7e94cb04,Retoure,5,2024-11-30 03:19:09,1308.391,Versand,REF578366,Abgeschlossen
+T05fe3404,P2c5c4414,Bestandskorrektur,-1,2023-09-12 08:02:10,664.923,Versand,REF656487,Abgeschlossen
+Tffb677eb,,Ausgang,-14,2024-04-23 17:07:59,,Außenlager,REF608830,Geplant
+Te6991457,Pb1eb6aa3,Eingang,23,2024-11-21 17:47:56,197.50499999999997,Versand,REF147719,Geplant
+T1969ba84,P35f6e13d,Retoure,5,2024-06-12 21:10:16,308.336,Hauptlager,REF91966,Abgeschlossen
+T8165b1df,Pa7d69348,Bestandskorrektur,5,2023-05-26 06:26:35,62.727,Außenlager,REF650468,Abgeschlossen
+Te1d3973e,P15cb23c4,Retoure,5,2024-03-15 03:42:03,82.05399999999999,Retouren,REF436020,Geplant
+T5ad541a0,P15cb23c4,Ausgang,-10,2023-03-24 15:31:52,82.05399999999999,Versand,REF255325,Abgeschlossen
+T5837f121,P45a3e9ae,Eingang,79,2024-03-11 21:46:07,10.703,Versand,REF301016,In Bearbeitung
+Tafdd8740,Pb2f63edd,Ausgang,-18,2023-03-31 18:49:29,46.305,Außenlager,REF227613,In Bearbeitung
+Tb6403698,Pf4b7500e,Bestandskorrektur,-4,2023-10-16 20:43:45,150.29,Versand,REF224975,Geplant
+Tfd4148d1,,Retoure,1,2023-11-26 01:00:03,,Außenlager,REF996126,Geplant
+Tba395c9a,Pf750a342,Eingang,93,2024-03-19 22:50:52,18.214,Retouren,REF33099,In Bearbeitung
+T5d1e3b92,Pdae71328,Ausgang,-1,2023-07-13 06:59:46,619.927,Versand,REF541167,Geplant
+T06d5dcf9,P21e20ef8,Ausgang,-2,2023-10-06 02:44:29,227.79399999999998,Versand,REF694841,Geplant
+T546aa641,Pf519fe1a,Bestandskorrektur,4,2024-07-01 00:57:00,211.40699999999998,Versand,REF338562,Geplant
+Tf42e6ae0,P6bc3575d,Ausgang,-19,2024-01-31 13:41:01,338.772,Versand,REF332411,In Bearbeitung
+T50cc6a98,Peba8359e,Ausgang,-18,2023-08-24 21:31:03,231.54599999999996,Versand,REF690331,Geplant
+T7dc99a19,Pbe069892,Ausgang,-6,2024-01-27 00:24:34,47.214999999999996,Hauptlager,REF807127,In Bearbeitung
+T203d6bf9,P681c50d2,Bestandskorrektur,0,2023-10-23 09:10:24,629.3069999999999,Versand,REF354929,Geplant
+T75de9ccd,P32e7cdce,Retoure,4,2023-08-10 06:41:26,1070.776,Versand,REF688137,In Bearbeitung
+Ta6d377ac,P984784d6,Retoure,4,2023-08-14 17:00:15,18.311999999999998,Retouren,REF427405,In Bearbeitung
+Tfae2f717,Pc7eb56da,Bestandskorrektur,-3,2023-06-22 05:35:23,352.86299999999994,Hauptlager,REF591725,In Bearbeitung
+T13c88c0a,Pededdd25,Eingang,59,2024-07-29 22:29:34,283.91299999999995,Retouren,REF321199,Geplant
+Tc862d1e4,P55e4365b,Ausgang,-5,2023-05-22 05:04:21,501.956,Retouren,REF579461,In Bearbeitung
+T13e10062,P7e94cb04,Retoure,4,2024-01-27 10:43:07,1308.391,Außenlager,REF191277,In Bearbeitung
+Tb8b9efd4,P71923486,Ausgang,-10,2024-02-21 09:52:05,83.50999999999999,Retouren,REF960628,In Bearbeitung
+Tb41f526d,P7e94cb04,Ausgang,-5,2023-02-03 05:47:33,1308.391,Außenlager,REF348614,Abgeschlossen
+T93834837,P71923486,Eingang,66,2023-12-23 03:56:49,83.50999999999999,Außenlager,REF800886,Abgeschlossen
+T08b6c670,P984b9129,Eingang,73,2023-12-20 21:50:54,586.9359999999999,Versand,REF913511,Geplant
+T1ca3e64e,P37a1cc45,Ausgang,-5,2024-09-09 08:22:59,26.215,Hauptlager,REF429544,Abgeschlossen
+T1b9ab05c,P31008989,Bestandskorrektur,-5,2024-07-12 18:46:06,714.371,Außenlager,REF474248,In Bearbeitung
+T5f743778,P5c3dbd2c,Bestandskorrektur,-4,2024-07-15 07:48:55,154.97299999999998,Hauptlager,REF500520,Abgeschlossen
+Tcce1bfe9,,Bestandskorrektur,3,2023-08-08 20:37:20,,Außenlager,REF192345,Abgeschlossen
+T8b502d72,P37a0efc6,Bestandskorrektur,0,2023-01-12 05:58:37,38.352999999999994,Retouren,REF878280,Geplant
+T20c733a5,,Bestandskorrektur,-2,2024-06-08 12:39:15,,Retouren,REF598534,In Bearbeitung
+T2eb496d4,Pbe069892,Ausgang,-14,2023-11-29 12:42:47,47.214999999999996,Außenlager,REF77072,Geplant
+T87418e2d,P2c5c4414,Eingang,50,2023-06-04 05:30:43,664.923,Außenlager,REF642258,Geplant
+Tbdf60f69,,Eingang,24,2023-01-18 10:57:59,,Hauptlager,REF52648,Abgeschlossen
+T5b4f2a16,P258ec8b0,Ausgang,-7,2024-12-05 20:32:44,114.30299999999998,Außenlager,REF189228,Abgeschlossen
+T46d3047c,Pe704ab75,Ausgang,-20,2024-08-12 21:38:47,292.754,Retouren,REF929657,Abgeschlossen
+Te4a57115,P33796485,Bestandskorrektur,5,2024-07-21 12:36:08,110.726,Retouren,REF363916,Abgeschlossen
+T51122003,P5aa6cacb,Eingang,90,2023-06-19 04:55:12,727.3699999999999,Versand,REF908529,In Bearbeitung
+T7b1c7daa,,Retoure,2,2023-07-27 14:15:05,,Hauptlager,REF348741,Abgeschlossen
+T31719010,P80238d20,Eingang,97,2024-12-01 18:03:44,905.261,Hauptlager,REF761797,Abgeschlossen
+T92fe3ef6,Pa99221e5,Retoure,1,2023-12-04 11:39:53,18.494,Außenlager,REF320565,In Bearbeitung
+Taac0f81b,,Bestandskorrektur,-3,2023-09-07 17:29:30,,Außenlager,REF24174,Geplant
+T5d0e44b9,P45a3e9ae,Bestandskorrektur,4,2023-07-01 09:20:16,10.703,Retouren,REF755631,In Bearbeitung
+Tadf2dc0f,P5e8909d4,Bestandskorrektur,0,2023-12-13 07:12:45,808.507,Hauptlager,REF294755,Abgeschlossen
+Tfc10438f,Pf519fe1a,Bestandskorrektur,-2,2023-11-02 22:05:58,211.40699999999998,Hauptlager,REF658456,In Bearbeitung
+Te17c2376,P60295ad9,Eingang,54,2024-10-23 20:07:11,276.493,Retouren,REF248379,Abgeschlossen
+Te011ec72,Pd32e1690,Eingang,89,2023-10-04 00:48:26,345.002,Außenlager,REF366032,Geplant
+T4ce35952,P2c5c4414,Bestandskorrektur,2,2023-04-18 01:15:55,664.923,Außenlager,REF111181,Geplant
+T5c4d007f,Pededdd25,Eingang,81,2023-02-19 07:33:08,283.91299999999995,Außenlager,REF172569,In Bearbeitung
+T2075b0f9,P6d3e39ee,Bestandskorrektur,5,2024-07-06 13:24:13,725.8089999999999,Retouren,REF769273,Geplant
+T41d4714e,,Ausgang,-4,2024-04-01 04:20:25,,Versand,REF940493,In Bearbeitung
+Td68d380b,,Ausgang,-4,2024-01-15 15:05:32,,Retouren,REF111227,In Bearbeitung
+Tc058a16e,,Eingang,96,2023-11-18 02:10:34,,Außenlager,REF24620,Abgeschlossen
+Tb6920d4d,P7e945270,Bestandskorrektur,-4,2023-06-23 18:29:08,81.508,Versand,REF505606,In Bearbeitung
+Tdc5ce689,Pfd577618,Ausgang,-20,2023-09-13 04:35:18,97.62899999999999,Außenlager,REF503709,Geplant
+T633e79e5,,Retoure,3,2023-01-23 11:35:23,,Retouren,REF420476,Geplant
+T4b5d0d1d,P4f5b8304,Retoure,2,2023-05-18 12:06:19,1322.811,Versand,REF717878,Abgeschlossen
+T468e2ccd,Pa9b1f4ad,Ausgang,-4,2023-04-05 02:42:24,16.113999999999997,Außenlager,REF882173,Geplant
+T229b8e18,Pb2f63edd,Bestandskorrektur,2,2023-03-14 08:58:43,46.305,Außenlager,REF80887,Geplant
+T77bc1754,P23dd0eb5,Eingang,68,2023-05-23 01:17:05,27.180999999999997,Außenlager,REF404925,In Bearbeitung
+T4b77c3d0,P98c0192a,Retoure,4,2023-09-14 01:08:10,152.012,Hauptlager,REF148355,Geplant
+Tf67df89e,P1ed0e77b,Eingang,62,2024-09-21 17:16:24,17.450999999999997,Hauptlager,REF591131,In Bearbeitung
+T615c9036,Pb880a595,Ausgang,-2,2023-12-29 19:11:14,212.58999999999997,Versand,REF634970,Geplant
+T088c0ddc,Pfbad365e,Eingang,94,2024-08-07 16:06:01,600.194,Versand,REF462257,Geplant
+Tbfc82a09,Pbbae2dd5,Eingang,94,2024-11-09 22:17:11,335.47499999999997,Retouren,REF767550,Geplant
+Tafaf9758,,Bestandskorrektur,5,2023-08-16 02:38:53,,Außenlager,REF872752,Geplant
+Ta9c878dd,,Ausgang,-8,2023-03-23 23:03:53,,Retouren,REF247587,Abgeschlossen
+T963b5f6d,Pf750a342,Retoure,5,2024-02-09 23:36:21,18.214,Außenlager,REF418296,In Bearbeitung
+Td5a51893,P91c57b81,Bestandskorrektur,-1,2023-08-22 04:59:03,575.008,Außenlager,REF76931,In Bearbeitung
+T00552826,Pb0eb7e7d,Bestandskorrektur,-4,2024-03-02 21:26:02,338.34499999999997,Retouren,REF2527,Geplant
+Td09201a0,P1ed0e77b,Eingang,98,2023-11-29 10:55:25,17.450999999999997,Hauptlager,REF138356,Geplant
+T6c85195b,Pa8d55241,Eingang,14,2024-04-04 15:31:38,175.777,Hauptlager,REF584918,In Bearbeitung
+T134ee279,Pd87e7c3b,Eingang,61,2023-07-28 05:32:24,76.52399999999999,Außenlager,REF256893,Abgeschlossen
+Taedfaadc,P77772f74,Eingang,18,2024-03-12 08:23:19,48.811,Außenlager,REF651934,In Bearbeitung
+T7c7b33e2,P768564ac,Retoure,1,2023-09-25 05:16:06,105.112,Retouren,REF689843,Abgeschlossen
+T2f565da7,P2be52bb7,Eingang,81,2023-07-09 01:05:12,855.351,Hauptlager,REF855317,Abgeschlossen
+Te0beeff1,,Eingang,44,2024-12-15 13:33:16,,Retouren,REF126096,Geplant
+T6aef7476,P33796485,Ausgang,-17,2024-07-02 23:22:33,110.726,Versand,REF824014,Abgeschlossen
+T9fef79f9,,Ausgang,-12,2024-01-06 07:06:22,,Außenlager,REF913986,Geplant
+T5f8371bb,P15cb23c4,Ausgang,-20,2023-03-27 22:15:52,82.05399999999999,Außenlager,REF780421,In Bearbeitung
+T8165bfb5,P80238d20,Ausgang,-15,2024-09-09 11:51:20,905.261,Versand,REF199734,Geplant
+T433f9abc,P35f6e13d,Eingang,17,2023-08-15 00:33:24,308.336,Außenlager,REF988800,In Bearbeitung
+T1af0af5a,Pa9b1f4ad,Eingang,12,2023-01-29 08:42:37,16.113999999999997,Hauptlager,REF184796,In Bearbeitung
+T500a0706,Pcd326c9b,Retoure,3,2024-06-06 23:33:09,547.904,Versand,REF303395,Abgeschlossen
+Ta74a8943,,Eingang,12,2024-11-22 03:39:46,,Versand,REF207946,In Bearbeitung
+T79399b09,P1e256c76,Ausgang,-6,2024-05-05 07:13:14,671.4119999999999,Versand,REF448872,In Bearbeitung
+Td377cbf4,,Retoure,3,2024-12-09 14:32:13,,Hauptlager,REF569531,Abgeschlossen
+T93ee7ccc,,Ausgang,-6,2023-07-29 14:31:57,,Außenlager,REF152867,Abgeschlossen
+T04b6b916,Pd87e7c3b,Bestandskorrektur,-3,2023-01-21 15:23:02,76.52399999999999,Außenlager,REF115767,Abgeschlossen
+T26145eec,P1ab20abf,Ausgang,-15,2024-08-20 08:59:21,269.269,Außenlager,REF261641,In Bearbeitung
+T53fea037,Pa9b1f4ad,Eingang,21,2024-08-22 14:29:16,16.113999999999997,Hauptlager,REF236626,Geplant
+T5eebe28a,P31008989,Ausgang,-7,2024-06-25 02:46:11,714.371,Retouren,REF302899,In Bearbeitung
+T438bbbb5,,Retoure,2,2024-05-07 06:39:55,,Retouren,REF441593,In Bearbeitung
+T59150011,P7326f7f4,Retoure,3,2023-10-03 08:37:47,30.205,Außenlager,REF398610,In Bearbeitung
+T6d82072f,,Retoure,1,2024-10-28 07:29:53,,Versand,REF169411,Abgeschlossen
+T7ad05c5f,P6e8901a4,Bestandskorrektur,1,2023-09-15 14:56:55,113.00099999999999,Außenlager,REF810127,In Bearbeitung
+T8f962ba0,P37a0efc6,Ausgang,-16,2023-10-31 22:27:53,38.352999999999994,Retouren,REF960170,Geplant
+Te085bb16,P258ec8b0,Bestandskorrektur,1,2024-07-08 10:26:05,114.30299999999998,Versand,REF540557,Geplant
+T50289c04,,Eingang,46,2024-06-28 20:28:02,,Außenlager,REF263715,Geplant
+T9789c59e,,Bestandskorrektur,2,2024-03-11 05:40:01,,Versand,REF611681,Abgeschlossen
+T20efc57d,P9da815f8,Ausgang,-1,2024-10-01 06:46:46,13.873999999999999,Außenlager,REF570628,Geplant
+Tcc57ba40,P80238d20,Bestandskorrektur,-2,2023-06-02 07:01:52,905.261,Außenlager,REF558458,Abgeschlossen
+Te6c893a2,Pb1d42b13,Eingang,49,2023-07-22 03:20:49,99.67999999999999,Hauptlager,REF188420,In Bearbeitung
+Te76aa852,Pbbae2dd5,Retoure,4,2023-12-30 19:11:36,335.47499999999997,Retouren,REF663202,In Bearbeitung
+T774eea11,P984784d6,Eingang,60,2023-01-26 03:58:47,18.311999999999998,Versand,REF233295,Abgeschlossen
+T544431d6,,Eingang,43,2023-10-11 16:48:47,,Retouren,REF317198,Geplant
+T0be17d23,Pd8ee6a2b,Retoure,5,2023-08-01 17:55:27,20.544999999999998,Versand,REF216048,In Bearbeitung
+Teb3778e5,P6d3e39ee,Retoure,2,2023-09-01 01:14:13,725.8089999999999,Versand,REF166267,Abgeschlossen
+Tdb6ba1d8,P7e945270,Ausgang,-9,2024-08-30 21:35:49,81.508,Hauptlager,REF74008,Geplant
+T7b607f57,,Bestandskorrektur,-3,2023-06-27 09:32:36,,Retouren,REF86666,Geplant
+Tffbcc3e7,P35f6e13d,Bestandskorrektur,-5,2023-09-21 19:45:19,308.336,Außenlager,REF538913,In Bearbeitung
+Tf85d9291,Pb2f63edd,Retoure,5,2024-03-08 09:53:47,46.305,Außenlager,REF337551,In Bearbeitung
+T1e8f903b,P2be52bb7,Eingang,23,2023-09-22 01:57:31,855.351,Hauptlager,REF698460,In Bearbeitung
+T0e84704e,,Ausgang,-3,2024-09-25 18:51:44,,Versand,REF805626,In Bearbeitung
+T097b4fab,Pd8ee6a2b,Bestandskorrektur,-4,2023-09-13 20:33:02,20.544999999999998,Retouren,REF125782,Geplant
+T2b25e3e6,P1ed0e77b,Ausgang,-20,2023-03-08 00:55:54,17.450999999999997,Retouren,REF239445,In Bearbeitung
+T171013dc,P681c50d2,Retoure,3,2024-07-02 11:40:22,629.3069999999999,Außenlager,REF574936,In Bearbeitung
+Tcfd7b404,P059dae10,Ausgang,-11,2023-01-11 16:43:03,667.506,Versand,REF975244,In Bearbeitung
+T4ca5eaba,,Ausgang,-12,2023-07-12 13:48:45,,Hauptlager,REF853858,Geplant
+T2370b16e,P60295ad9,Ausgang,-9,2024-08-03 19:18:49,276.493,Retouren,REF313152,Geplant
+Tb2c97147,P1ab20abf,Eingang,86,2024-11-18 07:54:26,269.269,Außenlager,REF696985,Geplant
+T90adfa04,P23dd0eb5,Retoure,5,2024-09-18 00:54:56,27.180999999999997,Hauptlager,REF658133,In Bearbeitung
+T09fa2b12,Pe940f056,Bestandskorrektur,5,2023-02-05 04:16:17,31.346,Außenlager,REF388616,Abgeschlossen
+T02b1c618,P2486f730,Retoure,5,2023-06-19 02:06:47,21.377999999999997,Versand,REF984579,Abgeschlossen
+T5f803d10,P15cb23c4,Retoure,4,2024-09-19 00:59:23,82.05399999999999,Hauptlager,REF219200,Abgeschlossen
+Tb29b1a4d,P2e3f25bf,Eingang,67,2024-09-17 22:08:38,27.468,Retouren,REF330179,Geplant
+T3875e9ad,P5e8909d4,Ausgang,-3,2024-03-23 03:00:56,808.507,Versand,REF278932,Geplant
+Te62f253f,P266b08a1,Retoure,2,2023-09-03 04:07:52,16.961,Retouren,REF41781,Geplant
+Ta0d27643,,Retoure,2,2024-12-28 12:11:00,,Retouren,REF917036,In Bearbeitung
+Tdd045b90,Pf4b7500e,Retoure,2,2023-09-05 13:16:18,150.29,Versand,REF996202,Abgeschlossen
+Tb3fa0bbb,Pfd577618,Retoure,3,2024-09-04 03:57:04,97.62899999999999,Retouren,REF609892,Abgeschlossen
+T19fe2fb0,Pdf9aaa73,Retoure,3,2023-01-29 09:17:23,760.011,Versand,REF889249,In Bearbeitung
+T38f3041e,P02cf2087,Ausgang,-6,2023-02-12 01:40:21,464.34499999999997,Hauptlager,REF975319,Abgeschlossen
+Te0973294,P15cb23c4,Retoure,5,2024-04-21 02:43:26,82.05399999999999,Retouren,REF792545,In Bearbeitung
+T898564c3,P5b233719,Ausgang,-19,2024-08-11 01:57:05,30.358999999999995,Versand,REF26749,Abgeschlossen
+T1c9bac38,P15cb23c4,Eingang,16,2024-03-26 06:35:14,82.05399999999999,Retouren,REF584576,In Bearbeitung
+T6ab2fbff,Peba8359e,Bestandskorrektur,-3,2023-10-18 09:16:43,231.54599999999996,Retouren,REF267977,In Bearbeitung
+T241be1be,Peba8359e,Ausgang,-12,2024-06-02 03:08:29,231.54599999999996,Hauptlager,REF534386,In Bearbeitung
+T19ad2239,P7834e026,Eingang,93,2024-03-27 20:26:19,288.75,Versand,REF308846,Abgeschlossen
+Tf788e6ea,Pdb48c9ee,Retoure,2,2023-12-16 11:58:24,104.51,Versand,REF203223,Abgeschlossen
+Tde73f361,P31008989,Bestandskorrektur,0,2024-01-07 17:49:56,714.371,Außenlager,REF123496,Geplant
+T84872073,P2c5c4414,Eingang,24,2024-11-20 23:19:51,664.923,Außenlager,REF511545,Abgeschlossen
+Tb3058349,P55e4365b,Ausgang,-8,2023-01-06 06:52:24,501.956,Retouren,REF603322,Abgeschlossen
+Tb2131920,P522845b5,Retoure,3,2024-03-02 03:34:32,54.43899999999999,Retouren,REF890958,In Bearbeitung
+T545f12e4,P4f5b8304,Eingang,37,2024-02-27 18:48:28,1322.811,Außenlager,REF878887,Abgeschlossen
+T0ed13ea6,Pededdd25,Retoure,3,2023-12-13 16:28:27,283.91299999999995,Versand,REF273921,In Bearbeitung
+T90748fdb,P8b160812,Ausgang,-10,2024-12-19 09:06:42,10.136,Hauptlager,REF865061,In Bearbeitung
+Tfeb71b18,,Bestandskorrektur,-4,2024-01-28 10:43:26,,Versand,REF380337,Abgeschlossen
+T2b248104,P5aa6cacb,Bestandskorrektur,2,2024-04-10 12:24:42,727.3699999999999,Außenlager,REF891821,Geplant
+T6a39b083,Pb702965e,Retoure,3,2024-09-21 09:55:41,232.59599999999998,Versand,REF797236,In Bearbeitung
+Tdd2bd764,Pd8ee6a2b,Eingang,69,2024-07-09 05:29:01,20.544999999999998,Versand,REF998901,Geplant
+Tf0645a64,P309cbd26,Ausgang,-13,2023-08-29 05:34:05,99.01499999999999,Hauptlager,REF976564,In Bearbeitung
+Tc8848327,P5e8909d4,Bestandskorrektur,5,2024-06-11 04:36:35,808.507,Außenlager,REF816973,Abgeschlossen
+Tc16ae94f,P0fb2db2b,Retoure,3,2024-03-16 16:03:46,208.86599999999999,Hauptlager,REF935533,In Bearbeitung
+T29c20ed9,,Retoure,2,2023-02-15 13:25:38,,Hauptlager,REF636115,In Bearbeitung
+T343a6159,Pb1d42b13,Retoure,2,2023-02-09 23:48:35,99.67999999999999,Hauptlager,REF695529,In Bearbeitung
+Tc06bbe19,P1e256c76,Eingang,21,2024-09-17 19:12:58,671.4119999999999,Versand,REF289435,In Bearbeitung
+T7dcbe7f5,Pe284be6f,Eingang,84,2024-06-03 18:41:53,134.736,Versand,REF901265,Abgeschlossen
+T65146f16,P98c0192a,Retoure,5,2024-04-22 22:55:28,152.012,Versand,REF907972,Geplant
+T3f56c6d9,Pf519fe1a,Retoure,1,2024-09-13 12:50:52,211.40699999999998,Außenlager,REF811270,Abgeschlossen
+T9410b89e,P1e256c76,Retoure,2,2023-12-08 06:41:24,671.4119999999999,Retouren,REF978352,Geplant
+T486e7162,P8af6ce4c,Bestandskorrektur,3,2024-09-11 04:15:36,5.718999999999999,Hauptlager,REF920536,Geplant
+T813cee58,P45a3e9ae,Retoure,3,2023-11-18 11:02:16,10.703,Außenlager,REF353262,Abgeschlossen
+T740b4607,P984b9129,Eingang,63,2023-11-29 13:46:36,586.9359999999999,Retouren,REF356421,In Bearbeitung
+T628bc4b3,Pb1d42b13,Ausgang,-16,2023-01-20 09:25:06,99.67999999999999,Retouren,REF583549,Geplant
+T724d7a27,Pe284be6f,Ausgang,-12,2024-04-16 20:57:26,134.736,Versand,REF135633,Geplant
+T2eb3dff7,P059dae10,Bestandskorrektur,3,2023-06-02 20:51:33,667.506,Hauptlager,REF867498,Abgeschlossen
+Te32b449b,,Eingang,12,2024-12-23 09:51:11,,Retouren,REF621364,Abgeschlossen
+T9db81f5e,P5c3dbd2c,Ausgang,-3,2023-07-13 03:06:21,154.97299999999998,Retouren,REF917785,Abgeschlossen
+T39686d8a,P0a45676d,Eingang,27,2023-02-10 12:47:09,546.357,Außenlager,REF204668,Abgeschlossen
+T37183ebf,P1e256c76,Retoure,1,2023-04-09 18:24:24,671.4119999999999,Retouren,REF855660,Geplant
+T72df35ba,Pdbd241d0,Ausgang,-8,2024-04-29 09:09:30,89.306,Retouren,REF394571,Abgeschlossen
+Tf7cdcdb0,P7326f7f4,Eingang,23,2024-10-19 03:27:17,30.205,Retouren,REF548536,Geplant
+T8f8a58cb,P37a0efc6,Ausgang,-13,2024-11-28 09:58:55,38.352999999999994,Retouren,REF319158,Abgeschlossen
+T5fc3134e,P1ed0e77b,Retoure,3,2023-11-01 06:50:33,17.450999999999997,Retouren,REF745369,Geplant
+Tebed5064,P7834e026,Bestandskorrektur,-1,2023-06-13 09:57:48,288.75,Hauptlager,REF231112,Geplant
+T7a0d5f47,P7af6bba0,Ausgang,-13,2023-10-11 23:15:09,10.927,Versand,REF668162,Abgeschlossen
+T0b745bfe,P1e256c76,Eingang,41,2023-10-30 06:05:22,671.4119999999999,Außenlager,REF748224,Abgeschlossen
+T88beb9f0,P15cb23c4,Ausgang,-19,2023-11-27 01:52:30,82.05399999999999,Hauptlager,REF169700,In Bearbeitung
+T2eb53572,Pdab1267e,Ausgang,-8,2024-03-14 05:10:21,158.18599999999998,Hauptlager,REF154216,Abgeschlossen
+Tde4e712d,,Bestandskorrektur,4,2023-01-13 09:13:03,,Hauptlager,REF330006,Geplant
+T46fd513a,Pa9b1f4ad,Ausgang,-15,2023-02-25 05:27:38,16.113999999999997,Versand,REF401587,Abgeschlossen
+T8971ea8e,,Retoure,5,2023-10-20 16:45:47,,Außenlager,REF434978,Abgeschlossen
+T4cd2771e,P6d3e39ee,Bestandskorrektur,4,2024-02-21 03:27:22,725.8089999999999,Hauptlager,REF777262,In Bearbeitung
+T594f8977,P7326f7f4,Retoure,3,2023-06-04 09:31:40,30.205,Retouren,REF123701,Abgeschlossen
+Tdceae00f,P9316c89b,Retoure,5,2024-04-07 08:41:30,185.836,Retouren,REF837786,Geplant
+T48d5ae76,Pa9b1f4ad,Ausgang,-3,2024-05-09 22:52:26,16.113999999999997,Versand,REF526257,Abgeschlossen
+Ta0e88fa0,,Retoure,5,2024-11-07 22:22:44,,Retouren,REF679491,Abgeschlossen
+T5600b018,Pfbad365e,Bestandskorrektur,-1,2023-05-26 17:12:29,600.194,Außenlager,REF83038,In Bearbeitung
+Tb7d3561e,P98c0192a,Retoure,2,2023-06-12 21:31:30,152.012,Versand,REF713221,Abgeschlossen
+T89e56ad4,P64ecb39d,Retoure,3,2024-09-01 01:25:02,474.747,Retouren,REF119656,Geplant
+T9d8a68ad,P98c0192a,Retoure,1,2024-01-05 18:20:21,152.012,Retouren,REF741460,Geplant
+T083baefa,P1e256c76,Ausgang,-2,2023-01-26 11:12:09,671.4119999999999,Retouren,REF490738,In Bearbeitung
+Te52d1b5a,P58d33e21,Retoure,3,2024-02-14 04:45:56,379.736,Hauptlager,REF225883,Abgeschlossen
+Ta74969d0,,Retoure,1,2024-07-19 18:07:21,,Hauptlager,REF418916,Geplant
+T048ff0de,Pcd326c9b,Retoure,3,2024-06-17 14:19:52,547.904,Hauptlager,REF770704,In Bearbeitung
+Ta74e76d7,P9316c89b,Retoure,4,2024-11-08 05:23:19,185.836,Versand,REF785976,In Bearbeitung
+Tab3f9785,P522845b5,Ausgang,-3,2023-05-20 22:21:53,54.43899999999999,Hauptlager,REF759238,Geplant
+T74a1ee62,P33796485,Eingang,72,2024-06-08 20:44:50,110.726,Versand,REF955801,In Bearbeitung
+Tf2215c5b,P2be52bb7,Ausgang,-2,2023-03-31 11:47:33,855.351,Außenlager,REF934373,Geplant
+Tf417cf04,Pcd326c9b,Ausgang,-2,2023-03-18 01:16:34,547.904,Versand,REF238882,In Bearbeitung
+Tb29b673c,Pdab1267e,Eingang,18,2023-11-20 02:08:28,158.18599999999998,Versand,REF924754,Abgeschlossen
+Tf7954181,,Retoure,5,2024-06-11 00:54:48,,Versand,REF326023,Abgeschlossen
+T2ece3341,Pe5a125a2,Eingang,63,2023-08-07 17:08:09,822.2199999999999,Außenlager,REF590406,Geplant
+T121bba72,Pdb48c9ee,Eingang,26,2024-03-10 00:17:15,104.51,Hauptlager,REF247372,Abgeschlossen
+T1d89d857,P5aa6cacb,Eingang,36,2023-07-23 14:35:09,727.3699999999999,Außenlager,REF306810,Abgeschlossen
+Tf5406d15,P7834e026,Retoure,5,2023-11-25 00:12:28,288.75,Außenlager,REF885478,In Bearbeitung
+Tdf1a818f,P1e256c76,Bestandskorrektur,0,2024-03-25 21:56:56,671.4119999999999,Hauptlager,REF891082,In Bearbeitung
+Tfea645ea,P000b799a,Retoure,3,2023-12-26 02:46:40,23.911999999999995,Hauptlager,REF843282,In Bearbeitung
+T5bd174f2,P2be52bb7,Retoure,5,2024-04-11 16:25:54,855.351,Hauptlager,REF897874,Geplant
+Tc7218e93,P8af6ce4c,Retoure,4,2024-07-05 02:00:18,5.718999999999999,Außenlager,REF360759,Geplant
+Te86e946c,P5c3dbd2c,Retoure,5,2024-05-28 22:05:45,154.97299999999998,Versand,REF210654,Geplant
+T60d51835,P35f6e13d,Eingang,79,2023-11-06 05:40:03,308.336,Retouren,REF440269,Geplant
+T3b05791f,P0a45676d,Retoure,1,2023-07-23 10:27:01,546.357,Versand,REF275370,Abgeschlossen
+Tb156a73e,P51bcf5d2,Eingang,30,2024-06-21 22:32:25,5.893999999999999,Außenlager,REF855001,Geplant
+Tf15f5ee6,Pb0eb7e7d,Bestandskorrektur,-3,2023-07-20 01:04:35,338.34499999999997,Retouren,REF187028,In Bearbeitung
+T408014a6,Pfd577618,Ausgang,-15,2023-12-07 21:01:15,97.62899999999999,Versand,REF332445,In Bearbeitung
+T0e60069f,P309cbd26,Ausgang,-11,2024-04-11 08:56:15,99.01499999999999,Hauptlager,REF819905,Geplant
+T53741b66,P4f5b8304,Retoure,1,2023-04-09 08:12:05,1322.811,Retouren,REF747276,Abgeschlossen
+T24149ee6,P35f6e13d,Retoure,1,2023-07-19 14:26:59,308.336,Hauptlager,REF845352,Geplant
+Tf2e087f4,P21e20ef8,Retoure,5,2023-08-20 10:32:10,227.79399999999998,Retouren,REF229774,Abgeschlossen
+T740b9dcf,P21e20ef8,Bestandskorrektur,3,2023-05-02 09:37:04,227.79399999999998,Hauptlager,REF905489,In Bearbeitung
+Tb8874bc4,P51bcf5d2,Ausgang,-13,2023-10-29 23:00:15,5.893999999999999,Außenlager,REF777184,Abgeschlossen
+T1062de6f,Pededdd25,Bestandskorrektur,1,2024-01-21 21:54:34,283.91299999999995,Retouren,REF37024,Geplant
+Te5435a27,P768564ac,Retoure,1,2024-04-06 17:40:57,105.112,Hauptlager,REF748409,In Bearbeitung
+Ta339ec02,P31008989,Ausgang,-5,2023-06-10 16:30:16,714.371,Außenlager,REF949652,Abgeschlossen
+Ta50158fc,P33796485,Ausgang,-6,2024-06-07 16:45:47,110.726,Hauptlager,REF746685,Abgeschlossen
+T0f77bced,P7af6bba0,Bestandskorrektur,-1,2024-05-09 18:22:25,10.927,Hauptlager,REF935241,Geplant
+T5eb1c41b,P1ab20abf,Eingang,52,2023-07-10 11:47:21,269.269,Retouren,REF907276,Abgeschlossen
+T7e196451,Peba8359e,Eingang,32,2023-07-31 12:40:16,231.54599999999996,Hauptlager,REF549834,In Bearbeitung
+T02af8454,Pbbae2dd5,Bestandskorrektur,4,2024-06-16 04:26:36,335.47499999999997,Retouren,REF277298,In Bearbeitung
+T1e58136e,P32e7cdce,Bestandskorrektur,-1,2023-02-03 21:46:59,1070.776,Außenlager,REF159854,Abgeschlossen
+T52cfa620,Pdbd241d0,Bestandskorrektur,-4,2024-01-19 06:04:40,89.306,Hauptlager,REF322674,Abgeschlossen
+T01e3502f,,Bestandskorrektur,2,2024-02-24 16:17:40,,Versand,REF301647,Geplant
+Te66f3570,P150673c5,Retoure,1,2024-08-24 16:18:15,689.164,Retouren,REF677585,In Bearbeitung
+T128f7e95,P258ec8b0,Bestandskorrektur,1,2024-06-27 03:29:30,114.30299999999998,Hauptlager,REF450144,Abgeschlossen
+Te4248ff0,P1ed0e77b,Eingang,25,2024-07-26 07:29:06,17.450999999999997,Hauptlager,REF85049,Geplant
+T172966c7,P6d3e39ee,Bestandskorrektur,4,2024-11-18 08:27:18,725.8089999999999,Hauptlager,REF177725,In Bearbeitung
+Tb7ad0f1f,P6bc3575d,Eingang,14,2023-06-23 04:33:31,338.772,Versand,REF185433,Abgeschlossen
+T32641cfe,Pd32e1690,Ausgang,-4,2024-11-22 15:36:59,345.002,Versand,REF154200,In Bearbeitung
+Tb15e7c14,P37a0efc6,Eingang,55,2024-07-21 09:19:49,38.352999999999994,Retouren,REF493352,Abgeschlossen
+Tb4de9f96,P45a3e9ae,Retoure,5,2024-08-28 09:01:11,10.703,Außenlager,REF25203,Geplant
+T5fb0c037,Pbe069892,Ausgang,-7,2023-05-21 09:09:14,47.214999999999996,Hauptlager,REF465642,Abgeschlossen
+T4e61a169,Pa99221e5,Ausgang,-4,2023-10-13 00:58:40,18.494,Versand,REF268559,In Bearbeitung
+T12b3b274,P7834e026,Bestandskorrektur,-1,2024-02-17 13:05:07,288.75,Außenlager,REF260787,In Bearbeitung
+Tadc27822,P5e8909d4,Retoure,2,2023-10-12 16:11:20,808.507,Außenlager,REF744904,Abgeschlossen
+Ta42b4d63,,Ausgang,-17,2023-08-25 22:25:48,,Versand,REF159149,Geplant
+Taf62799e,Pd87e7c3b,Bestandskorrektur,5,2023-09-03 16:23:57,76.52399999999999,Hauptlager,REF30150,In Bearbeitung
+T95c6a7e5,,Retoure,1,2024-12-02 16:02:42,,Hauptlager,REF985095,Abgeschlossen
+T1eb60fe5,Pe704ab75,Retoure,5,2023-12-17 19:16:47,292.754,Hauptlager,REF513576,Abgeschlossen
+T6cc6cc25,Pdbd241d0,Ausgang,-11,2024-03-26 15:22:59,89.306,Versand,REF304767,Geplant
+T2e1eaac2,P32e7cdce,Bestandskorrektur,2,2024-06-19 00:44:41,1070.776,Retouren,REF669035,Geplant
+T08c8b981,Paa15aa91,Ausgang,-9,2023-10-03 13:35:19,136.325,Hauptlager,REF804762,In Bearbeitung
+T9186fef4,P768564ac,Eingang,85,2023-11-29 23:18:24,105.112,Versand,REF899582,Abgeschlossen
+T4287f584,Pb880a595,Eingang,75,2024-10-22 20:13:05,212.58999999999997,Versand,REF978818,Geplant
+Ta2f4a24a,Pbe069892,Retoure,4,2024-01-29 01:06:35,47.214999999999996,Versand,REF825778,In Bearbeitung
+T894de314,P33796485,Retoure,2,2023-09-04 23:24:35,110.726,Retouren,REF793248,Geplant
+T04167391,P984b9129,Ausgang,-8,2023-07-05 06:09:37,586.9359999999999,Außenlager,REF77928,In Bearbeitung
+T9efa31a7,Pa99221e5,Eingang,22,2024-02-17 10:17:11,18.494,Retouren,REF880782,Abgeschlossen
+Tcbe68f5c,,Ausgang,-18,2023-03-18 02:30:41,,Außenlager,REF430940,In Bearbeitung
+T6a667a9a,P8af6ce4c,Retoure,1,2023-02-01 17:43:09,5.718999999999999,Retouren,REF156396,Geplant
+T2ca05a7f,Pb880a595,Retoure,3,2023-06-27 13:18:00,212.58999999999997,Hauptlager,REF832134,Abgeschlossen
+T9a7c166e,P5aa6cacb,Retoure,3,2024-10-04 01:10:05,727.3699999999999,Retouren,REF674832,Abgeschlossen
+Ta996bbeb,Pfd577618,Eingang,98,2023-03-13 10:45:33,97.62899999999999,Außenlager,REF583292,Abgeschlossen
+Tf969e8d2,Pfbad365e,Ausgang,-12,2024-11-16 08:27:30,600.194,Außenlager,REF812039,Geplant
+Tf6a42587,P9316c89b,Ausgang,-6,2023-05-18 18:17:30,185.836,Außenlager,REF473792,Geplant
+T4f04a741,P60295ad9,Ausgang,-3,2023-01-02 19:36:57,276.493,Außenlager,REF503973,Geplant
+Te2094501,Pdf9aaa73,Ausgang,-2,2023-05-19 21:12:42,760.011,Hauptlager,REF832156,In Bearbeitung
+T611d15e2,,Retoure,2,2023-09-08 11:56:37,,Retouren,REF77026,Abgeschlossen
+T40e41a71,Pdab1267e,Eingang,84,2024-07-05 23:10:50,158.18599999999998,Retouren,REF217254,Abgeschlossen
+T50fc2694,P150673c5,Ausgang,-9,2024-04-10 21:57:16,689.164,Außenlager,REF660803,Geplant
+T313e0c0c,P4f5b8304,Ausgang,-18,2023-10-10 03:34:09,1322.811,Außenlager,REF145423,Abgeschlossen
+T8272f4b5,P309cbd26,Ausgang,-13,2024-12-07 08:35:00,99.01499999999999,Retouren,REF370242,Abgeschlossen
+T5186996b,Pd87e7c3b,Retoure,3,2023-02-12 15:29:33,76.52399999999999,Retouren,REF526159,Geplant
+Te2d51a92,,Bestandskorrektur,1,2023-02-08 06:42:36,,Hauptlager,REF90361,Geplant
+T2b358c0a,,Ausgang,-13,2023-12-05 18:22:44,,Hauptlager,REF119111,In Bearbeitung
+T14226728,P5aa6cacb,Ausgang,-3,2023-04-04 08:50:08,727.3699999999999,Versand,REF740641,In Bearbeitung
+T8206f1ba,Pb2f63edd,Bestandskorrektur,-2,2024-08-07 07:23:03,46.305,Außenlager,REF530285,Geplant
+T228efdc5,P23dd0eb5,Eingang,63,2024-10-23 15:22:47,27.180999999999997,Versand,REF985495,Geplant
+T2be506b1,P33796485,Ausgang,-3,2023-11-23 12:17:31,110.726,Außenlager,REF91919,Abgeschlossen
+T0009a7a9,P5aa6cacb,Retoure,2,2024-10-02 13:59:30,727.3699999999999,Versand,REF707539,Geplant
+T78e6610b,P8b160812,Retoure,3,2024-03-30 11:01:02,10.136,Retouren,REF262477,Abgeschlossen
+T70cf0976,,Eingang,49,2023-07-27 08:40:27,,Hauptlager,REF249586,In Bearbeitung
+T55e91404,,Eingang,17,2024-04-23 18:50:08,,Versand,REF177736,Abgeschlossen
+T0e01ffa1,Pd8ee6a2b,Ausgang,-10,2024-08-05 04:18:18,20.544999999999998,Außenlager,REF894454,Abgeschlossen
+T52cee53c,P309cbd26,Eingang,18,2023-09-25 11:03:22,99.01499999999999,Hauptlager,REF920616,Abgeschlossen
+Tf4203358,Pbbae2dd5,Ausgang,-13,2023-07-31 21:59:55,335.47499999999997,Versand,REF673237,In Bearbeitung
+T67cc55e4,,Eingang,77,2023-12-07 10:48:20,,Retouren,REF928233,Abgeschlossen
+T047024ca,,Ausgang,-4,2023-10-21 04:31:09,,Hauptlager,REF280297,Geplant
+Tb10a1d90,P5aa6cacb,Ausgang,-6,2024-06-02 00:37:02,727.3699999999999,Versand,REF968268,Abgeschlossen
+T962ccddb,Pa8d55241,Ausgang,-19,2024-09-24 00:54:23,175.777,Retouren,REF866856,In Bearbeitung
+T9392149b,P5aa6cacb,Ausgang,-10,2024-04-08 11:46:57,727.3699999999999,Retouren,REF807115,In Bearbeitung
+Ta08e2b46,Pb1d42b13,Retoure,3,2023-04-16 16:19:15,99.67999999999999,Hauptlager,REF767821,Geplant
+Td5f9d568,P2e3f25bf,Bestandskorrektur,-3,2024-09-14 05:42:09,27.468,Retouren,REF329982,Abgeschlossen
+T6aa1a23a,P51bcf5d2,Eingang,62,2023-11-04 17:03:53,5.893999999999999,Hauptlager,REF307551,Abgeschlossen
+T3a2c7e62,P1ab20abf,Ausgang,-12,2024-01-18 21:34:27,269.269,Versand,REF14738,Abgeschlossen
+Tbbacb7a3,Pb880a595,Bestandskorrektur,0,2023-04-18 07:53:37,212.58999999999997,Hauptlager,REF931353,Abgeschlossen
+Tba4785bd,P5e8909d4,Ausgang,-6,2023-12-01 10:21:07,808.507,Versand,REF326345,Geplant
+T82b70de9,P150673c5,Eingang,64,2024-01-07 10:37:00,689.164,Retouren,REF791476,In Bearbeitung
+T27a8febd,P80238d20,Ausgang,-3,2023-09-26 00:30:11,905.261,Hauptlager,REF354671,In Bearbeitung
+Tff20b3a1,P1ab20abf,Retoure,3,2023-03-23 13:03:41,269.269,Hauptlager,REF411670,Abgeschlossen
+Tc1d03b88,Pe93cc4c1,Retoure,2,2023-01-28 19:40:18,18.837,Retouren,REF451216,In Bearbeitung
+T43b4d9bd,Pdab1267e,Retoure,1,2024-01-17 14:30:26,158.18599999999998,Außenlager,REF363961,In Bearbeitung
+Tf9769988,Pfd577618,Bestandskorrektur,-5,2023-06-26 01:02:46,97.62899999999999,Versand,REF777765,In Bearbeitung
+T107d5858,,Bestandskorrektur,-2,2024-03-31 22:49:25,,Hauptlager,REF525329,Abgeschlossen
+Tdd15554c,P7e94cb04,Bestandskorrektur,2,2024-10-17 19:48:20,1308.391,Retouren,REF969413,Abgeschlossen
+T0a98386e,Pcd326c9b,Retoure,5,2023-03-02 08:05:03,547.904,Retouren,REF865310,In Bearbeitung
+T6b44d041,P8af6ce4c,Retoure,2,2023-04-20 20:17:10,5.718999999999999,Retouren,REF716074,Geplant
+T3b863ecc,P77772f74,Eingang,87,2023-10-24 02:42:56,48.811,Außenlager,REF359008,Geplant
+T5af23b52,P6e01d9a3,Retoure,3,2023-07-20 22:34:18,25.291,Retouren,REF612983,In Bearbeitung
+T6d32ff64,Pa8d55241,Retoure,3,2024-03-31 08:28:55,175.777,Außenlager,REF702956,In Bearbeitung
+Tce5fa981,,Retoure,4,2023-09-24 15:59:23,,Hauptlager,REF386959,Geplant
+Tfa276582,Pe5a125a2,Eingang,49,2024-01-02 00:19:17,822.2199999999999,Außenlager,REF437615,Geplant
+T0dccfc23,P1ed0e77b,Retoure,4,2024-02-16 16:13:26,17.450999999999997,Hauptlager,REF936120,In Bearbeitung
+T68a46982,Pd0fa0e9f,Retoure,5,2023-12-24 02:13:46,613.0669999999999,Versand,REF586758,Geplant
+T1c2a453c,P91c57b81,Retoure,1,2024-09-06 07:32:40,575.008,Retouren,REF257964,In Bearbeitung
+T269a5b43,P33796485,Ausgang,-4,2023-02-13 14:01:33,110.726,Versand,REF179326,Geplant
+T57794b51,P258ec8b0,Ausgang,-5,2023-08-01 16:08:28,114.30299999999998,Retouren,REF513749,In Bearbeitung
+Tfabf1549,P2486f730,Eingang,30,2023-02-16 01:13:37,21.377999999999997,Retouren,REF362217,Geplant
+Td2b969ff,Pe704ab75,Eingang,24,2024-01-12 16:18:46,292.754,Außenlager,REF882544,In Bearbeitung
+Ta676de6d,,Ausgang,-4,2023-01-27 00:41:49,,Retouren,REF705297,Abgeschlossen
+T59800723,P309cbd26,Eingang,58,2023-09-02 02:55:12,99.01499999999999,Außenlager,REF129367,Abgeschlossen
+T92ed0f99,P499a265a,Bestandskorrektur,1,2023-06-17 05:48:12,109.592,Versand,REF282199,Abgeschlossen
+T7b05785e,P45a3e9ae,Bestandskorrektur,-4,2023-04-05 21:14:02,10.703,Versand,REF700739,Geplant
+Ta5323a98,,Ausgang,-3,2023-08-25 19:03:14,,Hauptlager,REF987929,Geplant
+Tddfeda0e,Pd32e1690,Retoure,5,2024-10-24 02:34:02,345.002,Hauptlager,REF699655,Geplant
+Tb853e7e4,,Bestandskorrektur,-1,2024-10-24 01:40:44,,Versand,REF389325,Abgeschlossen
+T709af825,,Eingang,96,2023-12-08 09:33:03,,Retouren,REF845161,Geplant
+Td822b258,P1ed0e77b,Retoure,4,2024-09-07 00:11:18,17.450999999999997,Außenlager,REF788853,In Bearbeitung
+T83faea25,Pfd577618,Bestandskorrektur,-2,2024-08-23 12:09:21,97.62899999999999,Versand,REF202722,Abgeschlossen
+T70dc281e,P55e4365b,Eingang,59,2023-03-22 02:56:08,501.956,Hauptlager,REF782814,Abgeschlossen
+T1baac30e,P8b160812,Eingang,64,2024-10-11 18:54:25,10.136,Außenlager,REF479676,In Bearbeitung
+Tab8fc11d,P58d33e21,Retoure,3,2024-04-30 22:06:59,379.736,Hauptlager,REF405639,In Bearbeitung
+T2ea24158,P258ec8b0,Ausgang,-4,2024-07-17 09:48:19,114.30299999999998,Außenlager,REF323201,In Bearbeitung
+Ta591ad64,,Ausgang,-19,2024-09-22 03:42:21,,Retouren,REF201736,Geplant
+T7c0e9174,Pe940f056,Eingang,50,2023-06-18 08:53:19,31.346,Versand,REF136335,In Bearbeitung
+T0e4de5c9,P8af6ce4c,Ausgang,-19,2024-02-17 10:09:57,5.718999999999999,Versand,REF97643,Geplant
+Td5cc9335,P7e945270,Retoure,2,2023-03-08 07:36:09,81.508,Hauptlager,REF929892,Abgeschlossen
+T63eac25b,,Bestandskorrektur,-1,2024-03-01 15:39:48,,Hauptlager,REF428050,Abgeschlossen
+Ta890c4b3,P7326f7f4,Retoure,1,2024-02-25 18:00:40,30.205,Hauptlager,REF837329,Geplant
+Ta22a9538,Pbbae2dd5,Ausgang,-15,2023-11-07 06:51:31,335.47499999999997,Retouren,REF56957,Abgeschlossen
+T14e5c92e,P32e7cdce,Bestandskorrektur,-2,2024-03-05 06:55:54,1070.776,Retouren,REF240380,Geplant
+T0c2866a9,P0a45676d,Ausgang,-12,2024-09-24 15:33:54,546.357,Außenlager,REF412028,Abgeschlossen
+Tf48dbad6,P6e01d9a3,Eingang,61,2024-08-12 12:32:48,25.291,Versand,REF208691,In Bearbeitung
+T05ecb054,Pb2f63edd,Ausgang,-6,2024-10-29 05:59:07,46.305,Retouren,REF962606,In Bearbeitung
+T6b414e29,P77772f74,Ausgang,-12,2023-06-11 14:11:21,48.811,Hauptlager,REF359175,Geplant
+T245b991d,,Bestandskorrektur,0,2023-06-14 11:07:19,,Hauptlager,REF857646,Abgeschlossen
+Td86f6a07,P984784d6,Bestandskorrektur,-2,2023-05-18 09:53:27,18.311999999999998,Versand,REF937548,In Bearbeitung
+Te659249c,P7326f7f4,Eingang,51,2024-01-22 14:22:31,30.205,Außenlager,REF557970,In Bearbeitung
+Tcac02c48,Pafb5ceb2,Retoure,4,2024-07-14 06:44:14,66.955,Außenlager,REF468559,Abgeschlossen
+T88c59461,Pb0eb7e7d,Bestandskorrektur,3,2023-03-28 16:29:08,338.34499999999997,Außenlager,REF306369,Abgeschlossen
+Ta906d016,Pb1d42b13,Retoure,2,2024-05-02 14:45:05,99.67999999999999,Retouren,REF217565,Geplant
+T31bb0da0,P7e94cb04,Bestandskorrektur,-3,2023-12-25 22:57:12,1308.391,Versand,REF979644,Abgeschlossen
+Te2998375,P2486f730,Ausgang,-2,2024-08-29 11:53:19,21.377999999999997,Hauptlager,REF775867,Geplant
+T149d271f,Pb2f63edd,Eingang,50,2023-11-13 19:24:55,46.305,Außenlager,REF409117,In Bearbeitung
+T08a20d90,P6d3e39ee,Retoure,5,2023-01-05 17:15:07,725.8089999999999,Retouren,REF895177,Geplant
+Te1b5c968,P6e8901a4,Eingang,42,2024-10-28 17:55:06,113.00099999999999,Außenlager,REF458646,Abgeschlossen
+T903ad5a8,Pf750a342,Retoure,1,2024-10-05 01:38:40,18.214,Außenlager,REF846606,Abgeschlossen
+T9815749e,P5c3dbd2c,Bestandskorrektur,1,2024-10-07 03:11:15,154.97299999999998,Außenlager,REF856291,Abgeschlossen
+T13f62c3d,P266b08a1,Ausgang,-13,2023-05-17 15:56:41,16.961,Außenlager,REF636510,In Bearbeitung
+Tadc4c364,P71923486,Bestandskorrektur,-3,2024-04-16 20:06:44,83.50999999999999,Retouren,REF566542,Abgeschlossen
+T74b04ea6,P21e20ef8,Retoure,5,2024-06-22 03:10:23,227.79399999999998,Versand,REF806711,In Bearbeitung
+T21a58406,P984b9129,Retoure,5,2024-07-16 09:03:57,586.9359999999999,Versand,REF77859,In Bearbeitung
+T2ec0ad28,Pcd326c9b,Retoure,4,2023-10-10 23:11:42,547.904,Außenlager,REF67731,Abgeschlossen
+T2c8cfbb2,Pdbd241d0,Ausgang,-15,2024-03-03 05:00:29,89.306,Versand,REF733335,In Bearbeitung
+T4966cad5,Pcd326c9b,Bestandskorrektur,-4,2024-09-19 15:52:28,547.904,Außenlager,REF609800,Abgeschlossen
+T3bb16f1c,P37a0efc6,Retoure,1,2024-08-22 18:59:40,38.352999999999994,Außenlager,REF819262,Abgeschlossen
+T3c502157,,Eingang,95,2023-10-06 02:53:10,,Außenlager,REF892526,Geplant
+Tfa3289af,P60295ad9,Retoure,4,2023-09-22 19:34:44,276.493,Versand,REF251779,In Bearbeitung
+T97639ada,P7e94cb04,Eingang,88,2023-12-28 09:34:55,1308.391,Versand,REF730384,In Bearbeitung
+T5a9b4b07,Pededdd25,Eingang,86,2023-10-02 19:00:45,283.91299999999995,Hauptlager,REF451285,Abgeschlossen
+T06668730,Pa7ae716f,Ausgang,-20,2023-07-08 17:54:00,9.296,Außenlager,REF37738,In Bearbeitung
+Te39e0df6,Pdae71328,Retoure,5,2023-05-15 07:17:53,619.927,Versand,REF175728,Abgeschlossen
+T1d280a38,P32e7cdce,Bestandskorrektur,5,2023-01-30 06:15:55,1070.776,Retouren,REF49646,Abgeschlossen
+T39712fea,P266b08a1,Bestandskorrektur,1,2024-05-04 12:32:05,16.961,Retouren,REF204682,Geplant
+T533ec947,Pcd326c9b,Eingang,75,2024-09-23 23:30:19,547.904,Versand,REF810593,Abgeschlossen
+Te94c1159,P2c5c4414,Eingang,92,2024-06-01 00:23:31,664.923,Retouren,REF662686,Geplant
+T9d5ba18a,Pf4b7500e,Retoure,3,2023-05-11 22:47:46,150.29,Außenlager,REF794506,Abgeschlossen
+Tfa90c76b,Pd32e1690,Retoure,4,2024-04-23 02:08:37,345.002,Versand,REF31239,Geplant
+T42d423b3,,Retoure,5,2024-01-14 10:12:21,,Hauptlager,REF389828,Geplant
+T3aba997d,P7326f7f4,Eingang,98,2024-01-13 03:28:20,30.205,Retouren,REF194135,In Bearbeitung
+T464f4de4,,Ausgang,-18,2023-04-13 13:45:02,,Hauptlager,REF610788,Geplant
+T272d1aba,Pa8d55241,Eingang,11,2024-09-12 06:17:09,175.777,Retouren,REF980800,Abgeschlossen
+Tcc85b73f,,Eingang,50,2024-01-31 22:05:09,,Hauptlager,REF978308,Geplant
+T58700c1a,P1ab20abf,Ausgang,-8,2024-10-27 11:47:35,269.269,Retouren,REF273787,Abgeschlossen
+Tcb2b00f9,,Bestandskorrektur,-1,2023-06-02 16:55:16,,Retouren,REF197234,Geplant
+T2fa0cda8,Pb702965e,Retoure,4,2024-12-16 07:42:34,232.59599999999998,Versand,REF797706,In Bearbeitung
+T2f0dfd9d,P5b233719,Bestandskorrektur,0,2023-05-27 04:03:37,30.358999999999995,Außenlager,REF815369,Geplant
+Ta46135bc,,Bestandskorrektur,-1,2023-07-11 05:30:29,,Retouren,REF95020,In Bearbeitung
+T2720e149,P37a0efc6,Eingang,38,2023-10-15 18:39:49,38.352999999999994,Hauptlager,REF107488,In Bearbeitung
+T688b9b91,P7834e026,Bestandskorrektur,-1,2024-02-16 19:25:56,288.75,Hauptlager,REF626162,In Bearbeitung
+Tef29ff58,Pc7eb56da,Retoure,5,2023-09-24 12:41:06,352.86299999999994,Hauptlager,REF902707,Abgeschlossen
+T23d6399d,P8b160812,Bestandskorrektur,-5,2024-09-12 04:19:27,10.136,Hauptlager,REF856978,Abgeschlossen
+Tc01da244,P21e20ef8,Eingang,85,2024-09-06 03:57:56,227.79399999999998,Versand,REF13553,Abgeschlossen
+Tbcb72715,Pbe069892,Bestandskorrektur,-4,2024-08-08 15:12:18,47.214999999999996,Retouren,REF94920,Geplant
+Te027288a,P7e945270,Eingang,76,2023-08-29 02:10:54,81.508,Versand,REF683034,Abgeschlossen
+T1031b5a5,P0fb2db2b,Bestandskorrektur,3,2024-06-10 17:04:40,208.86599999999999,Hauptlager,REF292453,Abgeschlossen
+T43662d89,Pdae71328,Retoure,5,2023-12-22 22:31:56,619.927,Hauptlager,REF35146,Abgeschlossen
+Tb64d38b6,P7e945270,Retoure,1,2024-02-05 01:48:57,81.508,Hauptlager,REF285849,In Bearbeitung
+Teb36d596,P266b08a1,Bestandskorrektur,-5,2024-06-28 01:02:11,16.961,Außenlager,REF528361,Geplant
+T1c8d3de6,Pb0eb7e7d,Eingang,82,2024-04-04 10:23:41,338.34499999999997,Außenlager,REF887752,Abgeschlossen
+Ta209d553,Peba8359e,Eingang,39,2024-05-16 06:02:22,231.54599999999996,Versand,REF922325,Abgeschlossen
+T7171f671,P1ed0e77b,Ausgang,-1,2023-02-15 01:51:58,17.450999999999997,Außenlager,REF500618,Geplant
+T5047ac6f,P6e8901a4,Ausgang,-5,2024-08-10 05:13:44,113.00099999999999,Retouren,REF639097,Abgeschlossen
+T307f2e44,P15cb23c4,Retoure,4,2024-03-20 23:00:39,82.05399999999999,Hauptlager,REF127217,In Bearbeitung
+Ta839869d,P60295ad9,Eingang,53,2023-09-15 01:38:25,276.493,Hauptlager,REF13199,Abgeschlossen
+Tf0c80cab,Pc7eb56da,Eingang,83,2023-02-28 22:46:21,352.86299999999994,Versand,REF970213,Geplant
+T291631ca,Pd0fa0e9f,Bestandskorrektur,-5,2023-04-23 07:02:03,613.0669999999999,Versand,REF317867,Abgeschlossen
+T64d35974,Pa8d55241,Retoure,4,2023-05-15 23:26:17,175.777,Hauptlager,REF772527,In Bearbeitung
+T4971dfac,P51bcf5d2,Bestandskorrektur,2,2023-06-01 09:12:41,5.893999999999999,Versand,REF312696,Abgeschlossen
+Tf80d7f33,P681c50d2,Bestandskorrektur,2,2024-10-19 11:49:19,629.3069999999999,Retouren,REF102641,Abgeschlossen
+Tf0855304,Pf519fe1a,Bestandskorrektur,-1,2023-02-17 09:32:50,211.40699999999998,Außenlager,REF428447,Geplant
+Tee5cba1a,Pdf9aaa73,Eingang,57,2023-02-13 14:14:05,760.011,Außenlager,REF72238,Geplant
+T89e4b11c,Pdab1267e,Ausgang,-14,2023-08-05 05:53:51,158.18599999999998,Außenlager,REF852448,Geplant

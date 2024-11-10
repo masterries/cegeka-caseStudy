@@ -1,1 +1,0 @@
-# cegeka-caseStudy

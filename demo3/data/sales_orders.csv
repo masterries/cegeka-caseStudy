@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,status,shipping_method,payment_terms,department,shipping_address,shipping_city,shipping_postal_code,expected_delivery
+SO74463da3,C967d50a7,2024-01-10,Neu,Economy,Net60,Produktion,Stefani-Trubin-Gasse 08,Bützow,31958,2024-01-15
+SO500e91ef,Caa20bb87,2024-07-10,In Bearbeitung,Economy,Net30,HR,Lehmanngasse 2,Wanzleben,17135,2024-07-13
+SO79d3c1a2,C3a861bec,2023-08-18,In Bearbeitung,Standard,Immediate,Produktion,Keudelstr. 404,Tübingen,80401,2023-08-21
+SO7dc2686b,Cfa474de8,2023-10-17,Neu,Premium,Net30,Einkauf,Gerti-Hornig-Ring 20,Artern,32059,2023-10-27
+SO44f5a450,C7e45efe4,2024-11-27,Abgeschlossen,Standard,Net60,HR,Freudenbergerring 73,Soltau,63446,2024-12-09
+SOfc039f97,Cec472c61,2023-05-30,Storniert,Standard,Immediate,HR,Frank-Peter-Zahn-Platz 730,Calw,76455,2023-06-11
+SO8e194864,C275f50b1,2024-09-02,Abgeschlossen,Economy,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2024-09-15
+SO33ca7d1b,C476ce152,2023-03-08,Abgeschlossen,Standard,Net45,Finanzen,Steyweg 4/9,Bad Kissingen,42762,2023-03-22
+SO451ba8ee,Cd6f978c2,2024-03-10,Storniert,Premium,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2024-03-15
+SO39b2ece6,C4420150f,2023-05-12,Abgeschlossen,Premium,Net60,HR,Carolin-Dobes-Gasse 5/4,Heinsberg,80847,2023-05-19
+SO218b2082,Cfa474de8,2024-04-11,Abgeschlossen,Standard,Net30,Einkauf,Gerti-Hornig-Ring 20,Artern,32059,2024-04-18
+SO091b00a3,C6e1dd11f,2024-04-16,Abgeschlossen,Premium,Net45,IT,Mansgasse 8/3,Mayen,96366,2024-04-20
+SOd5b82da8,C303ae767,2024-11-06,Abgeschlossen,Express,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2024-11-15
+SO5552b16b,C9f9d1595,2024-04-20,Abgeschlossen,Express,Immediate,Produktion,Sauergasse 9,Kulmbach,17285,2024-04-23
+SO237c0b52,C38361d92,2023-05-02,In Bearbeitung,Express,Net45,Vertrieb,Inge-Vollbrecht-Straße 5/7,Wesel,78380,2023-05-11
+SOeac0aee5,Ce80237a3,2024-03-19,Abgeschlossen,Standard,Net60,Finanzen,Krauseallee 86,Gadebusch,06411,2024-04-02
+SOa5ac0744,C82cd3970,2023-11-02,Abgeschlossen,Standard,Immediate,Einkauf,Gerta-Schottin-Platz 7/3,Dessau,70013,2023-11-09
+SOa1f92c0b,C1d070d6e,2024-08-26,Neu,Express,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2024-08-29
+SO384d8573,C1011d7bf,2023-01-25,In Bearbeitung,Economy,Net45,Produktion,Gina-Wilms-Ring 699,Stade,27017,2023-02-07
+SOb2bddf9b,Ca5ca84fd,2023-02-08,Neu,Economy,Net45,Finanzen,Harloffallee 57,Burglengenfeld,56470,2023-02-21
+SO7551af30,Cc755aa91,2024-03-22,In Bearbeitung,Economy,Net45,Vertrieb,Jacob-Anders-Straße 29,Reutlingen,91832,2024-03-27
+SOe90c3fc7,Ca7e17d6d,2024-11-10,Abgeschlossen,Economy,Immediate,Einkauf,Stolzestr. 6,Eisleben,26809,2024-11-21
+SO2bc5f16d,C36a19778,2023-06-08,In Bearbeitung,Economy,Net30,Finanzen,Pohlring 4,Hohenstein-Ernstthal,09494,2023-06-21
+SOc0eae3cf,Caad1aa13,2024-10-24,Abgeschlossen,Express,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2024-11-05
+SO9c01452f,,2024-08-16,In Bearbeitung,Economy,Net60,Produktion,,,,2024-08-28
+SO8b5012f4,Cf92b9ef9,2024-03-25,Abgeschlossen,Premium,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2024-03-30
+SO2dcff1d5,Ca42b06d3,2024-06-25,Storniert,Express,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2024-07-01
+SOc55cf9c2,Ce02f09fc,2024-06-16,In Bearbeitung,Premium,Net30,Finanzen,Carmela-Hauffer-Allee 79,Nordhausen,10540,2024-06-27
+SOa8835edb,Cf6f02706,2023-09-14,Abgeschlossen,Standard,Net30,HR,Monja-Linke-Platz 9/4,Jena,23885,2023-09-20
+SO427e3b95,C1011d7bf,2023-06-10,Abgeschlossen,Premium,Net45,Produktion,Gina-Wilms-Ring 699,Stade,27017,2023-06-15
+SOa748ad08,Cd891b141,2023-03-03,In Bearbeitung,Standard,Immediate,Produktion,Hermannweg 87,Feuchtwangen,58642,2023-03-14
+SOc3c3fd78,C03157cee,2024-07-15,Neu,Premium,Net30,Vertrieb,Gundolf-Salz-Weg 5/1,Kaiserslautern,88197,2024-07-22
+SOe2614fd6,C5c74d310,2023-11-13,Abgeschlossen,Economy,Net45,HR,Laszlo-Beer-Allee 5/5,Lübz,64486,2023-11-22
+SO4e3b589b,C090d6a5d,2023-12-18,Storniert,Premium,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2023-12-30
+SO53005f93,Ced957276,2024-02-09,In Bearbeitung,Express,Net60,Finanzen,Gießstr. 3,Ludwigslust,00247,2024-02-22
+SOc5a0b881,Caddd63d9,2023-11-11,Abgeschlossen,Standard,Net30,Einkauf,Reisingstraße 976,Vilsbiburg,55495,2023-11-16
+SOe0df2fd4,C3efad3f9,2024-05-10,In Bearbeitung,Economy,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2024-05-16
+SO8d2f1137,C13afda51,2023-06-22,Abgeschlossen,Premium,Immediate,Finanzen,Stadelmannring 7/5,Luckenwalde,04063,2023-06-30
+SOcc95d7c0,C8fbcc7b1,2024-04-03,Abgeschlossen,Economy,Net60,Produktion,Jürgen-Schmiedecke-Platz 2/0,Bergzabern,90976,2024-04-16
+SO24aaa270,C4d8dda40,2024-02-04,Abgeschlossen,Economy,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2024-02-10
+SO7dc94846,,2023-02-14,Abgeschlossen,Standard,Net30,IT,,,,2023-02-20
+SO3523f38d,C7fd098ba,2024-05-30,In Bearbeitung,Express,Net30,Finanzen,Zobelstr. 2,Tübingen,50946,2024-06-11
+SOefd3ef1a,C3cc6e59d,2023-10-07,Neu,Premium,Net45,IT,Fred-Scheuermann-Weg 711,Böblingen,55971,2023-10-19
+SO7a180c41,C6d8ea5e4,2024-10-07,Abgeschlossen,Standard,Net45,Produktion,Ewa-Mitschke-Weg 8/6,Suhl,36443,2024-10-15
+SO6c97e4c8,C9d0a5534,2024-12-06,Neu,Express,Net30,Vertrieb,Kraushaarstr. 6,Böblingen,87815,2024-12-10
+SOfa6e9ae6,,2024-05-04,In Bearbeitung,Standard,Net60,HR,,,,2024-05-07
+SO33fed355,C3275bcae,2024-09-26,Abgeschlossen,Standard,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2024-09-29
+SOfbeee2d5,Ca26869df,2024-03-07,Abgeschlossen,Economy,Net60,Vertrieb,Röhrdanzstraße 893,Meiningen,11415,2024-03-12
+SO463eda48,Cdfca3639,2024-05-28,Abgeschlossen,Economy,Immediate,Vertrieb,Adolphgasse 7,Göppingen,44477,2024-06-11
+SOe9d15369,C0641716f,2023-04-16,Abgeschlossen,Economy,Net30,Produktion,Friedericke-Stoll-Platz 8,Olpe,72629,2023-04-28
+SO45b2b4dd,C8fbcc7b1,2024-11-02,Neu,Premium,Net60,Produktion,Jürgen-Schmiedecke-Platz 2/0,Bergzabern,90976,2024-11-10
+SOc74d9379,C6043cf92,2023-05-15,Abgeschlossen,Express,Net30,HR,Jähnallee 304,Wismar,83018,2023-05-28
+SO18856a31,C9694b874,2023-05-23,Abgeschlossen,Premium,Immediate,HR,Weinhagegasse 2/7,Holzminden,70215,2023-05-30
+SO35f67483,Ccb63ede4,2023-02-19,In Bearbeitung,Economy,Net60,Finanzen,Isabel-Fischer-Gasse 4,Göttingen,82330,2023-02-26
+SOcda3782f,Caad1aa13,2023-12-29,Abgeschlossen,Premium,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2024-01-01
+SO577c82c2,Ca42b06d3,2024-05-07,Abgeschlossen,Premium,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2024-05-14
+SOdcc6383b,C42e5a792,2024-09-20,Abgeschlossen,Economy,Net60,Einkauf,Zahnring 6,Sonneberg,58768,2024-09-24
+SO7db34e33,C73e2fe44,2024-08-12,Abgeschlossen,Economy,Net30,Einkauf,Hansjürgen-Stiffel-Gasse 76,Mallersdorf,05293,2024-08-21
+SOeb08606d,Cfcd5712c,2024-02-17,Abgeschlossen,Standard,Net60,HR,Roman-Graf-Platz 466,Koblenz,25761,2024-02-20
+SO1fc7b9c4,Ce1527376,2024-11-14,Abgeschlossen,Economy,Net60,IT,Martinallee 8,Wurzen,80795,2024-11-19
+SO0ffc6bbe,C4d8dda40,2023-03-03,Neu,Standard,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2023-03-17
+SOca037c78,C846484d1,2023-01-10,Abgeschlossen,Premium,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2023-01-23
+SO361f32d5,C37903667,2023-08-06,Abgeschlossen,Economy,Immediate,Vertrieb,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,2023-08-11
+SOa290a12e,C1e3f9dc2,2024-09-20,Abgeschlossen,Economy,Immediate,HR,Schinkeplatz 6,Erbisdorf,56716,2024-09-26
+SO06ebef94,C16aa833e,2023-06-12,Abgeschlossen,Express,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2023-06-25
+SO7672e1a1,C4d8dda40,2023-08-24,Storniert,Premium,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2023-09-04
+SO7f8a0ec3,C1d070d6e,2024-01-09,Abgeschlossen,Standard,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2024-01-23
+SO3d0d1b1b,,2023-09-17,Abgeschlossen,Economy,Net60,Einkauf,,,,2023-09-29
+SOc222ea37,C1d070d6e,2023-01-24,Abgeschlossen,Premium,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2023-01-28
+SOd5ce2f40,,2024-11-18,Neu,Premium,Immediate,Finanzen,,,,2024-11-30
+SO51e6fc23,C12feb9fd,2024-03-15,Abgeschlossen,Express,Net30,Einkauf,Anto-Pölitz-Platz 92,Coburg,78895,2024-03-29
+SOba43d56c,C9f9d1595,2023-07-07,Abgeschlossen,Premium,Immediate,Produktion,Sauergasse 9,Kulmbach,17285,2023-07-11
+SOab5a7e76,Cd891b141,2023-11-12,In Bearbeitung,Premium,Immediate,Produktion,Hermannweg 87,Feuchtwangen,58642,2023-11-17
+SOc777d7e9,Ce36428f7,2023-05-27,Storniert,Premium,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2023-06-04
+SOcd4c0558,C1252c1b1,2023-11-06,Abgeschlossen,Express,Net60,IT,Arzu-Schuchhardt-Weg 9/0,Weißenfels,29589,2023-11-13
+SO6e81d5c4,Cfa474de8,2023-09-15,Abgeschlossen,Express,Net30,Einkauf,Gerti-Hornig-Ring 20,Artern,32059,2023-09-25
+SO239e62be,Cc4b33ba9,2024-07-08,Abgeschlossen,Standard,Net45,Einkauf,Maria-Loos-Ring 39,Osterburg,62204,2024-07-15
+SO21e97680,C1d070d6e,2024-04-02,Abgeschlossen,Standard,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2024-04-15
+SOc9ff2ebb,C14fe74cd,2023-07-20,Abgeschlossen,Premium,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2023-07-25
+SO1d01aa22,C6823df44,2023-06-07,In Bearbeitung,Standard,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2023-06-21
+SO4e6e11b6,C868f6ecf,2023-10-30,In Bearbeitung,Express,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2023-11-08
+SO39b5e781,,2023-05-22,Abgeschlossen,Premium,Immediate,Finanzen,,,,2023-05-25
+SO7b8f9dce,C42e5a792,2023-11-08,In Bearbeitung,Economy,Net60,Einkauf,Zahnring 6,Sonneberg,58768,2023-11-18
+SO2358026f,C4d8dda40,2023-03-09,Neu,Premium,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2023-03-15
+SO505d61cc,Cca6a5fc0,2023-12-29,Abgeschlossen,Standard,Net30,Vertrieb,Scheibestr. 760,Strasburg,71626,2024-01-09
+SOf6829f13,Cfeb0823d,2024-02-09,Abgeschlossen,Premium,Net45,IT,Kramerring 804,Forst,04662,2024-02-14
+SO99a179f8,C0fe26680,2023-08-20,In Bearbeitung,Express,Net30,Produktion,Robert-Kraus-Ring 24,Freudenstadt,38123,2023-09-02
+SO5143e518,,2024-04-14,Abgeschlossen,Economy,Net60,Produktion,,,,2024-04-28
+SO3581b4ee,C8a588552,2024-07-07,In Bearbeitung,Premium,Net30,Finanzen,Frankering 9,Berlin,33535,2024-07-11
+SO30e7cfb7,C4420150f,2024-10-11,Neu,Express,Net60,HR,Carolin-Dobes-Gasse 5/4,Heinsberg,80847,2024-10-22
+SOcbb973ee,Cc637d361,2024-06-08,Abgeschlossen,Standard,Immediate,Finanzen,Dehmelplatz 148,Groß-Gerau,49880,2024-06-19
+SO80cebe61,C3f13b32e,2023-03-21,Abgeschlossen,Express,Immediate,Finanzen,Zobelplatz 505,Illertissen,90367,2023-04-02
+SO3db17db2,C0641716f,2023-03-07,Storniert,Standard,Net30,Produktion,Friedericke-Stoll-Platz 8,Olpe,72629,2023-03-10
+SO5a252809,Caad1aa13,2024-08-24,Abgeschlossen,Economy,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2024-09-02
+SO729c3bb7,C16aa833e,2024-01-25,Storniert,Express,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2024-02-06
+SOe0d09c21,C924c7be9,2024-05-01,Abgeschlossen,Premium,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2024-05-05
+SOe40edee6,Cf27e6ab2,2024-12-21,Storniert,Premium,Immediate,Finanzen,Ebertgasse 72,Zschopau,76592,2024-12-25
+SO148c0a85,C1dfe72e0,2024-05-17,Abgeschlossen,Economy,Net60,Vertrieb,Cläre-Trupp-Allee 266,Vilsbiburg,50984,2024-05-20
+SO093e9e1b,Cf8b4383e,2023-09-11,Abgeschlossen,Standard,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2023-09-23
+SO145c9246,Cca4b662a,2023-08-13,Abgeschlossen,Standard,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2023-08-17
+SO1515007e,C16aa833e,2024-09-08,Abgeschlossen,Express,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2024-09-18
+SOd80dbf0e,C22dc1560,2024-04-17,Abgeschlossen,Standard,Net45,Einkauf,Emilia-Holzapfel-Gasse 0,Bergzabern,86309,2024-04-30
+SO91aa1ba1,Cbab00c56,2024-01-11,Abgeschlossen,Express,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2024-01-21
+SOe0dd5a51,Ce475e957,2023-12-30,Neu,Premium,Net30,Produktion,Ingeborg-Kroker-Straße 52,Donaueschingen,38965,2024-01-09
+SO12866dcb,,2023-02-16,Abgeschlossen,Express,Net45,Produktion,,,,2023-02-26
+SOaa3399ea,Cf1e39af6,2023-12-12,Abgeschlossen,Premium,Immediate,Finanzen,Buchholzallee 58,Eutin,10672,2023-12-25
+SOa6b85bbb,Cc5d4ef9a,2023-10-21,Abgeschlossen,Economy,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2023-10-27
+SOced560dc,C3a861bec,2024-08-02,Abgeschlossen,Standard,Immediate,Produktion,Keudelstr. 404,Tübingen,80401,2024-08-15
+SO8c72804c,C6043cf92,2024-11-20,Abgeschlossen,Standard,Net30,HR,Jähnallee 304,Wismar,83018,2024-11-27
+SOcf04a429,C659b1429,2023-03-09,Storniert,Economy,Immediate,IT,Tschentscherstr. 92,Bersenbrück,59901,2023-03-17
+SOf17a4b46,C73ed6f51,2024-12-09,Abgeschlossen,Express,Net45,Produktion,Henckallee 0,Seelow,67411,2024-12-23
+SO92d53b03,C7f1819d2,2023-06-04,In Bearbeitung,Standard,Net30,Einkauf,Adam-Gunpf-Allee 596,Badibling,69652,2023-06-11
+SO18e1a407,Cf5ed7b3f,2023-02-12,Abgeschlossen,Express,Immediate,Einkauf,Wesackallee 35,Meiningen,83241,2023-02-17
+SO8dbb66c3,Caa20bb87,2024-01-31,In Bearbeitung,Economy,Net30,HR,Lehmanngasse 2,Wanzleben,17135,2024-02-06
+SO17d303f2,C5c74d310,2023-08-19,Abgeschlossen,Economy,Net45,HR,Laszlo-Beer-Allee 5/5,Lübz,64486,2023-08-28
+SO7de5d9fa,Cfeb0823d,2024-03-23,In Bearbeitung,Standard,Net45,IT,Kramerring 804,Forst,04662,2024-04-01
+SO649f96b1,Cd891b141,2024-05-26,Abgeschlossen,Premium,Immediate,Produktion,Hermannweg 87,Feuchtwangen,58642,2024-06-07
+SO7884154f,Cc105970a,2023-12-20,In Bearbeitung,Economy,Net30,IT,Reinhardtweg 0/2,Pirmasens,38435,2023-12-23
+SOe5917c17,C659b1429,2024-04-24,Neu,Premium,Immediate,IT,Tschentscherstr. 92,Bersenbrück,59901,2024-05-05
+SOf1b52e3e,Ca5ca84fd,2024-06-08,Neu,Premium,Net45,Finanzen,Harloffallee 57,Burglengenfeld,56470,2024-06-14
+SO2d472997,C73179274,2023-05-31,Abgeschlossen,Premium,Net45,IT,Liebeltplatz 8,Tecklenburg,68517,2023-06-14
+SO250f25ac,C1bcb89ea,2023-07-01,Abgeschlossen,Economy,Net60,HR,Drewesgasse 2,Norden,84998,2023-07-04
+SO30c8a40a,C3d3a92f2,2023-09-23,Storniert,Standard,Net45,Finanzen,Schulzstraße 5,Mühlhausen,98869,2023-09-27
+SO14479fae,Cf02cd960,2023-06-14,In Bearbeitung,Economy,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2023-06-22
+SO392648ad,Ca39b1a71,2023-06-30,In Bearbeitung,Express,Net60,Einkauf,Felicia-Ziegert-Allee 57,Ribnitz-Damgarten,60272,2023-07-05
+SOa07ba345,C3f843499,2023-11-06,Abgeschlossen,Premium,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2023-11-14
+SO67d010cb,C7b948975,2024-09-11,Abgeschlossen,Standard,Net30,Produktion,Sibel-Hethur-Gasse 4/9,Greiz,31480,2024-09-24
+SO3d8770d7,Cddb5b335,2023-03-31,Abgeschlossen,Express,Immediate,Produktion,Frieder-Häring-Allee 9,Pfaffenhofen an der Ilm,82691,2023-04-08
+SOf7bd1a26,C2591bc00,2024-08-24,Abgeschlossen,Express,Net60,IT,Harloffstr. 84,Fallingbostel,14045,2024-08-28
+SOd982d8d5,Cfa474de8,2023-11-03,Neu,Premium,Net30,Einkauf,Gerti-Hornig-Ring 20,Artern,32059,2023-11-17
+SOd6c9306f,C275f50b1,2024-12-22,Abgeschlossen,Economy,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2025-01-05
+SO9b3327db,C99bf0109,2023-09-29,Abgeschlossen,Economy,Net30,IT,Dolores-Fiebig-Straße 572,Schwarzenberg,39271,2023-10-13
+SOec698dc3,Cf6f02706,2023-02-02,Abgeschlossen,Economy,Net30,HR,Monja-Linke-Platz 9/4,Jena,23885,2023-02-09
+SO1db18bc8,C96c2fc47,2024-09-09,Abgeschlossen,Standard,Net45,Finanzen,Dietzallee 6/8,Roding,15331,2024-09-15
+SO5204b7f4,Ca39b1a71,2023-03-14,Abgeschlossen,Standard,Net60,Einkauf,Felicia-Ziegert-Allee 57,Ribnitz-Damgarten,60272,2023-03-28
+SOd69d1043,C75f9d5e2,2023-06-04,Abgeschlossen,Premium,Net45,IT,Catrin-Stolze-Weg 2,Naila,97646,2023-06-10
+SO13221c30,C88e85c67,2024-01-17,In Bearbeitung,Premium,Immediate,HR,Denny-Stiffel-Allee 4,Ahaus,19799,2024-01-23
+SO8c151615,C5bd787f1,2023-10-16,Abgeschlossen,Express,Net30,Einkauf,Heinz-Gerd-Mangold-Allee 62,Hannover,61654,2023-10-26
+SOdc4250cd,C3cc6e59d,2024-07-07,Storniert,Economy,Net45,IT,Fred-Scheuermann-Weg 711,Böblingen,55971,2024-07-14
+SO199d3e37,C0cb40719,2024-05-24,Abgeschlossen,Premium,Immediate,IT,Heide-Henschel-Weg 24,Eichstätt,70502,2024-05-28
+SOd20b2be1,C8a588552,2023-01-30,Abgeschlossen,Economy,Net30,Finanzen,Frankering 9,Berlin,33535,2023-02-09
+SOdba3bcf2,C8b18ddea,2024-12-22,Abgeschlossen,Economy,Net60,Produktion,Liliana-Baum-Straße 5,Flöha,20515,2024-12-25
+SOd1f75737,C36a19778,2023-11-11,Abgeschlossen,Economy,Net30,Finanzen,Pohlring 4,Hohenstein-Ernstthal,09494,2023-11-23
+SO2a106be9,Cc637d361,2023-05-22,Storniert,Express,Immediate,Finanzen,Dehmelplatz 148,Groß-Gerau,49880,2023-06-04
+SO985ac181,C846484d1,2024-10-26,Abgeschlossen,Standard,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2024-10-30
+SOff573bdd,C7fd098ba,2024-09-04,Abgeschlossen,Premium,Net30,Finanzen,Zobelstr. 2,Tübingen,50946,2024-09-17
+SOf7fc00c4,C33fee75a,2024-12-01,Abgeschlossen,Standard,Net60,Vertrieb,Suse-Trommler-Straße 57,Stollberg,55341,2024-12-15
+SO6bf8c7b7,C846484d1,2023-10-13,Abgeschlossen,Economy,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2023-10-21
+SOc6914388,C659b1429,2024-11-21,Abgeschlossen,Premium,Immediate,IT,Tschentscherstr. 92,Bersenbrück,59901,2024-11-28
+SO61230ba1,C3efad3f9,2024-11-04,Abgeschlossen,Express,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2024-11-15
+SO568979b7,Ca0780042,2023-10-18,Storniert,Standard,Net45,Einkauf,Knappeplatz 21,Crailsheim,42877,2023-10-21
+SOb4ea1861,Ca0780042,2023-04-10,Abgeschlossen,Premium,Net45,Einkauf,Knappeplatz 21,Crailsheim,42877,2023-04-16
+SO7f6e6622,C13afda51,2024-07-21,Abgeschlossen,Premium,Immediate,Finanzen,Stadelmannring 7/5,Luckenwalde,04063,2024-07-27
+SO0fd3218f,Ce38cd301,2024-06-22,Abgeschlossen,Economy,Net30,Einkauf,Hornichstraße 655,Garmisch-Partenkirchen,92425,2024-06-28
+SO64ca0b65,C275f50b1,2023-01-12,Abgeschlossen,Economy,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2023-01-21
+SO8b60b7ef,C8b18ddea,2024-09-29,Abgeschlossen,Standard,Net60,Produktion,Liliana-Baum-Straße 5,Flöha,20515,2024-10-08
+SO9127481d,Cca4b662a,2023-12-11,Storniert,Premium,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2023-12-23
+SOf80a1abb,C84226691,2023-04-28,Abgeschlossen,Economy,Immediate,Finanzen,Fritschring 9,Rostock,88870,2023-05-02
+SOf1fedb84,Cc755aa91,2024-04-28,Neu,Premium,Net45,Vertrieb,Jacob-Anders-Straße 29,Reutlingen,91832,2024-05-07
+SO24a8483d,C4fe20e66,2024-11-07,Abgeschlossen,Express,Net30,Vertrieb,Hettnerweg 79,Lübben,11491,2024-11-13
+SO49d3e57c,C2591bc00,2024-09-19,Abgeschlossen,Express,Net60,IT,Harloffstr. 84,Fallingbostel,14045,2024-10-03
+SOcbe6c0ff,C6e1dd11f,2023-12-24,Abgeschlossen,Express,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-12-30
+SO025810b3,C9a904d0d,2024-03-04,Abgeschlossen,Economy,Immediate,Einkauf,Elly-Reising-Weg 62,Emmendingen,60774,2024-03-17
+SOd3bfc0fa,Cca6a5fc0,2023-01-19,Neu,Premium,Net30,Vertrieb,Scheibestr. 760,Strasburg,71626,2023-01-29
+SOdc276aae,Ca42b06d3,2024-02-27,Storniert,Premium,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2024-03-10
+SOd9508c1e,Cdd38e6d1,2024-08-14,Abgeschlossen,Standard,Net45,Vertrieb,Hölzenbecherstraße 979,Gera,33658,2024-08-22
+SOafcaa0f0,C96c2fc47,2023-05-07,In Bearbeitung,Economy,Net45,Finanzen,Dietzallee 6/8,Roding,15331,2023-05-19
+SOcb8dfa19,C75f9d5e2,2023-06-16,Abgeschlossen,Standard,Net45,IT,Catrin-Stolze-Weg 2,Naila,97646,2023-06-26
+SO90d52d3c,C33fee75a,2024-02-09,Abgeschlossen,Economy,Net60,Vertrieb,Suse-Trommler-Straße 57,Stollberg,55341,2024-02-21
+SO3a8c5b0e,Cf02cd960,2024-05-14,In Bearbeitung,Premium,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2024-05-25
+SO2bdd722a,C791dd684,2024-03-05,Abgeschlossen,Premium,Immediate,IT,Ruthild-Trommler-Platz 271,Chemnitz,36295,2024-03-11
+SO328c1049,Cda8e4736,2024-11-26,Abgeschlossen,Economy,Immediate,Vertrieb,Mirjam-Aumann-Allee 97,Oberviechtach,56295,2024-12-07
+SOd9df351c,Ce17b4857,2023-12-20,Neu,Economy,Immediate,Produktion,Gudegasse 35,Gerolzhofen,28992,2023-12-24
+SOe48cc1ad,Cf2dabd90,2024-02-21,Neu,Economy,Net30,IT,Roselinde-Hoffmann-Gasse 2,Bogen,37255,2024-02-26
+SObbf09516,C3f843499,2024-10-26,In Bearbeitung,Premium,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2024-11-08
+SO323c13a1,Cc4b33ba9,2023-12-12,In Bearbeitung,Express,Net45,Einkauf,Maria-Loos-Ring 39,Osterburg,62204,2023-12-21
+SO73a305a7,C090d6a5d,2023-01-27,Neu,Express,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2023-02-04
+SO45271cd8,C14fe74cd,2023-11-03,Abgeschlossen,Express,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2023-11-12
+SO9699f686,Cdd38e6d1,2024-05-07,Abgeschlossen,Economy,Net45,Vertrieb,Hölzenbecherstraße 979,Gera,33658,2024-05-20
+SO1fc89829,C9694b874,2024-01-21,Neu,Premium,Immediate,HR,Weinhagegasse 2/7,Holzminden,70215,2024-01-29
+SO2de5f58d,C12ba5ea5,2023-05-01,Abgeschlossen,Express,Net45,Produktion,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,2023-05-10
+SO8b09dbd1,Caa20bb87,2024-02-14,Neu,Standard,Net30,HR,Lehmanngasse 2,Wanzleben,17135,2024-02-26
+SO3a499073,C12619206,2023-04-28,In Bearbeitung,Standard,Net45,Produktion,Gudering 020,Riesa,15654,2023-05-11
+SO65b9987b,Cf3039fb6,2024-01-05,Neu,Standard,Net45,Produktion,Dehmelgasse 8,Tübingen,62313,2024-01-08
+SOed65509c,C92a82ca8,2023-11-26,Storniert,Standard,Net60,IT,Hendrik-Faust-Ring 3/0,Prenzlau,08665,2023-12-09
+SO3f507482,C414c6e9c,2023-11-06,Abgeschlossen,Premium,Net60,HR,Jacqueline-Albers-Ring 1,Bremervörde,94877,2023-11-12
+SOb83eae8d,C3275bcae,2023-09-10,Abgeschlossen,Standard,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2023-09-19
+SO8305a6cc,C1e3f9dc2,2024-09-13,In Bearbeitung,Premium,Immediate,HR,Schinkeplatz 6,Erbisdorf,56716,2024-09-19
+SO937dd2f0,,2024-07-23,Abgeschlossen,Economy,Net45,Produktion,,,,2024-07-28
+SO8cb23f9c,Cf2dabd90,2023-11-19,Abgeschlossen,Express,Net30,IT,Roselinde-Hoffmann-Gasse 2,Bogen,37255,2023-11-23
+SO09f50a25,C3efad3f9,2023-06-24,Neu,Premium,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2023-07-06
+SOa7050075,C6e13dd23,2023-09-30,In Bearbeitung,Premium,Immediate,Vertrieb,Evamaria-Renner-Ring 61,Cuxhaven,81681,2023-10-03
+SO420b3e20,Cf7d98e3f,2023-12-03,In Bearbeitung,Economy,Immediate,Vertrieb,Winklergasse 6,Borna,78151,2023-12-06
+SO6f6105ac,Cf92b9ef9,2023-01-23,Abgeschlossen,Premium,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2023-02-03
+SOc91c1d2d,C86091f04,2024-03-27,Abgeschlossen,Premium,Net60,Vertrieb,Belinda-Junitz-Platz 7,Berlin,98933,2024-04-05
+SO2365d34e,Cf1e39af6,2024-08-04,Neu,Premium,Immediate,Finanzen,Buchholzallee 58,Eutin,10672,2024-08-18
+SOa91ed1df,C3b214d0c,2024-08-02,In Bearbeitung,Standard,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2024-08-07
+SO3102fbc2,Cc2f96476,2024-10-18,In Bearbeitung,Standard,Net60,Finanzen,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,2024-10-27
+SOdccc82e0,Cc105970a,2023-03-13,Storniert,Premium,Net30,IT,Reinhardtweg 0/2,Pirmasens,38435,2023-03-26
+SObff47efb,C18e0e6ec,2024-12-06,Abgeschlossen,Premium,Immediate,IT,Karzstraße 1/6,Soltau,27322,2024-12-17
+SO5f0d6438,Ce36428f7,2023-05-23,Abgeschlossen,Premium,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2023-06-01
+SO615ce28d,C149c3ed2,2024-04-19,Abgeschlossen,Economy,Net45,Vertrieb,H.-Dieter-Preiß-Allee 26,Aue,84887,2024-04-28
+SO8b48893c,Cc4b33ba9,2023-03-09,Abgeschlossen,Express,Net45,Einkauf,Maria-Loos-Ring 39,Osterburg,62204,2023-03-21
+SO3de71764,C149c3ed2,2024-12-26,Abgeschlossen,Premium,Net45,Vertrieb,H.-Dieter-Preiß-Allee 26,Aue,84887,2025-01-06
+SO4c88ac14,C13afda51,2023-02-22,Abgeschlossen,Premium,Immediate,Finanzen,Stadelmannring 7/5,Luckenwalde,04063,2023-03-03
+SOc14d94a4,C275f50b1,2024-11-06,Abgeschlossen,Economy,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2024-11-19
+SO4a03175a,C0b362343,2024-04-11,Abgeschlossen,Express,Net60,Einkauf,Mohauptallee 575,Bayreuth,69313,2024-04-18
+SO40d8e9a0,C03a98fb3,2023-03-22,Storniert,Express,Immediate,HR,Trubinstraße 5,Säckingen,51192,2023-04-04
+SO39984296,Cf02cd960,2023-12-17,Abgeschlossen,Standard,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2023-12-25
+SOad694577,C1423b9b6,2024-04-25,In Bearbeitung,Standard,Immediate,Einkauf,Zirmeweg 3,Aue,78802,2024-05-03
+SOdb449cbb,C42e5a792,2023-06-06,In Bearbeitung,Premium,Net60,Einkauf,Zahnring 6,Sonneberg,58768,2023-06-13
+SO007b1644,C7f1819d2,2024-04-10,Abgeschlossen,Premium,Net30,Einkauf,Adam-Gunpf-Allee 596,Badibling,69652,2024-04-21
+SO3476eb1c,Cbc09ea39,2024-08-07,In Bearbeitung,Premium,Net60,Finanzen,Sabine-Striebitz-Gasse 7,Oranienburg,49005,2024-08-13
+SO3043f9c8,C303ae767,2024-04-30,In Bearbeitung,Premium,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2024-05-06
+SO38dad2b7,C659b1429,2024-11-20,Neu,Standard,Immediate,IT,Tschentscherstr. 92,Bersenbrück,59901,2024-11-25
+SO9e4575d2,Cf614c1fb,2024-04-23,Abgeschlossen,Express,Net45,Vertrieb,Heinzplatz 3/1,Freital,01120,2024-04-29
+SO64e722c8,C4c2e5d03,2023-08-05,Storniert,Standard,Net30,Vertrieb,Wulffstraße 176,Hildburghausen,60665,2023-08-09
+SO4ada8fb7,C3d3a92f2,2024-06-13,Abgeschlossen,Standard,Net45,Finanzen,Schulzstraße 5,Mühlhausen,98869,2024-06-16
+SO0289ddb5,Ca42b06d3,2023-08-23,Abgeschlossen,Economy,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2023-09-02
+SO32cbdfee,C868f6ecf,2023-02-19,Abgeschlossen,Premium,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2023-03-02
+SO0a2f7e4e,Caad1aa13,2024-10-10,Abgeschlossen,Premium,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2024-10-13
+SOee197c50,C074fd1fe,2024-07-24,Abgeschlossen,Express,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-07-31
+SO510845e0,C70fc59a9,2024-08-15,In Bearbeitung,Express,Net45,Produktion,Killerweg 9,Stollberg,26046,2024-08-22
+SOe74e3259,C50c4accc,2023-01-17,Abgeschlossen,Economy,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2023-01-21
+SO5ca1c951,C75f9d5e2,2024-10-04,Abgeschlossen,Express,Net45,IT,Catrin-Stolze-Weg 2,Naila,97646,2024-10-16
+SO3cb238b3,C3a861bec,2024-07-01,Abgeschlossen,Express,Immediate,Produktion,Keudelstr. 404,Tübingen,80401,2024-07-12
+SOfbfed69f,Cca4b662a,2024-11-18,Abgeschlossen,Express,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2024-11-29
+SOc69f0df7,,2023-04-28,Abgeschlossen,Standard,Net60,IT,,,,2023-05-09
+SOa21f79d1,Ce475e957,2023-07-22,In Bearbeitung,Economy,Net30,Produktion,Ingeborg-Kroker-Straße 52,Donaueschingen,38965,2023-07-27
+SO58b3cf8c,C9670ea64,2023-12-17,In Bearbeitung,Premium,Net60,Vertrieb,Nermin-Hövel-Ring 6/5,Anklam,32787,2023-12-25
+SOd0dcc6bf,Ca42b06d3,2023-01-01,Abgeschlossen,Premium,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2023-01-10
+SObe871b71,C50c4accc,2023-07-02,Storniert,Economy,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2023-07-15
+SO6049e253,C303ae767,2024-05-15,Abgeschlossen,Standard,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2024-05-22
+SOa991b973,C3a2079e7,2024-03-19,Abgeschlossen,Express,Net60,HR,Selim-Stey-Platz 81,Tübingen,64861,2024-03-29
+SOf665dd7a,Cfbe3e017,2023-06-05,Abgeschlossen,Express,Net45,Finanzen,Peggy-Wernecke-Ring 491,Staßfurt,50173,2023-06-17
+SOaf8b5846,,2024-07-05,Neu,Economy,Net30,IT,,,,2024-07-17
+SO8b93f2e8,C22dc1560,2024-06-22,Abgeschlossen,Standard,Net45,Einkauf,Emilia-Holzapfel-Gasse 0,Bergzabern,86309,2024-07-02
+SO1de30d65,C3a2079e7,2023-05-30,Abgeschlossen,Express,Net60,HR,Selim-Stey-Platz 81,Tübingen,64861,2023-06-03
+SOb023edae,Cdfca3639,2024-10-14,In Bearbeitung,Express,Immediate,Vertrieb,Adolphgasse 7,Göppingen,44477,2024-10-23
+SObd4babd3,C1d5b10d8,2024-04-16,In Bearbeitung,Express,Net60,Finanzen,Trüballee 8,Garmisch-Partenkirchen,65226,2024-04-22
+SOa4bbcdc1,Cc2f96476,2023-08-21,Abgeschlossen,Standard,Net60,Finanzen,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,2023-09-04
+SO27291100,C6e3f51bd,2023-12-01,Neu,Express,Net60,Produktion,Junckenweg 60,Kötzting,26111,2023-12-14
+SOdf7ff9e4,C1252c1b1,2024-07-05,Abgeschlossen,Express,Net60,IT,Arzu-Schuchhardt-Weg 9/0,Weißenfels,29589,2024-07-08
+SOa2126df6,C50c4accc,2024-01-14,Abgeschlossen,Standard,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2024-01-21
+SOe304e0ed,Cfbe3e017,2023-04-21,In Bearbeitung,Economy,Net45,Finanzen,Peggy-Wernecke-Ring 491,Staßfurt,50173,2023-04-26
+SO1afc60a6,Ca26869df,2023-04-01,Abgeschlossen,Standard,Net60,Vertrieb,Röhrdanzstraße 893,Meiningen,11415,2023-04-14
+SO8847f7a6,C4d8dda40,2023-12-06,In Bearbeitung,Standard,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2023-12-12
+SO786a8903,C868f6ecf,2024-08-28,Abgeschlossen,Standard,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2024-09-07
+SO46c4ab87,C18e0e6ec,2024-10-11,Abgeschlossen,Economy,Immediate,IT,Karzstraße 1/6,Soltau,27322,2024-10-14
+SO39e34b2c,Cb0fb7360,2023-11-19,Abgeschlossen,Express,Net60,IT,Marietta-Heidrich-Straße 93,Werdau,25728,2023-11-30
+SOd9fdf313,Ce2b8dd42,2024-05-26,In Bearbeitung,Standard,Immediate,Vertrieb,Concetta-Paffrath-Ring 1/6,Stadtroda,92254,2024-06-08
+SO18b45966,C42e5a792,2024-09-22,Abgeschlossen,Express,Net60,Einkauf,Zahnring 6,Sonneberg,58768,2024-10-05
+SOfea5cebc,C7b948975,2024-11-26,Abgeschlossen,Standard,Net30,Produktion,Sibel-Hethur-Gasse 4/9,Greiz,31480,2024-12-10
+SO13beaba0,C414c6e9c,2023-07-10,Abgeschlossen,Premium,Net60,HR,Jacqueline-Albers-Ring 1,Bremervörde,94877,2023-07-15
+SO522aaa40,Cb28d86ab,2024-04-26,In Bearbeitung,Standard,Net60,Finanzen,Hans-Bernd-Löffler-Weg 5,Ingolstadt,17534,2024-05-07
+SOea31de7c,Cd492f8b7,2023-06-16,Abgeschlossen,Economy,Net60,Vertrieb,Dimitrios-Otto-Platz 6,Hansestadttralsund,87920,2023-06-29
+SO2847e07f,C724c4e71,2024-04-16,Abgeschlossen,Economy,Net30,IT,Cornelia-Stumpf-Straße 3,Tirschenreuth,89544,2024-04-19
+SO4274e71d,C3ae31983,2023-07-02,Abgeschlossen,Express,Net30,Vertrieb,Schenkstr. 66,Lippstadt,80235,2023-07-11
+SO943f2e7b,,2024-05-26,Abgeschlossen,Economy,Net45,IT,,,,2024-05-29
+SOc336fd24,,2024-01-04,Abgeschlossen,Premium,Net60,Einkauf,,,,2024-01-08
+SO86bc9906,Cfeb0823d,2023-08-18,Neu,Express,Net45,IT,Kramerring 804,Forst,04662,2023-08-28
+SOa39c8514,C118056f7,2023-05-18,Abgeschlossen,Express,Net45,IT,Knut-Klemm-Allee 25,Nördlingen,19018,2023-05-29
+SO3cd31915,C3f843499,2023-04-04,In Bearbeitung,Economy,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2023-04-12
+SO61a391d9,Cca45c3ff,2024-12-02,Storniert,Standard,Net60,Finanzen,Elfie-Junck-Gasse 907,Potsdam,98445,2024-12-12
+SOc1177b64,C732530f3,2023-10-29,Neu,Standard,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2023-11-10
+SO71369cc0,Ca39b1a71,2024-10-21,Abgeschlossen,Premium,Net60,Einkauf,Felicia-Ziegert-Allee 57,Ribnitz-Damgarten,60272,2024-10-24
+SOf50d1512,Ce4454bbe,2023-07-01,Neu,Premium,Net45,Produktion,Katarzyna-Tschentscher-Gasse 9/2,Büsingen am Hochrhein,10710,2023-07-08
+SO104d725d,C6823df44,2024-02-04,Abgeschlossen,Premium,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2024-02-07
+SO0bec0bf6,C6d8ea5e4,2023-09-27,Abgeschlossen,Economy,Net45,Produktion,Ewa-Mitschke-Weg 8/6,Suhl,36443,2023-10-07
+SO81edfaec,C4fe20e66,2024-10-07,Abgeschlossen,Economy,Net30,Vertrieb,Hettnerweg 79,Lübben,11491,2024-10-14
+SOc4006874,C4c2e5d03,2023-07-03,Storniert,Standard,Net30,Vertrieb,Wulffstraße 176,Hildburghausen,60665,2023-07-17
+SOacc62123,,2023-08-18,Abgeschlossen,Economy,Immediate,Produktion,,,,2023-08-30
+SO974786f4,C9e5706df,2023-05-11,Abgeschlossen,Premium,Net30,IT,Slavko-Mälzer-Allee 44,Kitzingen,47055,2023-05-16
+SOeb6152b0,,2023-02-26,In Bearbeitung,Economy,Immediate,Einkauf,,,,2023-03-04
+SOc43dedb7,C8a588552,2023-04-23,Storniert,Economy,Net30,Finanzen,Frankering 9,Berlin,33535,2023-05-04
+SO8437983d,Ca42b06d3,2024-03-29,Abgeschlossen,Express,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2024-04-08
+SOce31fa70,,2024-03-10,Storniert,Standard,Net60,Vertrieb,,,,2024-03-19
+SO341aad9c,Cb0fb7360,2024-03-03,In Bearbeitung,Express,Net60,IT,Marietta-Heidrich-Straße 93,Werdau,25728,2024-03-06
+SO23afcef5,C16aa833e,2023-06-05,In Bearbeitung,Standard,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2023-06-13
+SOd26cb3c9,Ca0780042,2023-05-28,Storniert,Express,Net45,Einkauf,Knappeplatz 21,Crailsheim,42877,2023-06-01
+SO5f0a640e,Ce1527376,2024-08-12,Abgeschlossen,Economy,Net60,IT,Martinallee 8,Wurzen,80795,2024-08-18
+SOfbbb2561,Cfeb0823d,2023-05-20,In Bearbeitung,Premium,Net45,IT,Kramerring 804,Forst,04662,2023-05-30
+SOaaf3e166,C84e2e1fd,2023-07-17,Neu,Standard,Net60,Produktion,Pieperallee 2/5,Cuxhaven,38754,2023-07-26
+SO73adbb76,C0b7bb4bc,2024-11-01,Abgeschlossen,Premium,Net60,IT,Veronica-Gunpf-Ring 1/4,Regensburg,41895,2024-11-11
+SO4ce1278e,,2024-11-30,In Bearbeitung,Premium,Net45,Vertrieb,,,,2024-12-04
+SO3297f67e,Cddb5b335,2024-01-08,Abgeschlossen,Express,Immediate,Produktion,Frieder-Häring-Allee 9,Pfaffenhofen an der Ilm,82691,2024-01-22
+SO90f8dc63,C77030f3e,2024-08-20,Neu,Express,Immediate,Finanzen,Lea-Linke-Straße 231,Mallersdorf,81615,2024-08-25
+SO3d87e065,C81185451,2023-04-06,Abgeschlossen,Express,Net60,IT,Susana-Geisel-Ring 6/0,Weißenfels,93279,2023-04-13
+SO8799b96a,C51b2abf2,2024-04-16,Abgeschlossen,Standard,Net60,Finanzen,Monica-Heuser-Ring 0,Kitzingen,71504,2024-04-26
+SOd22a3e68,Cb28d86ab,2024-01-17,Abgeschlossen,Economy,Net60,Finanzen,Hans-Bernd-Löffler-Weg 5,Ingolstadt,17534,2024-01-30
+SO2a0cb9d8,C967d50a7,2023-06-26,In Bearbeitung,Premium,Net60,Produktion,Stefani-Trubin-Gasse 08,Bützow,31958,2023-07-05
+SOb90a6219,Cdf1d8dba,2024-11-06,In Bearbeitung,Express,Net30,Produktion,Jan-Peter-Graf-Straße 44,Erbisdorf,63899,2024-11-14
+SO9fc267d7,Cf2dabd90,2023-07-05,Storniert,Standard,Net30,IT,Roselinde-Hoffmann-Gasse 2,Bogen,37255,2023-07-13
+SO81fe07a3,C1423b9b6,2024-05-01,In Bearbeitung,Premium,Immediate,Einkauf,Zirmeweg 3,Aue,78802,2024-05-13
+SO54ccf062,Cb28d86ab,2023-12-04,Neu,Express,Net60,Finanzen,Hans-Bernd-Löffler-Weg 5,Ingolstadt,17534,2023-12-17
+SO8e8f8e81,,2024-05-26,Abgeschlossen,Standard,Net60,IT,,,,2024-05-29
+SO45392b21,C3b214d0c,2024-03-14,Neu,Premium,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2024-03-17
+SO95440698,C96c2fc47,2023-12-28,Storniert,Premium,Net45,Finanzen,Dietzallee 6/8,Roding,15331,2024-01-07
+SO71a675d7,Cc73ccd64,2024-12-20,Abgeschlossen,Premium,Immediate,Vertrieb,Lissi-Junitz-Weg 9,Querfurt,25668,2024-12-29
+SO662b103b,C3eb6018e,2024-07-21,Neu,Standard,Immediate,Einkauf,Ian-Schmiedt-Ring 318,Hechingen,54916,2024-07-27
+SO2c187be4,C868f6ecf,2023-10-04,Neu,Economy,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2023-10-08
+SO59d28df0,C2b4198e0,2023-06-07,In Bearbeitung,Express,Net60,IT,Scholzallee 6,Hechingen,09114,2023-06-18
+SO2d3f1979,C846484d1,2024-10-28,Abgeschlossen,Standard,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2024-11-01
+SOebf88202,C303ae767,2024-09-12,Storniert,Express,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2024-09-15
+SO6341e5f5,C73e2fe44,2023-06-14,Abgeschlossen,Express,Net30,Einkauf,Hansjürgen-Stiffel-Gasse 76,Mallersdorf,05293,2023-06-18
+SO3d5f1171,Ca42b06d3,2023-04-08,Abgeschlossen,Standard,Immediate,Vertrieb,Klappring 8,Wurzen,36907,2023-04-20
+SO7bb7c728,C732530f3,2024-05-10,Abgeschlossen,Standard,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2024-05-13
+SOad22ec1c,C9d0a5534,2024-10-16,In Bearbeitung,Standard,Net30,Vertrieb,Kraushaarstr. 6,Böblingen,87815,2024-10-19
+SO51caaff3,Cbbd2eaf2,2024-08-15,In Bearbeitung,Standard,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2024-08-26
+SO63147294,Cc5d4ef9a,2024-06-25,Abgeschlossen,Express,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2024-07-01
+SOd13ebebe,C8b18ddea,2023-09-14,Neu,Express,Net60,Produktion,Liliana-Baum-Straße 5,Flöha,20515,2023-09-20
+SO3bd89f15,Cda8e4736,2023-06-13,Abgeschlossen,Premium,Immediate,Vertrieb,Mirjam-Aumann-Allee 97,Oberviechtach,56295,2023-06-17
+SOd64774fe,C3cc6e59d,2023-08-24,Neu,Premium,Net45,IT,Fred-Scheuermann-Weg 711,Böblingen,55971,2023-09-03
+SO995df6c1,C3eb6018e,2024-10-09,In Bearbeitung,Economy,Immediate,Einkauf,Ian-Schmiedt-Ring 318,Hechingen,54916,2024-10-13
+SOe830226e,Cc5d4ef9a,2024-03-30,In Bearbeitung,Express,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2024-04-07
+SO0a7cfc79,Cf614c1fb,2023-07-26,Abgeschlossen,Express,Net45,Vertrieb,Heinzplatz 3/1,Freital,01120,2023-07-29
+SOcd5506f7,C80d63928,2024-03-15,In Bearbeitung,Standard,Net45,Produktion,Hansjörg-Ring-Allee 8/6,Burglengenfeld,25754,2024-03-29
+SO63af700b,Cbab00c56,2024-04-15,Abgeschlossen,Standard,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2024-04-26
+SOf3e3a547,C22dc1560,2024-03-30,Abgeschlossen,Standard,Net45,Einkauf,Emilia-Holzapfel-Gasse 0,Bergzabern,86309,2024-04-13
+SOb057d411,C868f6ecf,2023-03-01,Abgeschlossen,Economy,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2023-03-12
+SO94e00613,C3f13b32e,2023-07-09,In Bearbeitung,Premium,Immediate,Finanzen,Zobelplatz 505,Illertissen,90367,2023-07-12
+SO67bcd7f2,C3a2079e7,2024-02-19,In Bearbeitung,Standard,Net60,HR,Selim-Stey-Platz 81,Tübingen,64861,2024-03-01
+SO62601b51,C1011d7bf,2023-12-29,Abgeschlossen,Premium,Net45,Produktion,Gina-Wilms-Ring 699,Stade,27017,2024-01-08
+SOed46a53f,C0b7bb4bc,2023-02-12,Storniert,Express,Net60,IT,Veronica-Gunpf-Ring 1/4,Regensburg,41895,2023-02-22
+SO7919bb70,C4fe20e66,2023-11-16,Abgeschlossen,Standard,Net30,Vertrieb,Hettnerweg 79,Lübben,11491,2023-11-19
+SO1bfa3f7f,C3a2079e7,2024-07-25,In Bearbeitung,Economy,Net60,HR,Selim-Stey-Platz 81,Tübingen,64861,2024-07-28
+SO3df15fe9,Ca7e17d6d,2023-12-12,Abgeschlossen,Premium,Immediate,Einkauf,Stolzestr. 6,Eisleben,26809,2023-12-23
+SO9714fb9b,Ce17b4857,2023-05-15,Abgeschlossen,Standard,Immediate,Produktion,Gudegasse 35,Gerolzhofen,28992,2023-05-19
+SOe6c78f32,Cddb5b335,2023-05-04,Storniert,Premium,Immediate,Produktion,Frieder-Häring-Allee 9,Pfaffenhofen an der Ilm,82691,2023-05-18
+SOfec70a13,C4c2e5d03,2023-06-15,Storniert,Express,Net30,Vertrieb,Wulffstraße 176,Hildburghausen,60665,2023-06-29
+SOfb29c4de,Ce11e2927,2023-04-19,Storniert,Express,Net30,Einkauf,Schenkstraße 2/3,Genthin,92129,2023-04-26
+SOaca62b40,C18de9483,2023-03-14,Abgeschlossen,Premium,Immediate,HR,Änne-Finke-Gasse 846,Böblingen,23001,2023-03-24
+SO01d741be,C89e40436,2023-08-28,Abgeschlossen,Economy,Net45,Vertrieb,Hans-Hinrich-Speer-Gasse 0,Bad Brückenau,92164,2023-09-08
+SObe9b35a7,Cd492f8b7,2023-02-21,Abgeschlossen,Standard,Net60,Vertrieb,Dimitrios-Otto-Platz 6,Hansestadttralsund,87920,2023-02-24
+SO5933c9d6,Ced957276,2024-05-14,Neu,Premium,Net60,Finanzen,Gießstr. 3,Ludwigslust,00247,2024-05-21
+SO389614e3,C82cd3970,2023-09-30,Abgeschlossen,Standard,Immediate,Einkauf,Gerta-Schottin-Platz 7/3,Dessau,70013,2023-10-14
+SO9885c442,C1d070d6e,2024-01-17,Neu,Economy,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2024-01-20
+SO42bb4326,Cf614c1fb,2024-02-21,Abgeschlossen,Economy,Net45,Vertrieb,Heinzplatz 3/1,Freital,01120,2024-02-27
+SOc938596d,C73179274,2023-08-01,Abgeschlossen,Economy,Net45,IT,Liebeltplatz 8,Tecklenburg,68517,2023-08-04
+SO1b7f2e36,C9d0a5534,2023-09-08,Neu,Economy,Net30,Vertrieb,Kraushaarstr. 6,Böblingen,87815,2023-09-15
+SO2a74622e,C3cc6e59d,2024-01-17,In Bearbeitung,Premium,Net45,IT,Fred-Scheuermann-Weg 711,Böblingen,55971,2024-01-27
+SOf85dab44,C414c6e9c,2024-09-17,Abgeschlossen,Economy,Net60,HR,Jacqueline-Albers-Ring 1,Bremervörde,94877,2024-09-24
+SOc8ba173c,C9f9d1595,2023-05-04,Abgeschlossen,Express,Immediate,Produktion,Sauergasse 9,Kulmbach,17285,2023-05-18
+SO9efb782e,C846484d1,2024-07-29,In Bearbeitung,Standard,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2024-08-04
+SO36c8d6f2,Ced957276,2023-02-05,Abgeschlossen,Express,Net60,Finanzen,Gießstr. 3,Ludwigslust,00247,2023-02-13
+SO026f47d5,Cca6a5fc0,2023-08-02,Abgeschlossen,Standard,Net30,Vertrieb,Scheibestr. 760,Strasburg,71626,2023-08-11
+SOef271a12,C73ed6f51,2024-10-26,Neu,Standard,Net45,Produktion,Henckallee 0,Seelow,67411,2024-11-01
+SOf9cb53bd,,2024-01-30,Abgeschlossen,Express,Immediate,Einkauf,,,,2024-02-04
+SOf88e2869,C8a588552,2023-12-04,Abgeschlossen,Economy,Net30,Finanzen,Frankering 9,Berlin,33535,2023-12-16
+SO70ee6ca4,C7f1819d2,2024-09-06,Abgeschlossen,Standard,Net30,Einkauf,Adam-Gunpf-Allee 596,Badibling,69652,2024-09-18
+SO2748b0e9,C275f50b1,2023-09-27,Abgeschlossen,Premium,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2023-09-30
+SO21205b52,Ce6a2c2b8,2024-12-21,Storniert,Economy,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2024-12-29
+SO6db94cdf,Cfeb0823d,2024-08-07,Abgeschlossen,Economy,Net45,IT,Kramerring 804,Forst,04662,2024-08-21
+SO3093397d,Ce6a2c2b8,2024-12-01,In Bearbeitung,Standard,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2024-12-14
+SO9a2e8aaa,C84e2e1fd,2023-08-12,Storniert,Express,Net60,Produktion,Pieperallee 2/5,Cuxhaven,38754,2023-08-15
+SOcb8031aa,Ce475e957,2024-09-25,Abgeschlossen,Economy,Net30,Produktion,Ingeborg-Kroker-Straße 52,Donaueschingen,38965,2024-09-29
+SOd55e6e41,C6e13dd23,2023-01-21,In Bearbeitung,Economy,Immediate,Vertrieb,Evamaria-Renner-Ring 61,Cuxhaven,81681,2023-02-04
+SO8f34e075,C090d6a5d,2023-09-22,Abgeschlossen,Standard,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2023-09-29
+SO7e86815c,Ca5f4ad0f,2023-05-02,Abgeschlossen,Economy,Net60,Produktion,Edith-Killer-Gasse 5/3,Apolda,13347,2023-05-15
+SOa68a4535,C45ce4373,2023-10-28,Abgeschlossen,Express,Net45,Finanzen,Hedy-Fischer-Ring 10,Aurich,31710,2023-11-11
+SOe1571da0,Cc105970a,2023-10-09,Storniert,Standard,Net30,IT,Reinhardtweg 0/2,Pirmasens,38435,2023-10-18
+SOc05d5f68,C92a82ca8,2023-11-02,In Bearbeitung,Premium,Net60,IT,Hendrik-Faust-Ring 3/0,Prenzlau,08665,2023-11-15
+SO7169a03b,C090d6a5d,2024-07-20,In Bearbeitung,Express,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2024-07-31
+SOc90db741,C3cc6e59d,2023-05-03,Abgeschlossen,Economy,Net45,IT,Fred-Scheuermann-Weg 711,Böblingen,55971,2023-05-06
+SOefacea53,C967d50a7,2024-04-09,Abgeschlossen,Premium,Net60,Produktion,Stefani-Trubin-Gasse 08,Bützow,31958,2024-04-23
+SO34398b54,Cf02cd960,2023-05-09,Abgeschlossen,Standard,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2023-05-12
+SOc37003e2,C12feb9fd,2023-04-08,Abgeschlossen,Premium,Net30,Einkauf,Anto-Pölitz-Platz 92,Coburg,78895,2023-04-14
+SO26d1edb2,Cf71d2fa1,2024-06-25,Abgeschlossen,Standard,Net45,Finanzen,H.-Dieter-Mälzer-Straße 2,Malchin,60534,2024-07-01
+SO93ff3625,C4999e9b6,2023-05-25,In Bearbeitung,Express,Net60,Einkauf,Thanelstraße 0,Weißwasser,61095,2023-06-08
+SO23d54b6f,C93c31129,2023-01-25,Abgeschlossen,Premium,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2023-02-04
+SOb20b5513,Cf02cd960,2024-08-08,Abgeschlossen,Express,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2024-08-19
+SO6b1c931d,Cb66030de,2023-09-07,In Bearbeitung,Express,Immediate,HR,Benita-Hahn-Gasse 0,Olpe,39057,2023-09-20
+SO1d05cb5a,Cfbe3e017,2023-04-09,Abgeschlossen,Economy,Net45,Finanzen,Peggy-Wernecke-Ring 491,Staßfurt,50173,2023-04-15
+SO540610fd,Cb66030de,2023-08-20,Abgeschlossen,Standard,Immediate,HR,Benita-Hahn-Gasse 0,Olpe,39057,2023-08-24
+SO04e3aab4,Cf5ed7b3f,2024-04-22,Neu,Standard,Immediate,Einkauf,Wesackallee 35,Meiningen,83241,2024-05-06
+SOc402624b,C10539d6f,2023-02-06,In Bearbeitung,Express,Net60,Vertrieb,Marika-Winkler-Ring 2,Gotha,24192,2023-02-09
+SOb85b170e,C16aa833e,2023-11-25,Abgeschlossen,Premium,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2023-12-09
+SOd60c28dc,C86091f04,2024-01-17,Abgeschlossen,Premium,Net60,Vertrieb,Belinda-Junitz-Platz 7,Berlin,98933,2024-01-28
+SO7657217f,C3f843499,2024-12-13,Abgeschlossen,Standard,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2024-12-24
+SO9d7eeabb,Ce80237a3,2024-01-07,Neu,Express,Net60,Finanzen,Krauseallee 86,Gadebusch,06411,2024-01-15
+SOf0cfe4f6,C846484d1,2023-08-22,Abgeschlossen,Express,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2023-08-29
+SObbe03995,Cf8b4383e,2024-07-30,Neu,Standard,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2024-08-09
+SOb15fcb2d,C0cb40719,2023-06-09,In Bearbeitung,Express,Immediate,IT,Heide-Henschel-Weg 24,Eichstätt,70502,2023-06-22
+SO55a26606,Cccb7af4a,2024-02-23,Abgeschlossen,Premium,Net30,Produktion,Gerhardt-Salz-Ring 7/8,Saarbrücken,43597,2024-03-04
+SOcb110487,C6e1dd11f,2023-06-20,Storniert,Premium,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-07-04
+SOa1a6a875,C208d4251,2023-02-03,In Bearbeitung,Premium,Net60,Vertrieb,Rahel-Tröst-Gasse 5,Kamenz,19700,2023-02-17
+SO4707cd76,C16aa833e,2024-03-11,In Bearbeitung,Standard,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2024-03-19
+SO85e4b19a,Cf92b9ef9,2023-08-25,Neu,Premium,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2023-09-05
+SO4406b9d3,C1b40d757,2024-04-12,Abgeschlossen,Premium,Net60,IT,Friedemann-Meyer-Weg 5/5,Perleberg,42970,2024-04-17
+SO71c573ef,Ca14a6d03,2023-04-27,Abgeschlossen,Premium,Immediate,Einkauf,Henning-Hering-Weg 9/2,Strausberg,80979,2023-05-04
+SO2779ab76,,2023-01-06,Neu,Standard,Immediate,IT,,,,2023-01-19
+SOd144b389,C074fd1fe,2024-09-25,Abgeschlossen,Standard,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-10-03
+SO6349d635,Cf7d98e3f,2024-03-07,Abgeschlossen,Premium,Immediate,Vertrieb,Winklergasse 6,Borna,78151,2024-03-12
+SO3f8502ae,,2024-06-04,Storniert,Express,Net60,IT,,,,2024-06-12
+SOf5c68088,C12ba5ea5,2024-06-30,Abgeschlossen,Standard,Net45,Produktion,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,2024-07-08
+SOc781ef96,Cc2f96476,2023-10-27,Abgeschlossen,Economy,Net60,Finanzen,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,2023-10-31
+SO473a7200,C3efad3f9,2023-01-09,Abgeschlossen,Standard,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2023-01-18
+SOa9d3e7bb,Ca0780042,2024-06-17,Storniert,Economy,Net45,Einkauf,Knappeplatz 21,Crailsheim,42877,2024-06-23
+SOdeef73f1,C93c31129,2024-02-21,Abgeschlossen,Express,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2024-02-28
+SO527a4482,C6e1dd11f,2023-09-19,Abgeschlossen,Economy,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-10-03
+SO70eac8c6,C38361d92,2024-12-10,Abgeschlossen,Economy,Net45,Vertrieb,Inge-Vollbrecht-Straße 5/7,Wesel,78380,2024-12-15
+SOccef0a09,,2024-11-11,Storniert,Express,Net45,Vertrieb,,,,2024-11-23
+SOd9da8f08,C3f843499,2023-12-12,Abgeschlossen,Standard,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2023-12-19
+SOb438d5a9,C9670ea64,2024-12-20,In Bearbeitung,Standard,Net60,Vertrieb,Nermin-Hövel-Ring 6/5,Anklam,32787,2024-12-30
+SO0fb98179,Cc2f96476,2024-03-03,In Bearbeitung,Premium,Net60,Finanzen,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,2024-03-11
+SOb35df981,C37903667,2024-07-01,Abgeschlossen,Premium,Immediate,Vertrieb,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,2024-07-05
+SO9c7123f1,Cc73ccd64,2023-11-23,Abgeschlossen,Express,Immediate,Vertrieb,Lissi-Junitz-Weg 9,Querfurt,25668,2023-11-30
+SOe569a786,Cf5ed7b3f,2024-04-25,Abgeschlossen,Economy,Immediate,Einkauf,Wesackallee 35,Meiningen,83241,2024-05-05
+SO58d1cd56,C2745d577,2023-06-02,In Bearbeitung,Standard,Net30,Einkauf,Lindnerstraße 3,Lichtenfels,80488,2023-06-09
+SO2d382dda,,2023-07-14,Abgeschlossen,Standard,Net45,HR,,,,2023-07-24
+SO0f4536e9,C0641716f,2024-07-09,Abgeschlossen,Economy,Net30,Produktion,Friedericke-Stoll-Platz 8,Olpe,72629,2024-07-23
+SO89b291c1,C074fd1fe,2024-01-13,Abgeschlossen,Express,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-01-22
+SO60ad5b3a,C5c74d310,2023-11-28,Abgeschlossen,Economy,Net45,HR,Laszlo-Beer-Allee 5/5,Lübz,64486,2023-12-02
+SO637697e4,C2b4198e0,2023-03-04,Abgeschlossen,Economy,Net60,IT,Scholzallee 6,Hechingen,09114,2023-03-12
+SO3544c13f,C732530f3,2023-09-13,Neu,Express,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2023-09-24
+SOf705652a,Cca6a5fc0,2024-02-13,In Bearbeitung,Premium,Net30,Vertrieb,Scheibestr. 760,Strasburg,71626,2024-02-23
+SOe3289035,C275f50b1,2023-12-02,In Bearbeitung,Standard,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2023-12-05
+SO479b2e0b,Caad1aa13,2023-01-17,Storniert,Economy,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2023-01-31
+SO4fa983a1,C138a901b,2023-10-20,Abgeschlossen,Economy,Net30,Finanzen,Junckenstraße 1/9,Amberg,22886,2023-10-23
+SO198af8c3,C724c4e71,2024-04-15,In Bearbeitung,Express,Net30,IT,Cornelia-Stumpf-Straße 3,Tirschenreuth,89544,2024-04-21
+SOb2993087,Cfbe3e017,2023-01-12,Abgeschlossen,Economy,Net45,Finanzen,Peggy-Wernecke-Ring 491,Staßfurt,50173,2023-01-19
+SO26b70b7b,C5c74d310,2024-02-28,In Bearbeitung,Standard,Net45,HR,Laszlo-Beer-Allee 5/5,Lübz,64486,2024-03-06
+SO54a9f687,C7c206597,2023-01-05,Neu,Premium,Net30,HR,Marcel-Holsten-Gasse 98,Gräfenhainichen,19030,2023-01-19
+SO4fef6cb7,C0b7bb4bc,2024-10-28,Abgeschlossen,Economy,Net60,IT,Veronica-Gunpf-Ring 1/4,Regensburg,41895,2024-10-31
+SO755abed5,C18de9483,2024-10-19,Abgeschlossen,Premium,Immediate,HR,Änne-Finke-Gasse 846,Böblingen,23001,2024-10-30
+SO78c35b98,C80d63928,2023-07-28,Neu,Premium,Net45,Produktion,Hansjörg-Ring-Allee 8/6,Burglengenfeld,25754,2023-08-03
+SO5326fa33,C6e13dd23,2024-09-07,Abgeschlossen,Premium,Immediate,Vertrieb,Evamaria-Renner-Ring 61,Cuxhaven,81681,2024-09-14
+SO9e9c3902,,2024-04-14,In Bearbeitung,Express,Immediate,IT,,,,2024-04-17
+SO2fc709d7,C6e1dd11f,2023-11-08,Abgeschlossen,Economy,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-11-19
+SOeebb6b62,C3275bcae,2024-12-15,Abgeschlossen,Premium,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2024-12-26
+SO9e3a09a2,C208d4251,2023-12-17,Abgeschlossen,Economy,Net60,Vertrieb,Rahel-Tröst-Gasse 5,Kamenz,19700,2023-12-24
+SO22536c09,Ccc22c52a,2023-08-24,Storniert,Economy,Net45,Finanzen,Evelin-Römer-Straße 3/7,Wolfenbüttel,40840,2023-08-27
+SOa28de32c,,2023-04-16,In Bearbeitung,Standard,Immediate,Vertrieb,,,,2023-04-22
+SO53328fc2,Ce17b4857,2023-12-23,Abgeschlossen,Standard,Immediate,Produktion,Gudegasse 35,Gerolzhofen,28992,2023-12-29
+SOcf2d4b0e,C5bd787f1,2023-07-11,Abgeschlossen,Standard,Net30,Einkauf,Heinz-Gerd-Mangold-Allee 62,Hannover,61654,2023-07-20
+SO8af15a7c,Cd6f978c2,2023-02-09,Neu,Economy,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2023-02-15
+SO63c0b07f,Cbab00c56,2023-03-18,Abgeschlossen,Express,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2023-03-30
+SO4b28dbe2,C03a98fb3,2023-06-25,Abgeschlossen,Express,Immediate,HR,Trubinstraße 5,Säckingen,51192,2023-07-02
+SOfef30009,Cbbd2eaf2,2024-09-28,In Bearbeitung,Express,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2024-10-09
+SO1290e7d6,C3b214d0c,2023-02-20,Abgeschlossen,Standard,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2023-02-27
+SO05e997e0,,2024-06-12,Abgeschlossen,Express,Immediate,Produktion,,,,2024-06-18
+SOa0bd55f1,Cb0fb7360,2023-11-01,In Bearbeitung,Standard,Net60,IT,Marietta-Heidrich-Straße 93,Werdau,25728,2023-11-13
+SOd3fb0071,Cddb5b335,2023-11-16,Abgeschlossen,Standard,Immediate,Produktion,Frieder-Häring-Allee 9,Pfaffenhofen an der Ilm,82691,2023-11-21
+SO3e213dde,C1d070d6e,2024-01-10,Abgeschlossen,Standard,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2024-01-21
+SO171a25cc,C12619206,2023-03-24,Abgeschlossen,Standard,Net45,Produktion,Gudering 020,Riesa,15654,2023-04-01
+SO7c30cbbc,C6d8ea5e4,2023-06-10,In Bearbeitung,Standard,Net45,Produktion,Ewa-Mitschke-Weg 8/6,Suhl,36443,2023-06-21
+SO51aef428,C03a98fb3,2024-11-15,Storniert,Express,Immediate,HR,Trubinstraße 5,Säckingen,51192,2024-11-27
+SOf2e17f88,C9f23f455,2024-07-11,Abgeschlossen,Economy,Net60,Vertrieb,Urte-Trüb-Allee 8/1,Wetzlar,06259,2024-07-20
+SO48e896c5,Cf8b4383e,2024-03-18,In Bearbeitung,Economy,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2024-04-01
+SO9de3e0e1,C42e5a792,2024-02-01,Neu,Express,Net60,Einkauf,Zahnring 6,Sonneberg,58768,2024-02-11
+SOfe3ceaee,Cda8e4736,2024-07-02,Abgeschlossen,Premium,Immediate,Vertrieb,Mirjam-Aumann-Allee 97,Oberviechtach,56295,2024-07-14
+SO62b29f00,Cca45c3ff,2023-04-29,Abgeschlossen,Standard,Net60,Finanzen,Elfie-Junck-Gasse 907,Potsdam,98445,2023-05-11
+SO45f94ba1,C12ba5ea5,2023-08-19,Storniert,Express,Net45,Produktion,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,2023-08-29
+SOd669b67b,,2024-08-28,Neu,Standard,Net30,Finanzen,,,,2024-09-01
+SOb8e4e660,C3eb6018e,2023-11-27,In Bearbeitung,Standard,Immediate,Einkauf,Ian-Schmiedt-Ring 318,Hechingen,54916,2023-12-09
+SOcdcdbb10,C6823df44,2024-10-09,Abgeschlossen,Standard,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2024-10-14
+SO0a28673a,C3d3a92f2,2023-02-18,Abgeschlossen,Premium,Net45,Finanzen,Schulzstraße 5,Mühlhausen,98869,2023-03-04
+SO8e808ab9,C732530f3,2023-12-04,Abgeschlossen,Premium,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2023-12-07
+SO3b578730,C71d6670a,2023-02-15,Abgeschlossen,Express,Net30,HR,Carolin-Weihmann-Ring 32,Bersenbrück,39852,2023-02-25
+SO33fddb10,C791dd684,2024-12-01,In Bearbeitung,Express,Immediate,IT,Ruthild-Trommler-Platz 271,Chemnitz,36295,2024-12-06
+SOd1741db1,Cc105970a,2024-06-09,Abgeschlossen,Economy,Net30,IT,Reinhardtweg 0/2,Pirmasens,38435,2024-06-12
+SO1717d24b,Cf8b4383e,2024-04-17,In Bearbeitung,Economy,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2024-05-01
+SO25f1e6cf,C86091f04,2024-03-22,Neu,Premium,Net60,Vertrieb,Belinda-Junitz-Platz 7,Berlin,98933,2024-04-03
+SO2fd83eb0,Ca6fb2402,2024-10-20,Abgeschlossen,Standard,Immediate,HR,Bohlanderring 1,Riesa,83123,2024-10-26
+SO4840fd5e,Caa20bb87,2024-12-19,Abgeschlossen,Express,Net30,HR,Lehmanngasse 2,Wanzleben,17135,2024-12-23
+SO88c2b09a,C868f6ecf,2023-04-17,Abgeschlossen,Premium,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2023-04-21
+SOfebd56fa,Cddb5b335,2024-04-10,In Bearbeitung,Express,Immediate,Produktion,Frieder-Häring-Allee 9,Pfaffenhofen an der Ilm,82691,2024-04-24
+SO6fba41e6,C99bf0109,2024-09-03,Abgeschlossen,Premium,Net30,IT,Dolores-Fiebig-Straße 572,Schwarzenberg,39271,2024-09-17
+SO0711ed0d,C71d6670a,2024-12-19,Storniert,Express,Net30,HR,Carolin-Weihmann-Ring 32,Bersenbrück,39852,2025-01-01
+SOd51c19fd,C3f843499,2024-03-06,Abgeschlossen,Premium,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2024-03-13
+SOc7fdd2e3,Cde58dcd9,2024-11-02,In Bearbeitung,Premium,Net30,HR,Trubring 2,Rastatt,82510,2024-11-11
+SO6213afb1,C81185451,2024-04-29,Storniert,Economy,Net60,IT,Susana-Geisel-Ring 6/0,Weißenfels,93279,2024-05-10
+SO51200d8c,C13afda51,2023-05-28,Abgeschlossen,Economy,Immediate,Finanzen,Stadelmannring 7/5,Luckenwalde,04063,2023-06-06
+SO664f1a52,C96c2fc47,2024-12-30,Neu,Express,Net45,Finanzen,Dietzallee 6/8,Roding,15331,2025-01-02
+SO35993d83,Cf5ed7b3f,2023-07-16,Abgeschlossen,Standard,Immediate,Einkauf,Wesackallee 35,Meiningen,83241,2023-07-30
+SO64757b11,Cf71d2fa1,2024-06-30,In Bearbeitung,Premium,Net45,Finanzen,H.-Dieter-Mälzer-Straße 2,Malchin,60534,2024-07-12
+SOb264e0a7,,2024-04-05,Abgeschlossen,Standard,Immediate,Einkauf,,,,2024-04-14
+SOb2818e13,C1252c1b1,2024-11-26,Abgeschlossen,Premium,Net60,IT,Arzu-Schuchhardt-Weg 9/0,Weißenfels,29589,2024-12-03
+SO0e4bf6c7,Cca45c3ff,2024-07-22,Abgeschlossen,Premium,Net60,Finanzen,Elfie-Junck-Gasse 907,Potsdam,98445,2024-07-25
+SO1c5591ef,,2024-06-07,Abgeschlossen,Express,Net30,HR,,,,2024-06-15
+SO4e3f4962,C73e2fe44,2023-05-31,Abgeschlossen,Premium,Net30,Einkauf,Hansjürgen-Stiffel-Gasse 76,Mallersdorf,05293,2023-06-04
+SO5b3bf5ce,Ce02f09fc,2024-11-25,In Bearbeitung,Premium,Net30,Finanzen,Carmela-Hauffer-Allee 79,Nordhausen,10540,2024-11-28
+SO29105913,C3275bcae,2024-10-24,Abgeschlossen,Express,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2024-10-27
+SOe1b97621,C303ae767,2024-09-21,Abgeschlossen,Express,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2024-09-30
+SO7d6a001c,C1bcb89ea,2024-11-03,Abgeschlossen,Express,Net60,HR,Drewesgasse 2,Norden,84998,2024-11-12
+SO3e0169d5,C33fee75a,2024-10-20,Abgeschlossen,Standard,Net60,Vertrieb,Suse-Trommler-Straße 57,Stollberg,55341,2024-10-30
+SO82226747,C2212de05,2023-06-03,Abgeschlossen,Economy,Net30,Produktion,Gertrud-Bolzmann-Straße 9/3,Lübben,02355,2023-06-14
+SOa6a81c15,Ca5ca84fd,2024-08-25,Abgeschlossen,Premium,Net45,Finanzen,Harloffallee 57,Burglengenfeld,56470,2024-09-07
+SO6edf423a,C0b362343,2024-07-14,Abgeschlossen,Economy,Net60,Einkauf,Mohauptallee 575,Bayreuth,69313,2024-07-23
+SO8383c9c0,C967d50a7,2023-02-14,Storniert,Economy,Net60,Produktion,Stefani-Trubin-Gasse 08,Bützow,31958,2023-02-27
+SOc3ed8a1a,C31bd71a6,2024-12-10,Abgeschlossen,Standard,Immediate,Vertrieb,Weinholdring 47,Beeskow,97556,2024-12-20
+SOf7913d1f,Cf02cd960,2023-08-25,Neu,Premium,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2023-08-28
+SOd3ac79b4,Cf92b9ef9,2024-07-21,Abgeschlossen,Premium,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2024-08-01
+SO5e298ffb,C80d63928,2024-09-23,Abgeschlossen,Standard,Net45,Produktion,Hansjörg-Ring-Allee 8/6,Burglengenfeld,25754,2024-09-30
+SOd1551cad,Ce38cd301,2023-01-17,Abgeschlossen,Standard,Net30,Einkauf,Hornichstraße 655,Garmisch-Partenkirchen,92425,2023-01-29
+SOf29989ef,C0641716f,2024-07-15,Neu,Economy,Net30,Produktion,Friedericke-Stoll-Platz 8,Olpe,72629,2024-07-27
+SO19799c38,Cf4a92678,2023-05-31,In Bearbeitung,Premium,Net30,Vertrieb,Mälzerstraße 2/9,Pirmasens,54479,2023-06-11
+SO500692ed,Cdfca3639,2024-11-09,Neu,Standard,Immediate,Vertrieb,Adolphgasse 7,Göppingen,44477,2024-11-23
+SO656fee8f,C8edb23e1,2023-03-12,Abgeschlossen,Standard,Net30,Finanzen,Patricia-Riehl-Straße 178,Gerolzhofen,98994,2023-03-24
+SO0c0e687a,C5ba38685,2023-02-15,Storniert,Premium,Net30,Finanzen,Hans-Jochen-Stadelmann-Allee 8,Ansbach,01667,2023-02-26
+SO734d2ac0,C37903667,2024-09-29,In Bearbeitung,Economy,Immediate,Vertrieb,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,2024-10-06
+SOa455c446,C5faf8fa4,2023-09-13,Abgeschlossen,Premium,Immediate,Produktion,Margrafring 4,Eisleben,58853,2023-09-22
+SO62c2ff51,Cbbd2eaf2,2023-02-20,Abgeschlossen,Premium,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2023-02-23
+SO10f96e26,Ccb63ede4,2024-06-03,Storniert,Premium,Net60,Finanzen,Isabel-Fischer-Gasse 4,Göttingen,82330,2024-06-08
+SO92e75970,,2023-11-16,Abgeschlossen,Premium,Net60,Produktion,,,,2023-11-20
+SO186620bf,C89e40436,2023-01-06,Abgeschlossen,Express,Net45,Vertrieb,Hans-Hinrich-Speer-Gasse 0,Bad Brückenau,92164,2023-01-13
+SO23aa2d6a,C14fe74cd,2024-09-30,Abgeschlossen,Premium,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2024-10-04
+SO04e9429a,Cf3039fb6,2024-07-24,Storniert,Economy,Net45,Produktion,Dehmelgasse 8,Tübingen,62313,2024-07-29
+SO57f79cf7,C31bd71a6,2023-03-01,Abgeschlossen,Express,Immediate,Vertrieb,Weinholdring 47,Beeskow,97556,2023-03-12
+SO6a9939ee,,2024-06-09,Abgeschlossen,Express,Immediate,Finanzen,,,,2024-06-15
+SOf46f144b,C9670ea64,2024-09-01,Abgeschlossen,Premium,Net60,Vertrieb,Nermin-Hövel-Ring 6/5,Anklam,32787,2024-09-10
+SO07290604,Cdfca3639,2023-03-15,Abgeschlossen,Express,Immediate,Vertrieb,Adolphgasse 7,Göppingen,44477,2023-03-24
+SO6d21f966,C0b362343,2024-07-21,Abgeschlossen,Standard,Net60,Einkauf,Mohauptallee 575,Bayreuth,69313,2024-07-29
+SOa592e986,C6e13dd23,2023-07-08,In Bearbeitung,Premium,Immediate,Vertrieb,Evamaria-Renner-Ring 61,Cuxhaven,81681,2023-07-19
+SO45fc9651,C090d6a5d,2023-03-15,In Bearbeitung,Economy,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2023-03-21
+SO779227f3,Cf02cd960,2023-04-24,Abgeschlossen,Economy,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2023-05-08
+SO0cfc4d9c,C149c3ed2,2024-07-27,Abgeschlossen,Premium,Net45,Vertrieb,H.-Dieter-Preiß-Allee 26,Aue,84887,2024-07-31
+SOfd4082aa,C791dd684,2024-12-29,In Bearbeitung,Premium,Immediate,IT,Ruthild-Trommler-Platz 271,Chemnitz,36295,2025-01-12
+SOa2e6aa1d,C8a588552,2023-04-22,Abgeschlossen,Standard,Net30,Finanzen,Frankering 9,Berlin,33535,2023-05-02
+SO76a76e70,,2024-01-05,Neu,Premium,Net30,Finanzen,,,,2024-01-09
+SO3a7ec48d,Cb7027054,2023-03-20,Abgeschlossen,Premium,Immediate,Finanzen,Casparplatz 16,Dachau,56541,2023-03-27
+SOd4f17803,C9694b874,2023-12-05,In Bearbeitung,Economy,Immediate,HR,Weinhagegasse 2/7,Holzminden,70215,2023-12-11
+SO71600204,,2024-07-26,Abgeschlossen,Standard,Net45,Vertrieb,,,,2024-08-01
+SO6369ec79,Ca5ca84fd,2024-10-24,Abgeschlossen,Economy,Net45,Finanzen,Harloffallee 57,Burglengenfeld,56470,2024-11-05
+SO0c651b9b,C33fee75a,2023-09-15,Abgeschlossen,Standard,Net60,Vertrieb,Suse-Trommler-Straße 57,Stollberg,55341,2023-09-21
+SO16eea180,Ce2b8dd42,2023-08-03,Abgeschlossen,Premium,Immediate,Vertrieb,Concetta-Paffrath-Ring 1/6,Stadtroda,92254,2023-08-11
+SO6eea9f15,Cc2f96476,2024-03-28,In Bearbeitung,Express,Net60,Finanzen,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,2024-04-06
+SO2e6ff484,Ca0780042,2024-02-26,In Bearbeitung,Premium,Net45,Einkauf,Knappeplatz 21,Crailsheim,42877,2024-03-10
+SO80b99f25,C1e3f9dc2,2023-08-15,Abgeschlossen,Premium,Immediate,HR,Schinkeplatz 6,Erbisdorf,56716,2023-08-19
+SOb6a047e1,C14fe74cd,2023-07-15,Abgeschlossen,Premium,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2023-07-26
+SO68cbfcd9,C074fd1fe,2024-08-22,Abgeschlossen,Premium,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-08-31
+SOf3a49770,C89e40436,2023-02-13,In Bearbeitung,Economy,Net45,Vertrieb,Hans-Hinrich-Speer-Gasse 0,Bad Brückenau,92164,2023-02-17
+SO82f9538b,C791dd684,2023-11-19,Abgeschlossen,Economy,Immediate,IT,Ruthild-Trommler-Platz 271,Chemnitz,36295,2023-11-22
+SOeba3baf6,,2023-09-22,Abgeschlossen,Standard,Net30,IT,,,,2023-09-28
+SOf58e3e08,C208d4251,2023-06-10,Abgeschlossen,Economy,Net60,Vertrieb,Rahel-Tröst-Gasse 5,Kamenz,19700,2023-06-15
+SOdfecae48,Ca6fb2402,2024-07-20,In Bearbeitung,Express,Immediate,HR,Bohlanderring 1,Riesa,83123,2024-08-01
+SO41d4fd95,C93c31129,2024-08-14,Abgeschlossen,Express,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2024-08-20
+SOb05f5fd7,C5ba38685,2024-07-28,Abgeschlossen,Express,Net30,Finanzen,Hans-Jochen-Stadelmann-Allee 8,Ansbach,01667,2024-08-10
+SO37058103,C88e85c67,2023-11-02,Neu,Standard,Immediate,HR,Denny-Stiffel-Allee 4,Ahaus,19799,2023-11-07
+SO920ebb09,C9e5706df,2023-01-23,Abgeschlossen,Express,Net30,IT,Slavko-Mälzer-Allee 44,Kitzingen,47055,2023-02-02
+SOd1f90b10,Caad1aa13,2023-10-28,Storniert,Express,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2023-11-07
+SO5100bb43,C93c31129,2023-10-26,In Bearbeitung,Express,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2023-11-08
+SO75c7701c,C73179274,2023-02-01,Abgeschlossen,Premium,Net45,IT,Liebeltplatz 8,Tecklenburg,68517,2023-02-11
+SO11407812,C149c3ed2,2023-01-25,Storniert,Standard,Net45,Vertrieb,H.-Dieter-Preiß-Allee 26,Aue,84887,2023-02-04
+SOa51c23ea,C074fd1fe,2024-06-07,Abgeschlossen,Express,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-06-21
+SO17e0c690,C5faf8fa4,2023-01-05,In Bearbeitung,Express,Immediate,Produktion,Margrafring 4,Eisleben,58853,2023-01-15
+SO2a57bd64,Ce6a2c2b8,2023-09-21,Abgeschlossen,Premium,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2023-10-01
+SO0a1e4acd,C6823df44,2024-05-11,Abgeschlossen,Economy,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2024-05-15
+SO6d4b5705,Ce02f09fc,2024-12-21,Abgeschlossen,Economy,Net30,Finanzen,Carmela-Hauffer-Allee 79,Nordhausen,10540,2024-12-27
+SO035add38,,2023-01-01,Storniert,Economy,Net45,Vertrieb,,,,2023-01-05
+SOd05575c7,C1dfe72e0,2024-08-23,Abgeschlossen,Premium,Net60,Vertrieb,Cläre-Trupp-Allee 266,Vilsbiburg,50984,2024-09-03
+SO1cde8407,C37903667,2023-11-11,Abgeschlossen,Standard,Immediate,Vertrieb,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,2023-11-17
+SOa9467fea,Ce36428f7,2023-05-08,Abgeschlossen,Standard,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2023-05-16
+SO52a0c247,Cc8eece15,2023-09-05,In Bearbeitung,Express,Immediate,HR,Trübgasse 01,Klötze,27174,2023-09-14
+SOb2e84887,C5ba38685,2023-10-15,In Bearbeitung,Standard,Net30,Finanzen,Hans-Jochen-Stadelmann-Allee 8,Ansbach,01667,2023-10-27
+SO2c20f48b,Cd492f8b7,2024-12-24,Abgeschlossen,Express,Net60,Vertrieb,Dimitrios-Otto-Platz 6,Hansestadttralsund,87920,2025-01-02
+SOeefd9f94,Ca7e17d6d,2024-03-29,In Bearbeitung,Economy,Immediate,Einkauf,Stolzestr. 6,Eisleben,26809,2024-04-06
+SO5a2210ea,C3a2079e7,2023-06-07,Neu,Premium,Net60,HR,Selim-Stey-Platz 81,Tübingen,64861,2023-06-20
+SO66ca9c48,C3d3a92f2,2024-03-27,In Bearbeitung,Economy,Net45,Finanzen,Schulzstraße 5,Mühlhausen,98869,2024-04-06
+SOa78e5335,Ca5ca84fd,2024-09-10,Abgeschlossen,Express,Net45,Finanzen,Harloffallee 57,Burglengenfeld,56470,2024-09-13
+SOad421749,C37903667,2023-03-09,Storniert,Standard,Immediate,Vertrieb,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,2023-03-17
+SOe657b5e1,Cccb7af4a,2024-05-09,Neu,Economy,Net30,Produktion,Gerhardt-Salz-Ring 7/8,Saarbrücken,43597,2024-05-18
+SO9a7d0d56,Cc8eece15,2023-04-14,Abgeschlossen,Economy,Immediate,HR,Trübgasse 01,Klötze,27174,2023-04-27
+SO6f7945ae,C090d6a5d,2023-09-15,In Bearbeitung,Standard,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2023-09-28
+SOd644f8b0,Cca4b662a,2023-09-07,Storniert,Standard,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2023-09-13
+SOe622d477,C1d5b10d8,2024-10-23,Abgeschlossen,Premium,Net60,Finanzen,Trüballee 8,Garmisch-Partenkirchen,65226,2024-11-03
+SO87cac980,Ce31a37ed,2023-03-29,Abgeschlossen,Standard,Net30,Produktion,Steuerstraße 050,Pfaffenhofen an der Ilm,96335,2023-04-07
+SO647ccfe0,C3b214d0c,2023-10-16,Abgeschlossen,Express,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2023-10-20
+SOc530188e,C7e45efe4,2023-08-06,Abgeschlossen,Standard,Net60,HR,Freudenbergerring 73,Soltau,63446,2023-08-13
+SO00e78d12,C1e3f9dc2,2024-01-09,Abgeschlossen,Express,Immediate,HR,Schinkeplatz 6,Erbisdorf,56716,2024-01-17
+SO36f089b7,C303ae767,2024-05-08,Abgeschlossen,Standard,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2024-05-11
+SOb19003aa,Ca6fb2402,2023-03-19,Abgeschlossen,Standard,Immediate,HR,Bohlanderring 1,Riesa,83123,2023-03-31
+SOc08c34b9,,2023-11-09,Abgeschlossen,Premium,Net60,IT,,,,2023-11-17
+SO5984ca53,Cf27e6ab2,2024-01-15,Abgeschlossen,Economy,Immediate,Finanzen,Ebertgasse 72,Zschopau,76592,2024-01-29
+SO26ac045f,C9d0a5534,2024-06-25,Abgeschlossen,Economy,Net30,Vertrieb,Kraushaarstr. 6,Böblingen,87815,2024-07-01
+SOf2f28373,C476ce152,2024-02-10,Abgeschlossen,Economy,Net45,Finanzen,Steyweg 4/9,Bad Kissingen,42762,2024-02-19
+SOa96f762e,C10539d6f,2023-01-16,In Bearbeitung,Economy,Net60,Vertrieb,Marika-Winkler-Ring 2,Gotha,24192,2023-01-26
+SOd8ca6e5a,Cbbd2eaf2,2024-02-08,Storniert,Economy,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2024-02-19
+SO0cb83188,,2023-05-21,Abgeschlossen,Express,Immediate,IT,,,,2023-05-31
+SO0adeaca5,C0d6afa74,2023-05-16,Neu,Standard,Immediate,IT,Flantzgasse 45,Pirmasens,46243,2023-05-27
+SO420b9f49,C78fffe3c,2023-04-25,In Bearbeitung,Express,Net45,Produktion,Finkeplatz 98,Lichtenfels,12425,2023-04-30
+SOa6f8338a,Cfbe3e017,2023-10-21,Storniert,Economy,Net45,Finanzen,Peggy-Wernecke-Ring 491,Staßfurt,50173,2023-10-28
+SOd1d35673,C149c3ed2,2023-07-05,Abgeschlossen,Express,Net45,Vertrieb,H.-Dieter-Preiß-Allee 26,Aue,84887,2023-07-15
+SO602d4550,C70fc59a9,2023-02-27,In Bearbeitung,Economy,Net45,Produktion,Killerweg 9,Stollberg,26046,2023-03-03
+SO9c1395a6,Cb7027054,2023-02-28,Abgeschlossen,Economy,Immediate,Finanzen,Casparplatz 16,Dachau,56541,2023-03-13
+SOf99e4c42,Cf92b9ef9,2024-05-16,Abgeschlossen,Economy,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2024-05-26
+SO4c5555ba,C12ba5ea5,2024-07-13,In Bearbeitung,Premium,Net45,Produktion,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,2024-07-26
+SOb6990e6a,C03a98fb3,2023-08-03,Abgeschlossen,Standard,Immediate,HR,Trubinstraße 5,Säckingen,51192,2023-08-12
+SOb6aba0f9,C8edb23e1,2023-09-19,Abgeschlossen,Express,Net30,Finanzen,Patricia-Riehl-Straße 178,Gerolzhofen,98994,2023-10-03
+SO61aa40ff,C7b948975,2023-09-29,In Bearbeitung,Economy,Net30,Produktion,Sibel-Hethur-Gasse 4/9,Greiz,31480,2023-10-11
+SO074e5103,,2023-04-01,Storniert,Express,Net45,Finanzen,,,,2023-04-13
+SO40b00d23,Ca6fb2402,2023-03-23,In Bearbeitung,Premium,Immediate,HR,Bohlanderring 1,Riesa,83123,2023-04-01
+SO4659bf55,Cbbd2eaf2,2023-01-27,Abgeschlossen,Economy,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2023-02-08
+SO4a64e655,Cf8b4383e,2024-12-11,Abgeschlossen,Economy,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2024-12-15
+SO52c5da62,C50c4accc,2023-03-22,In Bearbeitung,Economy,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2023-04-05
+SOaf4ca073,Ce17b4857,2023-07-03,Abgeschlossen,Standard,Immediate,Produktion,Gudegasse 35,Gerolzhofen,28992,2023-07-14
+SObfd8f709,C33fee75a,2024-11-12,Abgeschlossen,Premium,Net60,Vertrieb,Suse-Trommler-Straße 57,Stollberg,55341,2024-11-20
+SO9772181f,C6e1dd11f,2023-03-28,Abgeschlossen,Standard,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-04-01
+SO5ddd3bda,Ca6fb2402,2023-02-25,In Bearbeitung,Standard,Immediate,HR,Bohlanderring 1,Riesa,83123,2023-03-01
+SOfaf32dcb,Ced957276,2023-10-03,Abgeschlossen,Premium,Net60,Finanzen,Gießstr. 3,Ludwigslust,00247,2023-10-10
+SOae45f143,C732530f3,2023-09-07,Neu,Premium,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2023-09-13
+SO1c41bdf9,C70fc59a9,2024-01-05,Abgeschlossen,Express,Net45,Produktion,Killerweg 9,Stollberg,26046,2024-01-14
+SOcfaa01b2,,2024-12-11,Abgeschlossen,Express,Net30,Vertrieb,,,,2024-12-22
+SO10476f6d,C754b752d,2023-11-18,In Bearbeitung,Economy,Net60,Produktion,Edda-Dobes-Allee 47,Füssen,63264,2023-11-26
+SO1d4fb555,C79696c5b,2023-07-10,In Bearbeitung,Economy,Net30,HR,Langernweg 00,Ebern,97027,2023-07-17
+SOa59b4596,Ce80237a3,2023-04-30,Abgeschlossen,Standard,Net60,Finanzen,Krauseallee 86,Gadebusch,06411,2023-05-14
+SO7a551462,C79696c5b,2023-12-16,Abgeschlossen,Standard,Net30,HR,Langernweg 00,Ebern,97027,2023-12-20
+SOe5766ddb,,2024-05-15,Abgeschlossen,Premium,Net30,Vertrieb,,,,2024-05-23
+SOa55fa219,C7b948975,2024-07-06,Abgeschlossen,Premium,Net30,Produktion,Sibel-Hethur-Gasse 4/9,Greiz,31480,2024-07-12
+SO56cf428f,Ce02f09fc,2024-04-11,Neu,Express,Net30,Finanzen,Carmela-Hauffer-Allee 79,Nordhausen,10540,2024-04-18
+SO9af56c11,Cf8b4383e,2024-03-22,Abgeschlossen,Economy,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2024-03-26
+SO2a2aae8a,C4d8dda40,2023-07-06,Abgeschlossen,Standard,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2023-07-15
+SO3c7d2738,C924c7be9,2024-12-25,Storniert,Standard,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2024-12-30
+SO7a0a8584,C924c7be9,2024-07-07,Abgeschlossen,Standard,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2024-07-15
+SObde421e5,Cc5d4ef9a,2024-07-29,Abgeschlossen,Economy,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2024-08-03
+SOe3d3a2db,C1d070d6e,2023-07-10,Abgeschlossen,Standard,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2023-07-23
+SO1fb71ffa,C3efad3f9,2023-06-30,In Bearbeitung,Premium,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2023-07-12
+SO1987e894,Ce11e2927,2024-05-09,Abgeschlossen,Standard,Net30,Einkauf,Schenkstraße 2/3,Genthin,92129,2024-05-20
+SO1cbbf40b,Caad1aa13,2024-06-11,Storniert,Economy,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2024-06-25
+SO0fd664e7,C1423b9b6,2024-10-15,Neu,Express,Immediate,Einkauf,Zirmeweg 3,Aue,78802,2024-10-24
+SO426b9d22,Cccb7af4a,2024-12-08,Abgeschlossen,Express,Net30,Produktion,Gerhardt-Salz-Ring 7/8,Saarbrücken,43597,2024-12-15
+SOe11bbbb0,Cbbd2eaf2,2024-05-16,Abgeschlossen,Express,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2024-05-21
+SOc0411fb0,Ce475e957,2023-06-21,Abgeschlossen,Economy,Net30,Produktion,Ingeborg-Kroker-Straße 52,Donaueschingen,38965,2023-06-30
+SOecd8386c,Ccb63ede4,2023-05-23,Abgeschlossen,Standard,Net60,Finanzen,Isabel-Fischer-Gasse 4,Göttingen,82330,2023-06-05
+SO2f50f04e,,2023-12-03,Abgeschlossen,Premium,Net30,Produktion,,,,2023-12-08
+SO963d2ab3,C118056f7,2023-06-08,In Bearbeitung,Premium,Net45,IT,Knut-Klemm-Allee 25,Nördlingen,19018,2023-06-15
+SO2a386491,Cd6f978c2,2023-09-20,Abgeschlossen,Standard,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2023-10-02
+SO94e56565,C0d6afa74,2023-09-16,Storniert,Standard,Immediate,IT,Flantzgasse 45,Pirmasens,46243,2023-09-30
+SO0624ac45,Cc5d4ef9a,2024-02-12,Abgeschlossen,Economy,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2024-02-15
+SOd6df1e44,C1d5b10d8,2023-12-05,Abgeschlossen,Premium,Net60,Finanzen,Trüballee 8,Garmisch-Partenkirchen,65226,2023-12-09
+SOff7758b3,C37903667,2024-04-07,Abgeschlossen,Premium,Immediate,Vertrieb,Rolf-Dieter-Otto-Straße 02,Fallingbostel,69611,2024-04-18
+SO241319e6,C2745d577,2023-08-06,In Bearbeitung,Premium,Net30,Einkauf,Lindnerstraße 3,Lichtenfels,80488,2023-08-17
+SOe0900fd9,Caad1aa13,2024-06-25,Abgeschlossen,Premium,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2024-07-09
+SO3ff2d7d5,C6e1dd11f,2023-06-10,In Bearbeitung,Express,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-06-16
+SO1bd6393a,C967d50a7,2024-04-04,Abgeschlossen,Economy,Net60,Produktion,Stefani-Trubin-Gasse 08,Bützow,31958,2024-04-08
+SOac53246c,,2023-11-11,Abgeschlossen,Express,Net45,Vertrieb,,,,2023-11-15
+SOb12b43c7,C18e0e6ec,2024-07-03,Abgeschlossen,Premium,Immediate,IT,Karzstraße 1/6,Soltau,27322,2024-07-11
+SOc0158968,C75f9d5e2,2023-04-26,Neu,Premium,Net45,IT,Catrin-Stolze-Weg 2,Naila,97646,2023-05-09
+SO528f3242,C5faf8fa4,2024-10-13,Abgeschlossen,Express,Immediate,Produktion,Margrafring 4,Eisleben,58853,2024-10-22
+SO19f668f5,C7e45efe4,2023-08-01,In Bearbeitung,Express,Net60,HR,Freudenbergerring 73,Soltau,63446,2023-08-06
+SO94249511,,2023-03-31,Abgeschlossen,Economy,Immediate,Vertrieb,,,,2023-04-06
+SOb1cec40a,C1e3f9dc2,2024-10-22,In Bearbeitung,Standard,Immediate,HR,Schinkeplatz 6,Erbisdorf,56716,2024-11-03
+SO78fcc75b,C9a904d0d,2024-07-05,Abgeschlossen,Express,Immediate,Einkauf,Elly-Reising-Weg 62,Emmendingen,60774,2024-07-15
+SOcef06fbd,Cd492f8b7,2023-02-01,Abgeschlossen,Economy,Net60,Vertrieb,Dimitrios-Otto-Platz 6,Hansestadttralsund,87920,2023-02-13
+SO242b3870,Cc5d4ef9a,2023-07-28,Abgeschlossen,Premium,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2023-08-09
+SOa87701b5,Ce6a2c2b8,2023-09-27,Abgeschlossen,Standard,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2023-10-01
+SO03f3a76b,C0641716f,2023-11-21,In Bearbeitung,Express,Net30,Produktion,Friedericke-Stoll-Platz 8,Olpe,72629,2023-12-04
+SO7392a394,,2024-10-28,Abgeschlossen,Premium,Immediate,HR,,,,2024-11-08
+SO23c75908,C138a901b,2023-12-23,Abgeschlossen,Express,Net30,Finanzen,Junckenstraße 1/9,Amberg,22886,2024-01-01
+SO976e4adf,C1011d7bf,2024-02-21,Abgeschlossen,Express,Net45,Produktion,Gina-Wilms-Ring 699,Stade,27017,2024-02-27
+SO97730406,,2023-01-24,Abgeschlossen,Express,Immediate,IT,,,,2023-02-01
+SO999f10ab,C99bf0109,2024-05-02,Abgeschlossen,Premium,Net30,IT,Dolores-Fiebig-Straße 572,Schwarzenberg,39271,2024-05-06
+SOa227b222,C5bd787f1,2024-05-27,In Bearbeitung,Economy,Net30,Einkauf,Heinz-Gerd-Mangold-Allee 62,Hannover,61654,2024-06-07
+SOeebc1190,C12619206,2023-11-04,Abgeschlossen,Standard,Net45,Produktion,Gudering 020,Riesa,15654,2023-11-08
+SOe05fe18d,C6e3f51bd,2024-12-01,In Bearbeitung,Premium,Net60,Produktion,Junckenweg 60,Kötzting,26111,2024-12-05
+SO406198d9,Cb7027054,2024-05-05,Abgeschlossen,Express,Immediate,Finanzen,Casparplatz 16,Dachau,56541,2024-05-12
+SO20b4c80e,C5ba38685,2024-10-22,In Bearbeitung,Standard,Net30,Finanzen,Hans-Jochen-Stadelmann-Allee 8,Ansbach,01667,2024-11-03
+SOa34f8544,Ca14a6d03,2024-06-07,Abgeschlossen,Express,Immediate,Einkauf,Henning-Hering-Weg 9/2,Strausberg,80979,2024-06-19
+SO4e2c63c1,,2024-08-27,Abgeschlossen,Economy,Net60,Finanzen,,,,2024-09-09
+SO4f414b63,C86091f04,2024-02-21,Abgeschlossen,Premium,Net60,Vertrieb,Belinda-Junitz-Platz 7,Berlin,98933,2024-02-28
+SOcb34ff09,C7b5c9682,2023-08-21,In Bearbeitung,Express,Immediate,Finanzen,Gorlitzgasse 4/5,Parchim,28489,2023-08-27
+SO4031ce57,C5ba38685,2024-08-17,Abgeschlossen,Premium,Net30,Finanzen,Hans-Jochen-Stadelmann-Allee 8,Ansbach,01667,2024-08-23
+SO78046828,Cca4b662a,2023-04-08,Abgeschlossen,Premium,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2023-04-19
+SO49b915b0,Ce4454bbe,2024-06-05,Storniert,Premium,Net45,Produktion,Katarzyna-Tschentscher-Gasse 9/2,Büsingen am Hochrhein,10710,2024-06-08
+SO7cae6d42,Ce36428f7,2023-03-08,Abgeschlossen,Premium,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2023-03-12
+SOee28ce29,C7b948975,2023-07-13,Neu,Express,Net30,Produktion,Sibel-Hethur-Gasse 4/9,Greiz,31480,2023-07-26
+SO426bba4b,C1dfe72e0,2024-07-15,Abgeschlossen,Premium,Net60,Vertrieb,Cläre-Trupp-Allee 266,Vilsbiburg,50984,2024-07-20
+SO606626fe,C138a901b,2024-08-07,Abgeschlossen,Standard,Net30,Finanzen,Junckenstraße 1/9,Amberg,22886,2024-08-19
+SO1b1d8a84,,2023-12-28,In Bearbeitung,Economy,Net60,Einkauf,,,,2024-01-06
+SOd3c26d1c,Cc5d4ef9a,2024-11-04,Storniert,Standard,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2024-11-12
+SOaa43ec04,C6e1dd11f,2024-10-06,Neu,Express,Net45,IT,Mansgasse 8/3,Mayen,96366,2024-10-16
+SO5ff6bd86,Cb4400cf7,2023-08-17,Abgeschlossen,Express,Net45,Finanzen,Butteweg 533,Luckenwalde,22352,2023-08-26
+SObb36a3ed,C732530f3,2023-10-13,Storniert,Premium,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2023-10-22
+SOe88655ca,C9670ea64,2023-11-14,Neu,Economy,Net60,Vertrieb,Nermin-Hövel-Ring 6/5,Anklam,32787,2023-11-19
+SO9fe2fad1,C3cc6e59d,2024-10-21,Storniert,Standard,Net45,IT,Fred-Scheuermann-Weg 711,Böblingen,55971,2024-10-25
+SO6c3c52e0,Ce17b4857,2023-01-05,Neu,Economy,Immediate,Produktion,Gudegasse 35,Gerolzhofen,28992,2023-01-12
+SO6780325b,Cbbd2eaf2,2023-03-24,Abgeschlossen,Standard,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2023-04-04
+SOf9b65dd4,Cc1fa55aa,2023-03-01,Neu,Economy,Immediate,Einkauf,Janette-Ebert-Platz 71,Eichstätt,83282,2023-03-12
+SO78a7da77,C04fc253d,2024-08-31,In Bearbeitung,Express,Net60,IT,Scheibeplatz 41,Grimmen,27826,2024-09-08
+SO468d5863,C04fc253d,2023-02-24,Abgeschlossen,Premium,Net60,IT,Scheibeplatz 41,Grimmen,27826,2023-03-04
+SO13b83a35,C2b4198e0,2024-10-06,Abgeschlossen,Premium,Net60,IT,Scholzallee 6,Hechingen,09114,2024-10-13
+SOf4476f34,C3f843499,2023-01-13,Neu,Standard,Immediate,Finanzen,Siegmar-Dörr-Allee 45,Ingolstadt,72649,2023-01-25
+SO2a88f46b,C9e5706df,2024-07-13,Abgeschlossen,Standard,Net30,IT,Slavko-Mälzer-Allee 44,Kitzingen,47055,2024-07-27
+SO386390c3,,2023-09-15,Abgeschlossen,Economy,Net30,Finanzen,,,,2023-09-20
+SO60ae0628,C7b5c9682,2023-10-11,Abgeschlossen,Economy,Immediate,Finanzen,Gorlitzgasse 4/5,Parchim,28489,2023-10-22
+SOad808c09,C4fe20e66,2023-07-28,In Bearbeitung,Standard,Net30,Vertrieb,Hettnerweg 79,Lübben,11491,2023-08-06
+SO9f366f79,Cf8b4383e,2024-04-24,Abgeschlossen,Standard,Immediate,Finanzen,Stumpfstr. 5/3,Calau,17276,2024-04-28
+SO1902b3cd,C791dd684,2024-09-01,Storniert,Standard,Immediate,IT,Ruthild-Trommler-Platz 271,Chemnitz,36295,2024-09-05
+SOc427a8c3,C22dc1560,2023-07-04,Abgeschlossen,Express,Net45,Einkauf,Emilia-Holzapfel-Gasse 0,Bergzabern,86309,2023-07-16
+SO479cfe00,Cf92b9ef9,2024-07-10,Abgeschlossen,Standard,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2024-07-18
+SO1167a446,,2023-07-31,Abgeschlossen,Economy,Net45,Einkauf,,,,2023-08-03
+SOef74ccc4,Cc4b33ba9,2023-09-23,Neu,Express,Net45,Einkauf,Maria-Loos-Ring 39,Osterburg,62204,2023-09-29
+SO29304685,C73e2fe44,2024-08-09,Neu,Standard,Net30,Einkauf,Hansjürgen-Stiffel-Gasse 76,Mallersdorf,05293,2024-08-21
+SOa42eb2a2,,2023-03-17,Abgeschlossen,Economy,Net30,IT,,,,2023-03-24
+SO2d9d5462,,2024-11-24,In Bearbeitung,Economy,Net60,Finanzen,,,,2024-12-02
+SOe13df3cd,Cf27e6ab2,2024-12-14,Abgeschlossen,Economy,Immediate,Finanzen,Ebertgasse 72,Zschopau,76592,2024-12-20
+SOd91cb917,Cf2dabd90,2024-06-29,Abgeschlossen,Economy,Net30,IT,Roselinde-Hoffmann-Gasse 2,Bogen,37255,2024-07-07
+SO3e936d21,C2b4198e0,2024-12-10,In Bearbeitung,Economy,Net60,IT,Scholzallee 6,Hechingen,09114,2024-12-21
+SOabb77d20,C2745d577,2023-06-10,Abgeschlossen,Standard,Net30,Einkauf,Lindnerstraße 3,Lichtenfels,80488,2023-06-18
+SOb4428841,Ce17b4857,2023-06-09,Storniert,Economy,Immediate,Produktion,Gudegasse 35,Gerolzhofen,28992,2023-06-14
+SO43387e3a,C074fd1fe,2024-06-26,Abgeschlossen,Economy,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-07-05
+SO1bbbbce6,C414c6e9c,2023-04-17,Abgeschlossen,Standard,Net60,HR,Jacqueline-Albers-Ring 1,Bremervörde,94877,2023-04-26
+SOc482b59e,C18e0e6ec,2024-04-08,In Bearbeitung,Standard,Immediate,IT,Karzstraße 1/6,Soltau,27322,2024-04-16
+SO0c34e9df,,2023-01-07,In Bearbeitung,Premium,Net45,Finanzen,,,,2023-01-17
+SO438b44de,C9694b874,2024-06-24,Abgeschlossen,Economy,Immediate,HR,Weinhagegasse 2/7,Holzminden,70215,2024-06-28
+SO4495745c,C868f6ecf,2024-04-26,Abgeschlossen,Economy,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2024-04-29
+SOcb993e06,Cc5d4ef9a,2023-09-18,Storniert,Economy,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2023-09-27
+SOedce66ae,Cb66030de,2024-06-01,Storniert,Standard,Immediate,HR,Benita-Hahn-Gasse 0,Olpe,39057,2024-06-04
+SO6561fbbb,Ce36428f7,2024-11-24,Abgeschlossen,Premium,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2024-12-04
+SO1d9f7811,C138a901b,2023-03-10,Storniert,Express,Net30,Finanzen,Junckenstraße 1/9,Amberg,22886,2023-03-18
+SO6abd2a23,C6e1dd11f,2023-07-23,Neu,Standard,Net45,IT,Mansgasse 8/3,Mayen,96366,2023-08-02
+SO2e81b158,Cfa474de8,2024-04-02,In Bearbeitung,Economy,Net30,Einkauf,Gerti-Hornig-Ring 20,Artern,32059,2024-04-14
+SO9e18305c,C0b7bb4bc,2023-07-07,In Bearbeitung,Standard,Net60,IT,Veronica-Gunpf-Ring 1/4,Regensburg,41895,2023-07-21
+SO97ebe642,,2023-05-26,Abgeschlossen,Premium,Net30,Produktion,,,,2023-05-29
+SOd12f060f,C846484d1,2024-01-04,Abgeschlossen,Premium,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2024-01-16
+SO13867181,Ce36428f7,2024-09-17,In Bearbeitung,Express,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2024-09-20
+SO152ca405,C50c4accc,2023-09-28,Storniert,Standard,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2023-10-05
+SO4bbf87aa,Cf6f02706,2023-11-18,Abgeschlossen,Express,Net30,HR,Monja-Linke-Platz 9/4,Jena,23885,2023-11-27
+SOd07d979e,,2023-08-20,Neu,Economy,Net60,Finanzen,,,,2023-09-03
+SOb0c0f45c,Ce475e957,2024-05-24,Storniert,Economy,Net30,Produktion,Ingeborg-Kroker-Straße 52,Donaueschingen,38965,2024-05-27
+SO826e489c,C42e5a792,2023-05-03,Abgeschlossen,Express,Net60,Einkauf,Zahnring 6,Sonneberg,58768,2023-05-12
+SO08932a82,C924c7be9,2023-07-30,Neu,Express,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2023-08-13
+SO0c1d8e50,C38361d92,2023-08-05,Abgeschlossen,Economy,Net45,Vertrieb,Inge-Vollbrecht-Straße 5/7,Wesel,78380,2023-08-14
+SO61b702de,C9670ea64,2024-10-20,Abgeschlossen,Standard,Net60,Vertrieb,Nermin-Hövel-Ring 6/5,Anklam,32787,2024-10-31
+SO9a605fe5,,2024-07-03,Abgeschlossen,Standard,Immediate,Produktion,,,,2024-07-10
+SO00fd679c,,2024-01-23,Abgeschlossen,Express,Immediate,HR,,,,2024-01-31
+SO857c71f7,Cf02cd960,2024-11-15,Abgeschlossen,Premium,Net45,Finanzen,Geislerstr. 09,Ahaus,57787,2024-11-18
+SO5b1d7dae,Cd6f978c2,2024-08-06,Abgeschlossen,Express,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2024-08-12
+SO7978a422,Cda8e4736,2023-09-15,Abgeschlossen,Standard,Immediate,Vertrieb,Mirjam-Aumann-Allee 97,Oberviechtach,56295,2023-09-23
+SO3e1e0a13,C6e1dd11f,2024-10-11,Abgeschlossen,Standard,Net45,IT,Mansgasse 8/3,Mayen,96366,2024-10-20
+SO8364599d,Cf4a92678,2023-12-01,In Bearbeitung,Economy,Net30,Vertrieb,Mälzerstraße 2/9,Pirmasens,54479,2023-12-09
+SO647858d6,Ce6a2c2b8,2024-03-25,Abgeschlossen,Express,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2024-04-07
+SO70531f6d,C724c4e71,2023-07-14,Abgeschlossen,Express,Net30,IT,Cornelia-Stumpf-Straße 3,Tirschenreuth,89544,2023-07-18
+SO6fd4e360,,2024-09-09,Abgeschlossen,Premium,Net60,Vertrieb,,,,2024-09-16
+SO560933b4,C82cd3970,2023-12-24,Abgeschlossen,Economy,Immediate,Einkauf,Gerta-Schottin-Platz 7/3,Dessau,70013,2024-01-01
+SObf20ad7e,Cbab00c56,2024-10-11,Neu,Economy,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2024-10-20
+SO20c772ef,C5faf8fa4,2023-09-02,Abgeschlossen,Economy,Immediate,Produktion,Margrafring 4,Eisleben,58853,2023-09-11
+SO04a3bf0e,,2024-08-31,Storniert,Express,Net30,Einkauf,,,,2024-09-03
+SOb7b7454f,Cdf1d8dba,2023-08-25,Abgeschlossen,Premium,Net30,Produktion,Jan-Peter-Graf-Straße 44,Erbisdorf,63899,2023-09-03
+SOe998cc60,C4c2e5d03,2023-10-19,In Bearbeitung,Economy,Net30,Vertrieb,Wulffstraße 176,Hildburghausen,60665,2023-10-23
+SO428b3bd5,Cbbd2eaf2,2024-11-27,Abgeschlossen,Premium,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2024-12-08
+SO8f22c3b1,Cb66030de,2023-10-11,Abgeschlossen,Economy,Immediate,HR,Benita-Hahn-Gasse 0,Olpe,39057,2023-10-23
+SO7a5cb415,C3a861bec,2023-05-22,In Bearbeitung,Economy,Immediate,Produktion,Keudelstr. 404,Tübingen,80401,2023-05-27
+SOa2874605,C4c2e5d03,2023-06-11,Abgeschlossen,Economy,Net30,Vertrieb,Wulffstraße 176,Hildburghausen,60665,2023-06-20
+SO298e02fb,C9f23f455,2024-01-22,Abgeschlossen,Economy,Net60,Vertrieb,Urte-Trüb-Allee 8/1,Wetzlar,06259,2024-01-29
+SO47641c88,C5c74d310,2024-03-23,Neu,Express,Net45,HR,Laszlo-Beer-Allee 5/5,Lübz,64486,2024-04-04
+SO5fc97471,Cf92b9ef9,2023-07-25,Abgeschlossen,Express,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2023-08-03
+SObd21ea58,C6e3f51bd,2023-10-01,Abgeschlossen,Premium,Net60,Produktion,Junckenweg 60,Kötzting,26111,2023-10-13
+SOaedaa448,Cdd38e6d1,2023-09-24,Abgeschlossen,Economy,Net45,Vertrieb,Hölzenbecherstraße 979,Gera,33658,2023-09-29
+SOf72e760a,C18de9483,2024-06-02,Abgeschlossen,Economy,Immediate,HR,Änne-Finke-Gasse 846,Böblingen,23001,2024-06-10
+SOcb6c53dc,C3eb6018e,2023-03-04,Neu,Standard,Immediate,Einkauf,Ian-Schmiedt-Ring 318,Hechingen,54916,2023-03-18
+SO378a7d88,Cca4b662a,2024-10-03,In Bearbeitung,Premium,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2024-10-15
+SO04b1702b,C3f13b32e,2023-10-07,Abgeschlossen,Standard,Immediate,Finanzen,Zobelplatz 505,Illertissen,90367,2023-10-21
+SO62d6ebac,C3a2079e7,2023-05-22,Abgeschlossen,Standard,Net60,HR,Selim-Stey-Platz 81,Tübingen,64861,2023-06-05
+SO279aa4ea,Ce80237a3,2024-06-08,Abgeschlossen,Economy,Net60,Finanzen,Krauseallee 86,Gadebusch,06411,2024-06-14
+SO966e9a12,C13afda51,2024-09-23,Neu,Premium,Immediate,Finanzen,Stadelmannring 7/5,Luckenwalde,04063,2024-10-01
+SOca55b40c,,2023-03-12,Abgeschlossen,Express,Net60,Vertrieb,,,,2023-03-15
+SOb1a32336,Cf3039fb6,2024-08-07,In Bearbeitung,Standard,Net45,Produktion,Dehmelgasse 8,Tübingen,62313,2024-08-16
+SObbcf3819,C0cb40719,2023-09-14,Abgeschlossen,Premium,Immediate,IT,Heide-Henschel-Weg 24,Eichstätt,70502,2023-09-20
+SO1b4085e6,C846484d1,2024-05-22,Abgeschlossen,Premium,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2024-05-25
+SO13bc98b8,C9694b874,2023-09-04,In Bearbeitung,Premium,Immediate,HR,Weinhagegasse 2/7,Holzminden,70215,2023-09-12
+SOf4862ffb,C8edb23e1,2023-06-18,In Bearbeitung,Express,Net30,Finanzen,Patricia-Riehl-Straße 178,Gerolzhofen,98994,2023-06-30
+SO91750b2e,Caad1aa13,2023-11-18,Abgeschlossen,Express,Net30,Finanzen,Patberggasse 1/2,Hamburg,36750,2023-12-02
+SO00d1bae6,C208d4251,2024-12-26,In Bearbeitung,Express,Net60,Vertrieb,Rahel-Tröst-Gasse 5,Kamenz,19700,2025-01-04
+SOec6da3c8,Ca26869df,2024-06-26,Abgeschlossen,Economy,Net60,Vertrieb,Röhrdanzstraße 893,Meiningen,11415,2024-07-06
+SOa223e63f,Cf3039fb6,2023-10-23,Neu,Economy,Net45,Produktion,Dehmelgasse 8,Tübingen,62313,2023-10-30
+SObe2f238a,Cca4b662a,2024-03-02,Storniert,Economy,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2024-03-06
+SOe824d682,,2023-06-27,Storniert,Economy,Net60,Vertrieb,,,,2023-07-11
+SO56a493bc,Ca5f4ad0f,2023-11-03,Neu,Economy,Net60,Produktion,Edith-Killer-Gasse 5/3,Apolda,13347,2023-11-09
+SO42476a68,C7fd098ba,2024-11-04,Abgeschlossen,Standard,Net30,Finanzen,Zobelstr. 2,Tübingen,50946,2024-11-07
+SO311e1c83,Ce02f09fc,2023-07-31,Abgeschlossen,Economy,Net30,Finanzen,Carmela-Hauffer-Allee 79,Nordhausen,10540,2023-08-08
+SO373d5c8e,C18e0e6ec,2024-04-03,In Bearbeitung,Express,Immediate,IT,Karzstraße 1/6,Soltau,27322,2024-04-15
+SO8d2fffce,C967d50a7,2024-10-08,In Bearbeitung,Standard,Net60,Produktion,Stefani-Trubin-Gasse 08,Bützow,31958,2024-10-19
+SO180f4732,Cd891b141,2023-03-18,Abgeschlossen,Express,Immediate,Produktion,Hermannweg 87,Feuchtwangen,58642,2023-03-30
+SO35fd5812,C4999e9b6,2023-12-09,Storniert,Premium,Net60,Einkauf,Thanelstraße 0,Weißwasser,61095,2023-12-22
+SOd8d6cf01,C149c3ed2,2023-09-27,Neu,Economy,Net45,Vertrieb,H.-Dieter-Preiß-Allee 26,Aue,84887,2023-10-10
+SOa7bd0109,C81185451,2024-10-18,Abgeschlossen,Economy,Net60,IT,Susana-Geisel-Ring 6/0,Weißenfels,93279,2024-10-21
+SO03fd9542,Ce11e2927,2023-01-12,Abgeschlossen,Premium,Net30,Einkauf,Schenkstraße 2/3,Genthin,92129,2023-01-26
+SO566255bb,C18de9483,2024-06-27,Storniert,Premium,Immediate,HR,Änne-Finke-Gasse 846,Böblingen,23001,2024-07-04
+SO7ce637a6,C88e85c67,2023-06-07,Neu,Express,Immediate,HR,Denny-Stiffel-Allee 4,Ahaus,19799,2023-06-14
+SO7dea2861,C93c31129,2023-12-10,In Bearbeitung,Standard,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2023-12-20
+SOd45e76c2,C8edb23e1,2024-06-26,Abgeschlossen,Standard,Net30,Finanzen,Patricia-Riehl-Straße 178,Gerolzhofen,98994,2024-07-09
+SO85276c4d,,2024-01-31,Storniert,Standard,Net45,HR,,,,2024-02-05
+SO9a88787e,Ca39b1a71,2024-09-30,In Bearbeitung,Economy,Net60,Einkauf,Felicia-Ziegert-Allee 57,Ribnitz-Damgarten,60272,2024-10-09
+SO3f8ab95a,C12ba5ea5,2023-12-11,Storniert,Express,Net45,Produktion,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,2023-12-25
+SOefed5b18,C9e5706df,2024-05-27,In Bearbeitung,Economy,Net30,IT,Slavko-Mälzer-Allee 44,Kitzingen,47055,2024-06-08
+SOdd835730,Cfcd5712c,2023-12-13,Abgeschlossen,Economy,Net60,HR,Roman-Graf-Platz 466,Koblenz,25761,2023-12-21
+SOd5a342f4,C0d6afa74,2024-07-19,Abgeschlossen,Express,Immediate,IT,Flantzgasse 45,Pirmasens,46243,2024-08-01
+SOf93c0048,C78fffe3c,2023-06-28,Abgeschlossen,Economy,Net45,Produktion,Finkeplatz 98,Lichtenfels,12425,2023-07-02
+SO2d8d7fb2,C0fe26680,2023-08-05,Abgeschlossen,Premium,Net30,Produktion,Robert-Kraus-Ring 24,Freudenstadt,38123,2023-08-12
+SO6e4fe0d2,C77030f3e,2024-11-12,Abgeschlossen,Standard,Immediate,Finanzen,Lea-Linke-Straße 231,Mallersdorf,81615,2024-11-16
+SO38e77e26,Caddd63d9,2023-02-14,Abgeschlossen,Economy,Net30,Einkauf,Reisingstraße 976,Vilsbiburg,55495,2023-02-20
+SOda183f57,Ca7e17d6d,2024-11-11,Abgeschlossen,Standard,Immediate,Einkauf,Stolzestr. 6,Eisleben,26809,2024-11-16
+SO0360e32a,C04fc253d,2024-12-04,Storniert,Express,Net60,IT,Scheibeplatz 41,Grimmen,27826,2024-12-15
+SOf405dd60,Cc755aa91,2023-04-27,In Bearbeitung,Economy,Net45,Vertrieb,Jacob-Anders-Straße 29,Reutlingen,91832,2023-05-04
+SO2815bf50,Cdfca3639,2024-06-07,Abgeschlossen,Express,Immediate,Vertrieb,Adolphgasse 7,Göppingen,44477,2024-06-14
+SO6ca0b561,C1dfe72e0,2023-10-25,Neu,Premium,Net60,Vertrieb,Cläre-Trupp-Allee 266,Vilsbiburg,50984,2023-11-03
+SO906ee286,C1d070d6e,2023-04-18,Abgeschlossen,Express,Net60,Einkauf,Drubplatz 5/0,Marienberg,67927,2023-04-29
+SO4c786866,Cf7d98e3f,2023-07-03,In Bearbeitung,Express,Immediate,Vertrieb,Winklergasse 6,Borna,78151,2023-07-11
+SOeab8234d,C924c7be9,2024-04-24,Abgeschlossen,Standard,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2024-04-30
+SO570d3034,C50c4accc,2024-08-20,Abgeschlossen,Economy,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2024-08-30
+SO50dfc8a6,C73179274,2023-10-26,Abgeschlossen,Express,Net45,IT,Liebeltplatz 8,Tecklenburg,68517,2023-11-01
+SO8c1b8b56,Cbc09ea39,2024-11-11,Abgeschlossen,Premium,Net60,Finanzen,Sabine-Striebitz-Gasse 7,Oranienburg,49005,2024-11-16
+SOa1bba5aa,Cb0fb7360,2023-10-18,In Bearbeitung,Standard,Net60,IT,Marietta-Heidrich-Straße 93,Werdau,25728,2023-10-23
+SOf4000f1e,Cbbd2eaf2,2023-03-09,Storniert,Economy,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2023-03-14
+SObca92b3c,Cf6f02706,2023-04-27,Abgeschlossen,Standard,Net30,HR,Monja-Linke-Platz 9/4,Jena,23885,2023-05-11
+SOf0eb9278,Cf27e6ab2,2024-09-02,Abgeschlossen,Standard,Immediate,Finanzen,Ebertgasse 72,Zschopau,76592,2024-09-05
+SOe1540289,C70fc59a9,2024-08-11,Neu,Standard,Net45,Produktion,Killerweg 9,Stollberg,26046,2024-08-19
+SO7e59ccfc,C80d63928,2024-09-17,In Bearbeitung,Express,Net45,Produktion,Hansjörg-Ring-Allee 8/6,Burglengenfeld,25754,2024-09-27
+SO6a5324c2,C9a904d0d,2024-12-09,Abgeschlossen,Economy,Immediate,Einkauf,Elly-Reising-Weg 62,Emmendingen,60774,2024-12-22
+SO50a6d025,C3f13b32e,2023-09-21,Abgeschlossen,Express,Immediate,Finanzen,Zobelplatz 505,Illertissen,90367,2023-10-04
+SO144549ba,C3efad3f9,2023-03-31,Abgeschlossen,Premium,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2023-04-13
+SO37b9e01c,C0fe26680,2023-04-27,Abgeschlossen,Economy,Net30,Produktion,Robert-Kraus-Ring 24,Freudenstadt,38123,2023-05-09
+SO6dbae273,Cf4a92678,2024-08-06,In Bearbeitung,Premium,Net30,Vertrieb,Mälzerstraße 2/9,Pirmasens,54479,2024-08-17
+SO80899217,Cf4a92678,2023-01-15,Abgeschlossen,Economy,Net30,Vertrieb,Mälzerstraße 2/9,Pirmasens,54479,2023-01-26
+SOc952e594,C0b362343,2023-05-07,In Bearbeitung,Economy,Net60,Einkauf,Mohauptallee 575,Bayreuth,69313,2023-05-11
+SO6a362c93,C1d5b10d8,2024-04-20,Abgeschlossen,Economy,Net60,Finanzen,Trüballee 8,Garmisch-Partenkirchen,65226,2024-04-23
+SObe9a4634,C84e2e1fd,2023-04-06,Abgeschlossen,Express,Net60,Produktion,Pieperallee 2/5,Cuxhaven,38754,2023-04-11
+SO810d8852,,2024-12-06,Abgeschlossen,Economy,Net45,IT,,,,2024-12-18
+SO0d779538,Cde58dcd9,2024-08-05,Abgeschlossen,Premium,Net30,HR,Trubring 2,Rastatt,82510,2024-08-12
+SOc6aa20d5,C090d6a5d,2024-11-09,In Bearbeitung,Economy,Net30,Produktion,Södingstr. 6/9,Aschaffenburg,43476,2024-11-21
+SO316bb298,C5faf8fa4,2024-03-14,Abgeschlossen,Economy,Immediate,Produktion,Margrafring 4,Eisleben,58853,2024-03-17
+SO748fe614,C3b214d0c,2024-10-27,Abgeschlossen,Premium,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2024-10-31
+SO3952e0b6,C0b7bb4bc,2023-08-27,Abgeschlossen,Premium,Net60,IT,Veronica-Gunpf-Ring 1/4,Regensburg,41895,2023-09-04
+SO8ffb17cc,Cccb7af4a,2024-12-05,Abgeschlossen,Premium,Net30,Produktion,Gerhardt-Salz-Ring 7/8,Saarbrücken,43597,2024-12-19
+SO36dc2ff9,C6e1dd11f,2024-11-28,Abgeschlossen,Express,Net45,IT,Mansgasse 8/3,Mayen,96366,2024-12-02
+SOc18700a4,C70fc59a9,2023-03-30,Abgeschlossen,Premium,Net45,Produktion,Killerweg 9,Stollberg,26046,2023-04-05
+SOece9dee9,C9e5706df,2023-03-28,In Bearbeitung,Premium,Net30,IT,Slavko-Mälzer-Allee 44,Kitzingen,47055,2023-04-03
+SO858c5d0e,C70fc59a9,2024-02-13,In Bearbeitung,Economy,Net45,Produktion,Killerweg 9,Stollberg,26046,2024-02-25
+SO5fff424a,Ca14a6d03,2023-03-19,Abgeschlossen,Standard,Immediate,Einkauf,Henning-Hering-Weg 9/2,Strausberg,80979,2023-03-22
+SO15adafd3,Cf92b9ef9,2024-02-02,Storniert,Standard,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2024-02-08
+SO5ee4d0ce,C71d6670a,2023-12-09,Abgeschlossen,Standard,Net30,HR,Carolin-Weihmann-Ring 32,Bersenbrück,39852,2023-12-20
+SO7c3d323f,C14fe74cd,2023-11-02,In Bearbeitung,Premium,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2023-11-07
+SO333907d7,C3d3a92f2,2024-07-23,Abgeschlossen,Premium,Net45,Finanzen,Schulzstraße 5,Mühlhausen,98869,2024-08-04
+SO545df91e,C5bd787f1,2024-08-15,Storniert,Standard,Net30,Einkauf,Heinz-Gerd-Mangold-Allee 62,Hannover,61654,2024-08-22
+SO2b475c27,C4d8dda40,2024-01-22,Storniert,Economy,Net45,Finanzen,Elsa-Hauffer-Allee 53,Roth,87312,2024-01-30
+SO6771de69,C9e5706df,2023-12-13,Neu,Economy,Net30,IT,Slavko-Mälzer-Allee 44,Kitzingen,47055,2023-12-19
+SO21c58f44,C22dc1560,2024-08-06,Neu,Economy,Net45,Einkauf,Emilia-Holzapfel-Gasse 0,Bergzabern,86309,2024-08-19
+SO4fdf5605,,2023-07-02,Abgeschlossen,Economy,Net30,Produktion,,,,2023-07-16
+SO9e8b837e,Cc755aa91,2023-02-13,In Bearbeitung,Economy,Net45,Vertrieb,Jacob-Anders-Straße 29,Reutlingen,91832,2023-02-21
+SOce1ddf3d,C8b18ddea,2023-01-28,Abgeschlossen,Express,Net60,Produktion,Liliana-Baum-Straße 5,Flöha,20515,2023-02-08
+SO79038199,,2024-10-06,Neu,Standard,Immediate,IT,,,,2024-10-09
+SO7ebd6dd9,C18e0e6ec,2024-02-20,Abgeschlossen,Express,Immediate,IT,Karzstraße 1/6,Soltau,27322,2024-02-26
+SO2f97010a,C78fffe3c,2024-08-28,Abgeschlossen,Premium,Net45,Produktion,Finkeplatz 98,Lichtenfels,12425,2024-08-31
+SOb01660f2,C3ae31983,2024-05-07,Abgeschlossen,Express,Net30,Vertrieb,Schenkstr. 66,Lippstadt,80235,2024-05-14
+SO028835f3,Cf3039fb6,2024-05-29,In Bearbeitung,Economy,Net45,Produktion,Dehmelgasse 8,Tübingen,62313,2024-06-04
+SOcc36b544,Cc5d4ef9a,2023-01-13,Abgeschlossen,Economy,Net30,HR,Holstenstraße 9/6,Beeskow,78999,2023-01-26
+SO4a0694dc,C9a904d0d,2023-08-07,Storniert,Economy,Immediate,Einkauf,Elly-Reising-Weg 62,Emmendingen,60774,2023-08-13
+SOd88ed5eb,C1423b9b6,2024-06-20,Abgeschlossen,Economy,Immediate,Einkauf,Zirmeweg 3,Aue,78802,2024-06-30
+SOacab95ec,C14fe74cd,2023-03-31,In Bearbeitung,Economy,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2023-04-07
+SOe010e865,Ce2b8dd42,2024-04-28,Abgeschlossen,Premium,Immediate,Vertrieb,Concetta-Paffrath-Ring 1/6,Stadtroda,92254,2024-05-05
+SO3dcbacf9,Ca5ca84fd,2023-01-01,Abgeschlossen,Express,Net45,Finanzen,Harloffallee 57,Burglengenfeld,56470,2023-01-07
+SO504f9016,Cec472c61,2024-07-05,Abgeschlossen,Economy,Immediate,HR,Frank-Peter-Zahn-Platz 730,Calw,76455,2024-07-17
+SOcf38883c,C04fc253d,2023-10-27,Abgeschlossen,Premium,Net60,IT,Scheibeplatz 41,Grimmen,27826,2023-11-02
+SOb28e8d3f,C275f50b1,2024-09-28,In Bearbeitung,Standard,Net30,Vertrieb,Dörschnerplatz 3/1,Germersheim,68843,2024-10-04
+SO5935c76a,C04fc253d,2023-05-30,Storniert,Express,Net60,IT,Scheibeplatz 41,Grimmen,27826,2023-06-06
+SO648b215c,Ccb63ede4,2024-01-22,Abgeschlossen,Economy,Net60,Finanzen,Isabel-Fischer-Gasse 4,Göttingen,82330,2024-01-29
+SOf03b61c5,C4999e9b6,2024-10-14,Abgeschlossen,Standard,Net60,Einkauf,Thanelstraße 0,Weißwasser,61095,2024-10-27
+SOfa3a3ee6,Ce6a2c2b8,2024-11-19,Abgeschlossen,Express,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2024-11-26
+SOa1570d57,C3eb6018e,2024-07-04,Abgeschlossen,Standard,Immediate,Einkauf,Ian-Schmiedt-Ring 318,Hechingen,54916,2024-07-16
+SO157dfcc7,C1dfe72e0,2024-02-16,Abgeschlossen,Standard,Net60,Vertrieb,Cläre-Trupp-Allee 266,Vilsbiburg,50984,2024-02-26
+SO198dca83,C2b4198e0,2023-07-22,In Bearbeitung,Express,Net60,IT,Scholzallee 6,Hechingen,09114,2023-07-27
+SO046a099a,Ce4454bbe,2024-12-28,Abgeschlossen,Economy,Net45,Produktion,Katarzyna-Tschentscher-Gasse 9/2,Büsingen am Hochrhein,10710,2025-01-09
+SO7674c107,C96c2fc47,2023-02-16,Abgeschlossen,Standard,Net45,Finanzen,Dietzallee 6/8,Roding,15331,2023-02-25
+SOa4d1a107,Cca45c3ff,2023-09-27,Storniert,Standard,Net60,Finanzen,Elfie-Junck-Gasse 907,Potsdam,98445,2023-10-03
+SO8c0aa831,C414c6e9c,2024-02-29,Abgeschlossen,Standard,Net60,HR,Jacqueline-Albers-Ring 1,Bremervörde,94877,2024-03-10
+SOf876b03a,Cd492f8b7,2024-04-20,In Bearbeitung,Economy,Net60,Vertrieb,Dimitrios-Otto-Platz 6,Hansestadttralsund,87920,2024-04-27
+SO446b5e0e,C7e45efe4,2024-03-13,Abgeschlossen,Express,Net60,HR,Freudenbergerring 73,Soltau,63446,2024-03-22
+SOdcd84548,,2024-04-14,In Bearbeitung,Express,Net30,IT,,,,2024-04-27
+SO4b7ca9c9,,2024-02-01,Neu,Economy,Net60,Produktion,,,,2024-02-05
+SO068ffd43,C92a82ca8,2023-01-29,Neu,Economy,Net60,IT,Hendrik-Faust-Ring 3/0,Prenzlau,08665,2023-02-01
+SOf9304e14,,2023-11-07,Abgeschlossen,Express,Net30,Einkauf,,,,2023-11-18
+SOc6edb6bc,C6823df44,2024-04-25,In Bearbeitung,Economy,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2024-05-01
+SO0ae1e5b8,Cc637d361,2023-11-14,Storniert,Economy,Immediate,Finanzen,Dehmelplatz 148,Groß-Gerau,49880,2023-11-23
+SObba9f125,C868f6ecf,2024-02-07,Abgeschlossen,Economy,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2024-02-15
+SOc39bec21,,2023-05-23,Abgeschlossen,Economy,Net30,Produktion,,,,2023-06-03
+SO8e4d5c4a,Ca39b1a71,2023-03-02,Abgeschlossen,Express,Net60,Einkauf,Felicia-Ziegert-Allee 57,Ribnitz-Damgarten,60272,2023-03-05
+SO2cf1870a,C73ed6f51,2024-07-02,In Bearbeitung,Economy,Net45,Produktion,Henckallee 0,Seelow,67411,2024-07-05
+SO412a91cf,C7f1819d2,2023-12-01,Abgeschlossen,Premium,Net30,Einkauf,Adam-Gunpf-Allee 596,Badibling,69652,2023-12-05
+SOb05d479a,C7f1819d2,2024-08-27,Storniert,Express,Net30,Einkauf,Adam-Gunpf-Allee 596,Badibling,69652,2024-09-06
+SOe104aec1,Cdd38e6d1,2024-12-20,Abgeschlossen,Economy,Net45,Vertrieb,Hölzenbecherstraße 979,Gera,33658,2024-12-29
+SO106ed66a,C846484d1,2023-03-21,Neu,Economy,Net60,Vertrieb,Ortwin-Weiß-Gasse 690,Viersen,33241,2023-04-04
+SO93a8668b,C31bd71a6,2023-03-09,Abgeschlossen,Express,Immediate,Vertrieb,Weinholdring 47,Beeskow,97556,2023-03-21
+SOeca1a93a,C732530f3,2023-12-26,Abgeschlossen,Express,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2024-01-09
+SO6eafd578,C16aa833e,2024-01-26,Abgeschlossen,Express,Net45,HR,Hornichstraße 4,Saarbrücken,00022,2024-02-09
+SO2489f3bd,C03157cee,2023-02-28,Abgeschlossen,Economy,Net30,Vertrieb,Gundolf-Salz-Weg 5/1,Kaiserslautern,88197,2023-03-08
+SO4cacede4,C88e85c67,2023-06-06,Abgeschlossen,Economy,Immediate,HR,Denny-Stiffel-Allee 4,Ahaus,19799,2023-06-18
+SOf5b997c2,Cf614c1fb,2023-02-03,In Bearbeitung,Express,Net45,Vertrieb,Heinzplatz 3/1,Freital,01120,2023-02-11
+SO45dc111e,Cdf1d8dba,2024-01-07,Abgeschlossen,Economy,Net30,Produktion,Jan-Peter-Graf-Straße 44,Erbisdorf,63899,2024-01-20
+SO1cd4ed04,Cec472c61,2024-06-09,In Bearbeitung,Standard,Immediate,HR,Frank-Peter-Zahn-Platz 730,Calw,76455,2024-06-14
+SOd1b24cad,C03157cee,2024-05-07,Abgeschlossen,Express,Net30,Vertrieb,Gundolf-Salz-Weg 5/1,Kaiserslautern,88197,2024-05-11
+SO7fba8692,C8fbcc7b1,2023-12-22,Neu,Economy,Net60,Produktion,Jürgen-Schmiedecke-Platz 2/0,Bergzabern,90976,2024-01-04
+SO66b11575,Cbab00c56,2023-01-09,Storniert,Express,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2023-01-20
+SOeb576c67,C868f6ecf,2024-06-10,In Bearbeitung,Standard,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2024-06-22
+SO0eb45402,Cde58dcd9,2024-07-08,In Bearbeitung,Standard,Net30,HR,Trubring 2,Rastatt,82510,2024-07-18
+SOf0b82569,,2023-07-21,In Bearbeitung,Express,Immediate,Finanzen,,,,2023-08-01
+SO525ce407,C476ce152,2023-07-17,In Bearbeitung,Economy,Net45,Finanzen,Steyweg 4/9,Bad Kissingen,42762,2023-07-20
+SO1ce0acb8,Cd6f978c2,2024-02-15,Abgeschlossen,Economy,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2024-02-25
+SO34437909,Cb7027054,2023-11-10,In Bearbeitung,Standard,Immediate,Finanzen,Casparplatz 16,Dachau,56541,2023-11-16
+SO3f60829d,,2024-06-25,Abgeschlossen,Standard,Immediate,Finanzen,,,,2024-06-30
+SO33398bd6,Ce6a2c2b8,2024-05-13,Neu,Express,Net60,IT,Theresia-Lübs-Platz 0,Wertingen,80053,2024-05-25
+SOa7ddb2a9,Cccb7af4a,2024-06-25,Abgeschlossen,Premium,Net30,Produktion,Gerhardt-Salz-Ring 7/8,Saarbrücken,43597,2024-07-03
+SO2a5b0476,C138a901b,2024-04-25,Abgeschlossen,Premium,Net30,Finanzen,Junckenstraße 1/9,Amberg,22886,2024-05-06
+SO1e04cb0a,C2b4198e0,2024-07-28,Neu,Economy,Net60,IT,Scholzallee 6,Hechingen,09114,2024-08-04
+SOea7e1294,C70fc59a9,2023-02-23,Abgeschlossen,Express,Net45,Produktion,Killerweg 9,Stollberg,26046,2023-03-07
+SO3ddb0235,C878b9a97,2024-08-23,Abgeschlossen,Standard,Net30,Produktion,Bonbachweg 060,Rothenburg ob der Tauber,62672,2024-09-03
+SO4feadbb2,Cbab00c56,2023-10-12,Abgeschlossen,Premium,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2023-10-23
+SOa1434624,Cbab00c56,2024-06-19,Storniert,Premium,Net30,Produktion,Ottostraße 3/7,Rudolstadt,74612,2024-06-28
+SO5dd7edf8,Cf92b9ef9,2024-08-02,In Bearbeitung,Express,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2024-08-14
+SO8b187965,Cde58dcd9,2024-02-06,In Bearbeitung,Express,Net30,HR,Trubring 2,Rastatt,82510,2024-02-20
+SOe52d9121,C924c7be9,2023-03-03,Abgeschlossen,Premium,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2023-03-12
+SOa3c7ddea,C70fc59a9,2023-10-15,Storniert,Standard,Net45,Produktion,Killerweg 9,Stollberg,26046,2023-10-23
+SOeeb7544e,C924c7be9,2023-04-29,Abgeschlossen,Premium,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2023-05-04
+SO6efc3164,Cc4b33ba9,2023-11-11,Abgeschlossen,Premium,Net45,Einkauf,Maria-Loos-Ring 39,Osterburg,62204,2023-11-22
+SOf8f36b6b,C5bd787f1,2023-06-23,In Bearbeitung,Premium,Net30,Einkauf,Heinz-Gerd-Mangold-Allee 62,Hannover,61654,2023-06-28
+SO8b8c171e,,2023-03-27,Abgeschlossen,Economy,Net45,Produktion,,,,2023-04-08
+SO473a57d1,C12ba5ea5,2024-03-07,Abgeschlossen,Express,Net45,Produktion,Ralf-Weinhold-Weg 860,Gunzenhausen,32754,2024-03-15
+SO7cc5c7f1,Cf92b9ef9,2023-05-06,Neu,Premium,Net30,Produktion,Heinplatz 24,Pirmasens,09319,2023-05-10
+SO31c85f5e,C4fe20e66,2023-02-03,Abgeschlossen,Premium,Net30,Vertrieb,Hettnerweg 79,Lübben,11491,2023-02-13
+SOa0bc6eab,,2023-01-16,Abgeschlossen,Standard,Net60,Vertrieb,,,,2023-01-22
+SOa4bbd511,,2024-04-29,Abgeschlossen,Express,Immediate,Finanzen,,,,2024-05-03
+SO67305f25,C96c2fc47,2023-05-24,Abgeschlossen,Premium,Net45,Finanzen,Dietzallee 6/8,Roding,15331,2023-05-29
+SOa0df67fc,Cd6f978c2,2024-02-12,Abgeschlossen,Premium,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2024-02-19
+SOc46c5cf0,C6823df44,2023-12-07,In Bearbeitung,Express,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2023-12-16
+SO9cd9988e,C476ce152,2024-09-29,Abgeschlossen,Economy,Net45,Finanzen,Steyweg 4/9,Bad Kissingen,42762,2024-10-06
+SOd4dc503d,C82cd3970,2024-11-03,In Bearbeitung,Premium,Immediate,Einkauf,Gerta-Schottin-Platz 7/3,Dessau,70013,2024-11-12
+SOed403549,C0cb40719,2024-11-05,In Bearbeitung,Premium,Immediate,IT,Heide-Henschel-Weg 24,Eichstätt,70502,2024-11-12
+SO099bc881,C12619206,2023-01-15,Abgeschlossen,Economy,Net45,Produktion,Gudering 020,Riesa,15654,2023-01-26
+SO90e25caa,,2023-01-13,Abgeschlossen,Express,Immediate,HR,,,,2023-01-18
+SOc1febeed,C3275bcae,2024-09-08,Abgeschlossen,Standard,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2024-09-15
+SO13254cbb,C3275bcae,2023-05-30,Abgeschlossen,Standard,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2023-06-02
+SO4982c60a,C1bcb89ea,2023-09-03,Abgeschlossen,Express,Net60,HR,Drewesgasse 2,Norden,84998,2023-09-07
+SO6f831be0,C1dfe72e0,2023-07-10,Abgeschlossen,Premium,Net60,Vertrieb,Cläre-Trupp-Allee 266,Vilsbiburg,50984,2023-07-14
+SOb2e65e73,C8edb23e1,2023-12-20,In Bearbeitung,Express,Net30,Finanzen,Patricia-Riehl-Straße 178,Gerolzhofen,98994,2023-12-29
+SO14e73140,Ce36428f7,2024-11-06,Abgeschlossen,Standard,Immediate,HR,Schulzplatz 8,Tecklenburg,55706,2024-11-16
+SO57e3a322,C2591bc00,2024-12-29,In Bearbeitung,Economy,Net60,IT,Harloffstr. 84,Fallingbostel,14045,2025-01-03
+SO5c2be69f,C3b214d0c,2024-02-05,Storniert,Economy,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2024-02-08
+SOe9d01301,C38361d92,2024-09-29,Neu,Economy,Net45,Vertrieb,Inge-Vollbrecht-Straße 5/7,Wesel,78380,2024-10-05
+SO47fdb1df,,2024-10-05,Abgeschlossen,Standard,Net45,IT,,,,2024-10-17
+SOc0ff76fb,Cd6f978c2,2023-07-26,Abgeschlossen,Express,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2023-07-31
+SObcfb0fa2,Cf7d98e3f,2023-12-26,Neu,Standard,Immediate,Vertrieb,Winklergasse 6,Borna,78151,2023-12-30
+SOcd1cd5b6,C93c31129,2024-02-18,Abgeschlossen,Express,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2024-03-02
+SOad35b930,,2023-03-06,Abgeschlossen,Express,Net30,Einkauf,,,,2023-03-14
+SOc8d470c8,C868f6ecf,2024-12-01,Abgeschlossen,Premium,Net45,IT,Huhnstr. 2/4,Burglengenfeld,07348,2024-12-14
+SO00d0a3e9,C4420150f,2024-09-27,Abgeschlossen,Premium,Net60,HR,Carolin-Dobes-Gasse 5/4,Heinsberg,80847,2024-10-06
+SO3bfc54fc,C7b5c9682,2024-07-11,Storniert,Standard,Immediate,Finanzen,Gorlitzgasse 4/5,Parchim,28489,2024-07-19
+SOb7baa40c,Cf614c1fb,2024-08-12,Abgeschlossen,Standard,Net45,Vertrieb,Heinzplatz 3/1,Freital,01120,2024-08-24
+SO30a517b2,C03a98fb3,2024-08-24,In Bearbeitung,Premium,Immediate,HR,Trubinstraße 5,Säckingen,51192,2024-08-30
+SO95e582ed,C38361d92,2023-08-20,Abgeschlossen,Premium,Net45,Vertrieb,Inge-Vollbrecht-Straße 5/7,Wesel,78380,2023-08-29
+SOc7a1cd00,C51b2abf2,2023-09-05,In Bearbeitung,Standard,Net60,Finanzen,Monica-Heuser-Ring 0,Kitzingen,71504,2023-09-13
+SO79276246,C18de9483,2023-12-04,Abgeschlossen,Economy,Immediate,HR,Änne-Finke-Gasse 846,Böblingen,23001,2023-12-18
+SO63744e23,C3efad3f9,2024-03-09,Abgeschlossen,Economy,Net45,Einkauf,Schmidtkering 07,Bruchsal,20345,2024-03-20
+SO105cd076,Cf6f02706,2023-04-16,Abgeschlossen,Premium,Net30,HR,Monja-Linke-Platz 9/4,Jena,23885,2023-04-30
+SOb5ad690f,Cc637d361,2024-06-18,Abgeschlossen,Express,Immediate,Finanzen,Dehmelplatz 148,Groß-Gerau,49880,2024-06-29
+SO20396e31,C81185451,2023-04-06,In Bearbeitung,Express,Net60,IT,Susana-Geisel-Ring 6/0,Weißenfels,93279,2023-04-16
+SObfca6f10,C14fe74cd,2023-05-30,Abgeschlossen,Premium,Net60,HR,Carlos-Hettner-Gasse 679,Gerolzhofen,87323,2023-06-02
+SO8073b202,C1e3f9dc2,2024-09-19,Abgeschlossen,Standard,Immediate,HR,Schinkeplatz 6,Erbisdorf,56716,2024-09-23
+SO929b8783,C1bcb89ea,2024-10-16,Neu,Premium,Net60,HR,Drewesgasse 2,Norden,84998,2024-10-20
+SOe7890217,C93c31129,2023-04-20,Abgeschlossen,Express,Immediate,Einkauf,Ullrichstraße 05,Flöha,66256,2023-04-27
+SO5e7fa777,C2212de05,2024-05-03,Storniert,Express,Net30,Produktion,Gertrud-Bolzmann-Straße 9/3,Lübben,02355,2024-05-16
+SO66df84c7,C924c7be9,2023-06-20,Storniert,Standard,Net45,Einkauf,Löfflergasse 1,Pegnitz,00641,2023-06-23
+SO90983a9d,C303ae767,2023-07-03,In Bearbeitung,Premium,Net45,Vertrieb,Ernst-Dieter-Gumprich-Platz 1,Zossen,68203,2023-07-12
+SO84843271,,2024-02-13,Abgeschlossen,Express,Net30,IT,,,,2024-02-17
+SO04e40c12,Cca4b662a,2023-12-01,Abgeschlossen,Economy,Immediate,Vertrieb,Sabrina-Rust-Straße 83,Gifhorn,77427,2023-12-11
+SO9468dc40,C6823df44,2024-10-02,Abgeschlossen,Economy,Net30,IT,Lachmannallee 72,Wunsiedel,96007,2024-10-12
+SO5cf4e36e,C3b214d0c,2023-09-26,Abgeschlossen,Standard,Net45,Finanzen,Schleichplatz 3,Arnstadt,27336,2023-10-05
+SO88054e8c,C10539d6f,2024-09-24,In Bearbeitung,Standard,Net60,Vertrieb,Marika-Winkler-Ring 2,Gotha,24192,2024-10-08
+SOacd11b19,C0641716f,2024-01-04,Storniert,Premium,Net30,Produktion,Friedericke-Stoll-Platz 8,Olpe,72629,2024-01-11
+SO4218b94e,Cf614c1fb,2024-09-13,Abgeschlossen,Economy,Net45,Vertrieb,Heinzplatz 3/1,Freital,01120,2024-09-16
+SO656b2f40,C50c4accc,2024-07-29,Neu,Economy,Immediate,Vertrieb,Christian-van der Dussen-Gasse 2,Eisleben,03257,2024-08-07
+SO6f814288,,2023-04-19,Abgeschlossen,Standard,Net60,Einkauf,,,,2023-05-02
+SO69a8c6ba,Cc2f96476,2024-06-02,In Bearbeitung,Standard,Net60,Finanzen,Giuseppina-Heydrich-Gasse 16,Eisenach,56875,2024-06-14
+SO3076daee,C9a904d0d,2024-12-12,Storniert,Express,Immediate,Einkauf,Elly-Reising-Weg 62,Emmendingen,60774,2024-12-21
+SOf0553eb0,Ca14a6d03,2024-08-02,Abgeschlossen,Standard,Immediate,Einkauf,Henning-Hering-Weg 9/2,Strausberg,80979,2024-08-12
+SO6411151b,C3a861bec,2023-08-22,In Bearbeitung,Premium,Immediate,Produktion,Keudelstr. 404,Tübingen,80401,2023-09-02
+SO9abee466,,2024-06-16,In Bearbeitung,Economy,Net30,Einkauf,,,,2024-06-23
+SOca6cf981,Cc4b33ba9,2023-02-01,Abgeschlossen,Economy,Net45,Einkauf,Maria-Loos-Ring 39,Osterburg,62204,2023-02-10
+SOc400365b,C8b18ddea,2023-01-01,Abgeschlossen,Standard,Net60,Produktion,Liliana-Baum-Straße 5,Flöha,20515,2023-01-11
+SOdc00d2e9,C88e85c67,2024-12-23,Abgeschlossen,Economy,Immediate,HR,Denny-Stiffel-Allee 4,Ahaus,19799,2024-12-27
+SO33040a05,C6043cf92,2023-11-12,Neu,Premium,Net30,HR,Jähnallee 304,Wismar,83018,2023-11-25
+SOaa8b232f,Cfa474de8,2024-09-20,Abgeschlossen,Economy,Net30,Einkauf,Gerti-Hornig-Ring 20,Artern,32059,2024-10-01
+SOe971e7c4,Cd6f978c2,2024-11-06,Abgeschlossen,Premium,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2024-11-16
+SOa85681a6,C074fd1fe,2024-05-20,In Bearbeitung,Economy,Immediate,IT,Silvia-Hübel-Gasse 6/9,Bad Liebenwerda,98886,2024-06-03
+SO8c128598,C78fffe3c,2023-05-08,In Bearbeitung,Standard,Net45,Produktion,Finkeplatz 98,Lichtenfels,12425,2023-05-17
+SOeebf60aa,C4fe20e66,2024-02-13,Abgeschlossen,Express,Net30,Vertrieb,Hettnerweg 79,Lübben,11491,2024-02-24
+SOfd082466,Cc755aa91,2023-06-06,Storniert,Standard,Net45,Vertrieb,Jacob-Anders-Straße 29,Reutlingen,91832,2023-06-15
+SO6c7f826f,C732530f3,2024-02-16,Abgeschlossen,Economy,Net30,Einkauf,Anatoli-Jessel-Ring 4,Ebersberg,15850,2024-02-25
+SO89ca0fd1,Cfeb0823d,2023-11-23,In Bearbeitung,Premium,Net45,IT,Kramerring 804,Forst,04662,2023-12-04
+SO85cddba8,Ce38cd301,2024-03-22,Abgeschlossen,Express,Net30,Einkauf,Hornichstraße 655,Garmisch-Partenkirchen,92425,2024-03-31
+SO379201d1,C73ed6f51,2024-12-12,Abgeschlossen,Economy,Net45,Produktion,Henckallee 0,Seelow,67411,2024-12-21
+SO8e3b9b60,Ca6fb2402,2024-05-25,Abgeschlossen,Economy,Immediate,HR,Bohlanderring 1,Riesa,83123,2024-05-28
+SO8adbc472,C0b7bb4bc,2024-02-26,Abgeschlossen,Standard,Net60,IT,Veronica-Gunpf-Ring 1/4,Regensburg,41895,2024-03-11
+SO87fc98e9,Cf2dabd90,2023-09-13,In Bearbeitung,Premium,Net30,IT,Roselinde-Hoffmann-Gasse 2,Bogen,37255,2023-09-23
+SOa6b0fb06,Cbc09ea39,2023-02-10,In Bearbeitung,Premium,Net60,Finanzen,Sabine-Striebitz-Gasse 7,Oranienburg,49005,2023-02-23
+SO01b6382f,Cd6f978c2,2024-06-20,Abgeschlossen,Express,Net30,IT,Andrzej-Kreusel-Weg 37,Wertingen,67905,2024-06-23
+SO37fdf171,Ced957276,2024-06-12,Neu,Standard,Net60,Finanzen,Gießstr. 3,Ludwigslust,00247,2024-06-26
+SOf997e34e,C3275bcae,2023-07-10,Abgeschlossen,Economy,Net45,Einkauf,Rennerstr. 1/2,Herford,92356,2023-07-17
+SO5c74bbb2,Cf1e39af6,2023-03-08,In Bearbeitung,Premium,Immediate,Finanzen,Buchholzallee 58,Eutin,10672,2023-03-14
+SO8b03c521,C92a82ca8,2023-05-31,Abgeschlossen,Premium,Net60,IT,Hendrik-Faust-Ring 3/0,Prenzlau,08665,2023-06-08
+SO08ad70b6,Cbbd2eaf2,2024-07-28,Abgeschlossen,Premium,Immediate,Vertrieb,Hamannallee 0/8,Bitterfeld,16942,2024-08-06
